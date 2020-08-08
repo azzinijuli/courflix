@@ -1,4 +1,12 @@
-.hero{
-  color: white;
-  padding: 3rem;
+.hero-wrapper{
+  .hero-background{
+    width: 100vw;
+    max-height: 100vh;
+  }
+  .hero{
+    color: white;
+    padding: 3rem;
+  }
+  
 }
+

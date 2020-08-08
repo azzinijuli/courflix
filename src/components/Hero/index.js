@@ -5,7 +5,11 @@ class Hero extends React.Component{
   render(){
     return(
       <>
-      <p className="hero">{this.props.series[4].description}</p>
+      <div className="hero-wrapper">
+      <img className="hero-background" style={{backgroundImage: this.props.series[0].img}}/>
+      <p></p>
+      <p className="hero">{this.props.series[0].description}</p>
+      </div>
       </>
     )
   }
