@@ -13,10 +13,11 @@ class App extends React.Component {
     };
   }
   render(){
+    const { series } = this.state
     return(
       <>
         <Navbar />
-        <Hero series={this.state.series}/>
+        <Hero series={series}/>
         <Carousel />
       </>
     )

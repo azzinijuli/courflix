@@ -3,12 +3,14 @@ import '../Hero/style.scss'
 
 class Hero extends React.Component{
   render(){
+    const {img, name, description} = this.props.series[3]
     return(
       <>
       <div className="hero-wrapper">
-      <img className="hero-background" style={{backgroundImage: this.props.series[0].img}}/>
-      <p></p>
-      <p className="hero">{this.props.series[0].description}</p>
+        <div className="hero-background" style={{ backgroundImage: `url(${img})` }}> 
+          <p className="hero-title">{name}</p>
+          <p className="hero-description">{description}</p>    
+        </div>
       </div>
       </>
     )
@@ -16,4 +18,3 @@ class Hero extends React.Component{
 }
 
 export default Hero
-

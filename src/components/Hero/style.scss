@@ -1,11 +1,12 @@
 .hero-wrapper{
   .hero-background{
     width: 100vw;
-    max-height: 100vh;
-  }
-  .hero{
-    color: white;
-    padding: 3rem;
+    height: 100vh;
+    object-fit: contain;
+    .hero-title, .hero-description{
+      color: white;
+      padding: 3rem;
+    }
   }
   
 }
