@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Better Call Saul",
+    "description": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer.",
+    "img": "https://image.tmdb.org/t/p/original/AlqSvfI6bmxh31iaJTgjNSemF3D.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Friends",
+    "description": "The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.",
+    "img": "https://image.tmdb.org/t/p/original/wGI8MPfv23B80AF5Yrg1Ss2mVCp.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "description": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+    "img": "https://image.tmdb.org/t/p/original/v3McoNhDgkps4s3Lh12vzdXi0FJ.jpg",
+    "type": "serie"
+  },
+  {
+    "name": "Vikings",
+    "description": "The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes.",
+    "img": "https://image.tmdb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg",
+    "type": "serie"
+  }
+]

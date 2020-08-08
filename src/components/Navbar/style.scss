@@ -1,0 +1,22 @@
+.navbar-wrapper {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  .logo{
+    padding: 0 3rem;
+  }
+  .navbar-elements{
+    display: inline-flex;
+    list-style-type: none;
+    color:white;
+    font-weight: bold;
+    .navbar-element{
+      padding-right: 1.5rem;
+      &:hover{
+        color: #8a8a8a;
+        cursor: pointer;
+        transition: ease-in, 0.3s;
+      }
+    }
+  }
+}
