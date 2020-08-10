@@ -1,26 +1,246 @@
 [
   {
-    "name": "Better Call Saul",
-    "description": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer.",
-    "img": "https://image.tmdb.org/t/p/original/AlqSvfI6bmxh31iaJTgjNSemF3D.jpg",
-    "type": "serie"
-  },
-  {
-    "name": "Friends",
-    "description": "The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.",
-    "img": "https://image.tmdb.org/t/p/original/wGI8MPfv23B80AF5Yrg1Ss2mVCp.jpg",
-    "type": "serie"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "description": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
-    "img": "https://image.tmdb.org/t/p/original/v3McoNhDgkps4s3Lh12vzdXi0FJ.jpg",
-    "type": "serie"
-  },
-  {
+    "id": 1,
+    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
+    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
+    "year": 2013,
+    "percentage": "87% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
     "name": "Vikings",
-    "description": "The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes.",
-    "img": "https://image.tmdb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg",
+    "description": "Este nuevo drama histórico de History Channel está centrado en Ragnar Lothbrok, figura mítica que aseguraba que era el descendiente de Odín, el dios principal de la mitología nórdica. Ragnar Lothbrok tiene un sueño, que es el de explorar nuevas civilizaciones surcando los mares.",
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "Ritos de paso",
+        "img": "https://i.postimg.cc/g0536Xw9/7cui-E0fv-DXn-Cy-Vb-Q5-EXHt-Iz2s-Ar.jpg",
+        "summary": "El guerrero legendario Ragnar, un vikingo que ansía viajar al oeste en busca de riquezas, deberá utilizar todas sus armas para que el jefe de la tribu le conceda los permisos requeridos y poder así cruzar el océano y conquistar nuevos y ambiciosos territorios."
+      },
+      {
+        "title": "La ira de los nórdicos",
+        "img": "https://i.postimg.cc/XvXwJcYc/5-IN9-TOLnqt9dp-IC3h6xnm-GNq-Zuz.jpg",
+        "summary": "Continúa la primera aventura vikinga con el enfrentamiento del guerrero y el jefe de la tribu: mientras Ragnar se prepara para viajar hacia el Oeste, las sospechas de Earl Haraldson sobre los verdaderos objetivos de Ragnar, aumentan."
+      },
+      {
+        "title": "Despojados",
+        "img": "https://i.postimg.cc/tTQYjhZg/8a-I8-Tk-JNja-DWsprm-Q9n-Y73m-Z9i-P.jpg",
+        "summary": "La expedición de Ragnar regresa triunfal a Kattegat, pero allí las fuerzas del conde les despojan del botín, permitiéndoles sólo escoger una pieza por cada hombre. Ragnar elige a Athelstan y regresa a casa. La fe del monje y su voto de castidad le dejan perplejo, pero logra que Athelstan le dé mucha información sobre el reino de Norteumbría."
+      },
+      {
+        "title": "Juicio",
+        "img": "https://i.postimg.cc/q7t30J11/lm-Gx-HLz8-EEx-TSr-N4e44g6w-Cnvy-E.jpg",
+        "summary": "Los vikingos asaltan un pueblo de Norteumbría causando pocas víctimas, dado que los lugareños están en misa, pero Ladgerda mata a Knut, el enviado del conde, cuando este trata de violarla. Al regresar a la playa, los guerreros derrotan a un amplio número de fuerzas británicas, lideradas por lord Wigea por orden del rey Aelle."
+      },
+      {
+        "title": "La batida",
+        "img": "https://i.postimg.cc/tgVYwrgf/z-D7jw2-MA9-DWo-GNk-ERG3zx-A59p-K.jpg",
+        "summary": "Los hombres del conde Haraldson atacan la granja de Ragnar, matando a todo el que se les pone a tiro. Ragnar, Lagertha, Athelstan y los niños logran escapar en un barco, pero el cabeza de familia está gravemente herido. La familia se refugia en casa de Floki donde Ragnar se recupera poco a poco."
+      },
+      {
+        "title": "El funeral",
+        "img": "https://i.postimg.cc/Z5QWfkJp/nx0nvj-TUTKEZj-IZrkcm-Reu-Rf-JYk.jpg",
+        "summary": "El conde acepta el desafío de Ragnar. Como resultado del combate, Ragnar mata a Haraldson, Rollo mata a Svein, y Siggy mata a su desafortunado yerno. Ragnar es aclamado como nuevo conde y ofrece a su antecesor un funeral de honor en el mar."
+      },
+      {
+        "title": "El rescate de un rey",
+        "img":  "https://i.postimg.cc/yxTJnkN8/z8s-Dw-BSk48-Al52-Cd-A9u4vn-Pv-WJQ.jpg",
+        "summary": "Los vikingos asaltan a las fuerzas de Norteumbría y capturan al hermano del rey, Aethelwulf. En un encuentro con el monarca, Ragnar pide 2.000 libras de oro y plata a cambio de su marcha. Aelle acepta, pero exige que uno de los vikingos sea bautizado como cristiano. Rollo se ofrece voluntario."
+      },
+      {
+        "title": "Sacrificio",
+        "img": "https://i.postimg.cc/yxTJnkN8/z8s-Dw-BSk48-Al52-Cd-A9u4vn-Pv-WJQ.jpg",
+        "summary": "Como Lagertha ya no puede tener más hijos, Ragnar se lleva a su familia y seguidores al templo de Uppsala para asistir a un gran rito. Allí, jura fidelidad al rey Horik de Dinamarca, quien designa a Ragnar embajador ante el conde Borg de Gotaland, un rival que quiere usurpar las tierras de Horik."
+      },
+      {
+        "title": "Todo cambia",
+        "img": "https://i.postimg.cc/XYqZcN6n/oy-NW4u6-Dhka-F9m44-RXo3-Lwwc0-WC.jpg",
+        "summary": "La embajada de Ragnar ante el conde Jarl Borg en Gotaland falla cuando el rey Horik de Dinamarca rechaza un compromiso acerca de la tierra en disputa. Conducido por la ambición y la envidia, Rollo decide apoyar a Borg en contra de Ragnar en el enfrentamiento que se avecina como resultado del desacuerdo."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "imgCarousel": "https://i.postimg.cc/fyVhHbDh/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/JzZRVtJr/backdrop.jpg",
+    "year": 1994,
+    "percentage": "98% de coincidencia",
+    "age": "14+",
+    "duration": "10 temporadas",
+    "name": "Friends",
+    "description": "Narra las aventuras y desventuras de seis jóvenes de Nueva York. Rachel, Monica, Phoebe, Ross, Chandler y Joey forman una unida pandilla de amigos que viven en Manhattan. A pesar de los numerosos cambios que se producen en sus vidas, su amistad es inquebrantable en la dura batalla por salir adelante en sus periplos profesionales y personales.",
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "En el que todo empieza",
+        "img": "https://i.postimg.cc/C1XFp8vK/episode01.jpg",
+        "summary": "Rachel abandona a Barry en el altar porque le recuerda a la cabeza de Mr. Potato, se muda al apartamento de Monica y quiere encontrar uno de 'esos trabajos' que los otros tienen. Monica tiene una cita con Paul, el chico de los vinos, que resulta ser poco sincero con ella. Ross está deprimido por el fracaso de su matrimonio, ya que su mujer lo ha abandonado por otra mujer."
+      },
+      {
+        "title": "El de la ecografía al final",
+        "img": "https://i.postimg.cc/J4w1TbD6/episode02.jpg",
+        "summary": "Rachel pierde su anillo de compromiso y el único lugar en el que puede estar es en la lasaña que Monica ha preparado. Ross descubre que su ex-mujer está embarazada y tiene que esperar para la ecografía al lado de Susan. Los padres de Ross y de Monica van a comer a casa de su hija."
+      },
+      {
+        "title": "El del pulgar",
+        "img": "https://i.postimg.cc/xTK9BcL0/episode03.jpg",
+        "summary": "Monica ha empezado a salir con Alan, el primer novio que cae bien a sus amigos. Phoebe devuelve dinero al banco que, por error, le ha ingresado quinientos dólares de más, pero a cambio recibe mucho más dinero. Intenta deshacerse del dinero dándoselo a una pordiosera que le compra un refresco en agradecimiento."
+      },
+      {
+        "title": "El de George Stephanopoulos",
+        "img": "https://i.postimg.cc/T3fTxfcn/episode04.jpg",
+        "summary": "Ross, afectado por ser el aniversario de su primera vez con Carol, va a un partido de hockey con Chandler y Joey y recibe un golpe de disco en la cara; acaban en el hospital, donde Ross revela que Carol ha sido la única mujer con la que ha estado. Rachel recibe una visita de sus antiguas amigas."
+      },
+      {
+        "title": "El del detergente germano oriental",
+        "img": "https://i.postimg.cc/vTnGYmjt/episode05.jpg",
+        "summary": "Chandler y Phoebe deciden romper con sus parejas al mismo tiempo en la misma cafetería. Joey engaña a Monica para que ésta le ayude a volver con una antigua novia; Ross y Rachel tienen una especie de primera cita cuando van a la lavandería juntos."
+      },
+      {
+        "title": "El del trasero",
+        "img": "https://i.postimg.cc/SQYS7ZsY/episode06.jpg",
+        "summary": "Un agente le ofrece a Joey un papel en una película como doble del culo de Al Pacino, pero es despedido; Chandler tiene una cita con una mujer que está casada y tiene un amante; Monica muestra un comportamiento compulsivo cuando Rachel intenta ordenar el apartamento."
+      },
+      {
+        "title": "El del apagón",
+        "img": "https://i.postimg.cc/qvw4MSmS/episode07.jpg",
+        "summary": "Hay un apagón en Nueva York; Chandler queda atrapado en un Cajero Automático con la modelo Jill Goodacre. Ross finalmente se decide a pedirle a Rachel que salga con él cuando ésta se enamora de Paolo, un vecino italiano, mientras buscaba un gato que se había perdido."
+      },
+      {
+        "title": "En el que Nana muere dos veces",
+        "img": "https://i.postimg.cc/xdFQLHVP/episode08.jpg",
+        "summary": "La abuela de Ross y Monica muere dos veces en el hospital y organizar su funeral se convierte en una pesadilla para los Geller porque la abuela no quería el tipo de funeral que ellos desean. En el funeral, todos los hombres miran un partido de fútbol en el televisor portátil de Joey. Chandler descubre que las mujeres piensan que es gay."
+      },
+      {
+        "title": "En el que Superperro se escapa",
+        "img": "https://i.postimg.cc/cJJZKh2H/episode09.jpg",
+        "summary": "Monica cocina la cena de Acción de Gracias para todos porque sus planes fallan. Cuando un globo gigante se escapa por las calles de Nueva York, todos salen a mirarlo pero nadie coge las llaves del apartamento, por lo que se quema la cena. Ross le habla a la barriga de Carol para que el bebé se acostumbre a él."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "imgCarousel": "https://i.postimg.cc/tJVDBsvP/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/jqQhSr0R/backdrop.jpg",
+    "year": 2013,
+    "percentage": "90% de coincidencia",
+    "age": "14+",
+    "duration": "7 temporadas",
+    "name": "Brooklyn Nine-Nine",
+    "description": "Andy Samberg (como el detective Jake Peralta) y Andre Braugher (como el capitán Ray Holt) encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/pdx7yJGS/episode01.jpg",
+        "summary": "El precinto 99 del Departamento de Policía de Nueva York en Brooklyn recibe a un nuevo Comandante, Raymond Holt, quien, a diferencia del ex Capitán, toma muy en serio el trabajo policial, para consternación del talentoso pero despreocupado Detective Jacob Peralta, y la satisfacción de la Detective Amy Santiago"
+      },
+      {
+        "title": "El grafitero",
+        "img": "https://i.postimg.cc/BQKwgVRy/episode02.jpg",
+        "summary": "Cuando Jake llega tarde al trabajo, el Capitán Holt decide seguirlo. Sin embargo, el arresto que hacen resulta complicado. Mientras tanto, un amigo psíquico de Gina se adentra en la cabeza de Charles."
+      },
+      {
+        "title": "El bajón",
+        "img": "https://i.postimg.cc/52WKkmVt/episode03.jpg",
+        "summary": "Con una acumulación de casos no resueltos, Jake se encuentra en una depresión. Mientras tanto, Amy se pone a cargo del Programa de Policía Junior para niños en riesgo, pero sus esfuerzos por inspirarlos fracasan."
+      },
+      {
+        "title": "Un rato con la forense",
+        "img": "https://i.postimg.cc/s2V63D1d/episode04.jpg",
+        "summary": "Jake conoce a una médico forense atractiva, pero su relación ralentiza su trabajo para gran disgusto de sus colegas. Mientras tanto, Amy trata desesperadamente de impresionar a Holt."
+      },
+      {
+        "title": "El buitre",
+        "img": "https://i.postimg.cc/x1Gprbf3/episode05.jpg",
+        "summary": "Un detective de Major Crimes toma el caso de asesinato casi resuelto de Jake y le roba el caso."
+      },
+      {
+        "title": "Halloween",
+        "img": "https://i.postimg.cc/W3z5JWM5/episode06.jpg",
+        "summary": "Jake hace una apuesta tonta con Holt de que puede robar su Medalla de Valor antes de Halloween, mientras que Amy se ve obligada a usar un disfraz mientras está encubierta con Charles."
+      },
+      {
+        "title": "48 horas",
+        "img": "https://i.postimg.cc/vm3PTF61/episode07.jpg",
+        "summary": "Jake arresta estúpidamente a un sospechoso masculino a pesar de no tener pruebas y solo tiene 48 horas para demostrar que lo hizo o liberarlo sin cargos."
+      },
+      {
+        "title": "La vieja escuela",
+        "img": "https://i.postimg.cc/wvr05X2g/episode08.jpg",
+        "summary": "Jake se horroriza cuando su héroe, Jimmy Brogan, un escritor de crímenes, lo acompaña en el trabajo y le amenaza con citarle en un artículo condenatorio. Mientras tanto, Rosa tiene que trabajar en su actitud ante los tribunales."
+      },
+      {
+        "title": "La pizza de Sal",
+        "img": "https://i.postimg.cc/WtL8Csxy/episode09.jpg",
+        "summary": "La pizzería favorita de Jake se incendia y está decidido a demostrar que el dueño no es el responsable. Mientras tanto, Amy está celosa de que se le ofrezca un ascenso a Rosa, y Terry y Gina tienen que contratar a un nuevo especialista en TI."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
+    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
+    "year": 2013,
+    "percentage": "87% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
+    "name": "Vikings",
+    "description": "",
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
+    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
+    "year": 2013,
+    "percentage": "87% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
+    "name": "Vikings",
+    "description": "",
+    "type": "serie"
+  },
+  {
+    "id": 1,
+    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
+    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
+    "year": 2013,
+    "percentage": "87% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
+    "name": "Vikings",
+    "description": "",
+    "type": "serie"
+  },
+  {
+    "id": 1,
+    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
+    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
+    "year": 2013,
+    "percentage": "87% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
+    "name": "Vikings",
+    "description": "",
+    "type": "serie"
+  },
+  {
+    "id": 1,
+    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
+    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
+    "year": 2013,
+    "percentage": "87% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
+    "name": "Vikings",
+    "description": "",
     "type": "serie"
   }
 ]

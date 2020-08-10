@@ -2,11 +2,16 @@
   .hero-background{
     width: 100vw;
     height: 100vh;
-    object-fit: contain;
-    .hero-title, .hero-description{
-      color: white;
-      padding: 3rem;
-    }
+    background-position: top;
+    background-size: cover;
+  }
+  .hero-title{
+    width: 10rem;
+    height: 10rem;
+  } 
+  .hero-description{
+    color: white;
+    padding: 3rem;
   }
   
 }
