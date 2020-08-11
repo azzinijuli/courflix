@@ -177,35 +177,122 @@
     ]
   },
   {
-    "id": 1,
-    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
-    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
+    "id": 4,
+    "imgCarousel": "https://i.postimg.cc/WbfMGVvM/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/ZYHPq3ss/backdrop.jpg",
+    "year": 2009,
+    "percentage": "93% de coincidencia",
+    "age": "16+",
+    "duration": "11 temporadas",
+    "name": "Modern Family",
+    "description": "Una comedia con formato de falso documental que retrata a una típica (o atípica, según se mire) familia americana. Los protagonistas representan tres estructuras familiares muy diferentes: la familia convencional, la pareja homosexual y el hombre maduro casado con una mujer mucho más joven.",
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/501v4NBM/episode01.jpg",
+        "summary": "La familia de Jay trata de funcionar a pesar de la diferencia de edad entre él y su segunda esposa, Gloria. La familia de Claire y Phil trata de castigar a su hijo y vigilar a su hija mayor y su nuevo novio. Mitchell trata de ocultar a su familia que él y su novio Cameron han adoptado una bebé en Vietnam."
+      },
+      {
+        "title": "El ladrón de bicicletas",
+        "img": "https://i.postimg.cc/J0YB5N91/episode02.jpg",
+        "summary": "Jay trata de demostrar a su hijastro que puede ser un buen padre. Phil, por su parte, intenta dar a su hijo una lección robándole la bicicleta, pero se mete en problemas cuando descubre que se ha llevado una bicicleta equivocada. Cameron y Mitchell tienen su primera cita con un grupo de padres de otros bebés."
+      },
+      {
+        "title": "Ven a volar conmigo",
+        "img": "https://i.postimg.cc/DZgG8k64/episode03.jpg",
+        "summary": "Tras cierta insistencia, Jay permite de mala gana que Phil lo acompañe a probar su nueva maqueta de avión, pero una de las maniobras les sale mal. Alex y Gloria van al centro comercial y Gloria trata de convencer a Alex para que se ponga un vestido. Claire tiene una inesperada y sincera conversación entre hermanos con Manny."
+      },
+      {
+        "title": "El incidente",
+        "img": "https://i.postimg.cc/nrhDmRSR/episode04.jpg",
+        "summary": "Dede, la madre de Claire y Mitchell, hace una visita a la familia meses después de haber avergonzado a Jay y Gloria ante toda su familia durante su boda, lo que todos conocen como 'el incidente'. Phil y Claire deciden si el novio de Haley, Dylan, es o no adecuado para acompañarla a un concierto."
+      },
+      {
+        "title": "La cazafortunas",
+        "img": "https://i.postimg.cc/nhDQqQTJ/episode05.jpg",
+        "summary": "La familia entera está invitada a cenar y a ver el fútbol en casa de Jay y Gloria. Una pelea que han tenido Manny y Luke en el colegio provoca una situación muy incómoda entre Gloria y Claire, y la situación empeora cuando alguien pronuncia un adjetivo poco amable."
+      },
+      {
+        "title": "Corre por tu mujer",
+        "img": "https://i.postimg.cc/Gh9Dhfy9/episode06.jpg",
+        "summary": "Es el primer día de un nuevo curso para los niños, y Phil interpreta mal la reacción de Claire ante su nido vacío. Jay y Gloria discuten sobre la ropa que Manny ha decidido ponerse para el primer día de clase. Mitchell y Cameron se preocupan demasiado cuando Lily se hace su primer chichón."
+      },
+      {
+        "title": "En Garde",
+        "img": "https://i.postimg.cc/kXZbVyQs/episode07.jpg",
+        "summary": "Manny empieza a practicar esgrima y resulta ser bastante bueno, el orgulloso entusiasmo de Jay abre una vieja herida de la infancia de Mitchell, haciendo que le eche algo en cara a Claire acerca de su pasado. Mientras, Phil está decidido a descubrir cuáles son los talentos ocultos de Luke."
+      },
+      {
+        "title": "Grandes esperanzas",
+        "img": "https://i.postimg.cc/7PK744bp/episode08.jpg",
+        "summary": "Claire quiere sorprender a Phil con una actuación privada de uno de sus músicos favoritos, pero Phil nunca ha oído hablar de él. Cameron y Mitchell invitan a su amiga Sal a salir de juerga por el centro. Jay organiza una noche en familia para los niños."
+      },
+      {
+        "title": "Fizbo",
+        "img": "https://i.postimg.cc/Xv6BL7Dy/episode09.jpg",
+        "summary": "Phil y Claire han decidido organizarle a Luke la mayor fiesta de cumpleaños con la que pueda soñar un chico, pero cuando Cameron aparece disfrazado del payaso Fizbo se ponen en marcha una serie de acontecimientos que terminan con alguien en el hospital."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "imgCarousel": "",
+    "backdrop": "",
     "year": 2013,
-    "percentage": "87% de coincidencia",
-    "age": "14+",
+    "percentage": "79% de coincidencia",
+    "age": "16+",
     "duration": "6 temporadas",
-    "name": "Vikings",
-    "description": "",
+    "name": "Gossip Girl",
+    "description": "Un selecto grupo de adolescentes privilegiados de una elegante escuela preparatoria en el Upper East Side de Manhattan, cuyas vidas giran en torno al blog de la omnisciente 'Gossip Girl', de identidad desconocida.",
     "type": "serie",
     "episodes": [
       {
         "title": "",
         "img": "",
         "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
+      },
+      {
+        "title": "",
+        "img": "",
+        "summary": ""
       }
     ]
-  },
-  {
-    "id": 1,
-    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
-    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
-    "year": 2013,
-    "percentage": "87% de coincidencia",
-    "age": "14+",
-    "duration": "6 temporadas",
-    "name": "Vikings",
-    "description": "",
-    "type": "serie"
   },
   {
     "id": 1,
