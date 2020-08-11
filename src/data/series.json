@@ -248,86 +248,227 @@
     "type": "serie",
     "episodes": [
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/vBWJnXxV/episode01.jpg",
+        "summary": "'Gossip Girl' informa en su blog que Serena van der Woodsen ha vuelto a la ciudad después de estar un año fuera en un internado. Ésta se entera de que su hermano menor, Eric, ha intentado suicidarse, por lo que decide volver. Su mejor amiga, Blair Waldorf, no la recibe muy bien."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Un brunch salvaje",
+        "img": "https://i.postimg.cc/PrfgLWXC/episode02.jpg",
+        "summary": "Blair le dice a Serena que sabe la razón por la que se fue de Nueva York y además le dice que ya no son más amigas. A su vez, Dan sale con Serena y asisten juntos al almuerzo del padre de Chuck, Bart, el cual mantiene una relación en secreto con la madre de Serena, Lily."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Hiedra venenosa",
+        "img": "https://i.postimg.cc/HWtGsZgG/episode03.jpg",
+        "summary": "Chuck descubre que Serena ha estado yendo al Centro Ostroff, por lo que deduce que Serena está haciendo un tratamiento de rehabilitación ambulatoria, sin saber que en realidad Eric es el que se encuentra en el Centro, debido a su depresión. Chuck se lo cuenta a Blair, y ella lo dice delante de todos los representantes de Ivy League."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Malas noticias",
+        "img": "https://i.postimg.cc/QdHvmjWs/episode04.jpg",
+        "summary": "Blair se emociona cuando su madre, Eleanor, la elige para ser la nueva cara de su línea de ropa. Sin embargo, la felicidad de Blair se desvanece cuando Serena se convierte el centro de atención y Blair se encuentra de nuevo a la sombra de ella. Mientras tanto, Serena y Dan recuerdan una vez más que proceden de dos mundos muy distintos. Además, Nate y Chuck hacen un fin de semana de chicos."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Rompiendo las reglas",
+        "img": "https://i.postimg.cc/fyC12LKW/episode05.jpg",
+        "summary": "Es su primera cita oficial y Dan intenta impresionar a Serena, pero no entiende que ella está más feliz con la cerveza que con el champán. Esa misma noche, Jenny es invitada a la infame fiesta de pijamas de Blair Waldorf y se encuentra en un juego de alto riesgo de 'Verdad o Reto'. Lily descubre que Erik no está en el centro de tratamiento y busca la ayuda de su ex novio, Rufus."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "El relato de la doncella",
+        "img": "https://i.postimg.cc/DyCt1S0B/episode06.jpg",
+        "summary": "Dan se encuentra entre dos chicas cuando su amiga de la infancia, Vanessa, regresa a Nueva York y declara sus sentimientos por él, justo cuando él y Serena están tratando de descubrir qué significan el uno para el otro. En el baile de máscaras, Blair envía a Nate a una búsqueda del tesoro, pero él se distrae por sus sentimientos por Serena. Jenny y Dan disfrazados se cuelan en el baile."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Victor, Victrola",
+        "img": "https://i.postimg.cc/K8wwsCnT/episode07.jpg",
+        "summary": "Serena y Dan finalmente aceptan que están locos el uno por el otro, a pesar de que provienen de mundos opuestos. Chuck piensa en invertir en un club para que su padre se sienta orgulloso de él. Nate se enfrenta a su padre por las drogas que encontró en su casa pero niega tener un problema. Jenny descubre un secreto que sus padres le han estado ocultando. Blair descubre que Nate besó a alguien más en el baile."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Diecisiete velas",
+        "img": "https://i.postimg.cc/SK930Vrv/episode08.jpg",
+        "summary": "Blair se siente desconsolada por el estado actual de su relación con Nate y su reciente indiscreción, pero se las arregla para poner una cara feliz para su fiesta de cumpleaños número 17. Con la esperanza de que Serena y Vanessa puedan unirse, Dan lleva a Vanessa a la fiesta de cumpleaños de Blair. Jenny trae a su madre a casa como una sorpresa, pero Rufus no está listo para perdonar y olvidar."
       },
       {
-        "title": "",
-        "img": "",
-        "summary": ""
+        "title": "Un interesante Día de Acción de Gracias",
+        "img": "https://i.postimg.cc/mkB0yM76/episode09.jpg",
+        "summary": "Dan invita a Serena y su familia a pasar las vacaciones con su familia, creando una situación incómoda para Rufus y Lily. Los niños desconocen su complicado pasado romántico. Mientras tanto, Blair se asusta cuando se entera de que su padre no volverá a casa para Acción de Gracias. Nate pasa las vacaciones con su familia, pero su cena rápidamente va de mal en peor."
       }
     ]
   },
   {
-    "id": 1,
-    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
-    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
-    "year": 2013,
-    "percentage": "87% de coincidencia",
-    "age": "14+",
-    "duration": "6 temporadas",
-    "name": "Vikings",
+    "id": 6,
+    "imgCarousel": "https://i.postimg.cc/mg3xqV2g/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/WzQLRHkh/backdrop.jpg",
+    "year": 2002,
+    "percentage": "80% de coincidencia",
+    "age": "13+",
+    "duration": "2 temporadas",
+    "name": "Los Simuladores",
     "description": "",
-    "type": "serie"
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "Capítulo 1",
+        "img": "https://i.postimg.cc/Znv2LxMZ/episode01.jpg",
+        "summary": "A Galván lo abandona su mujer. Los Simuladores la investigan y lo convierten en el hombre ideal para enamorarla de nuevo."
+      },
+      {
+        "title": "Capítulo 2",
+        "img": "https://i.postimg.cc/HjGKv8qM/episode02.jpg",
+        "summary": "Laguzzi, un usurero despiadado, amenaza de muerte a los hijos de Vanegas, su cliente, si no paga la deuda antes de determinada fecha. Vanegas contrata a Los Simuladores"
+      },
+      {
+        "title": "Capítulo 3",
+        "img": "https://i.postimg.cc/9X4QS53X/episode03.jpg",
+        "summary": "Despiden a Feler tras cuarenta años de trabajo en una fábrica láctea. Los Simuladores se encargarán de conectar a Feler directamente con los dueños de la fábrica."
+      },
+      {
+        "title": "Capítulo 4",
+        "img": "https://i.postimg.cc/s2DV4b9r/episode04.jpg",
+        "summary": "Alicia, oftalmóloga, casada y madre de dos hijos, recibe en su propia casa la visita de Villarreal, un egocéntrico colega español que quiere chantajearla."
+      },
+      {
+        "title": "Capítulo 5",
+        "img": "https://i.postimg.cc/SQwxbTq6/episode05.jpg",
+        "summary": "A la mujer del arquitecto Miguens podrían quedarle pocos meses de vida. El médico recomienda que no le den malas noticias. Pero su hijo está a punto de repetir el año."
+      },
+      {
+        "title": "Capítulo 6",
+        "img": "https://i.postimg.cc/HsXsYwsf/episode06.jpg",
+        "summary": "El Dr. Agustín Mendilaharzu, Presidente de la Nación, sufre de impotencia sexual. Por miedo a que la prensa se entere, se niega a ver un sexólogo. "
+      },
+      {
+        "title": "Capítulo 7",
+        "img": "https://i.postimg.cc/nhxVCXXM/episode07.jpg",
+        "summary": "Los Simuladores entran a un banco para extraer los negativos con fotos de Sorkin, su cliente, junto a su amante, de la caja de seguridad de un extorsionador."
+      },
+      {
+        "title": "Capítulo 8",
+        "img": "https://i.postimg.cc/JzQrJRXx/episode08.jpg",
+        "summary": "Zarazola es un abogado adúltero que desea desprenderse de Laura, su mujer, sin sentir culpa. Contacta a Los Simuladores para que ella lo deje a él."
+      },
+      {
+        "title": "Capítulo 9",
+        "img": "https://i.postimg.cc/cJ9d9TX8/episode09.jpg",
+        "summary": "Milazzo, un falso representante de artistas, explota diversos barrios pobres, cobrando a sus clientes una matrícula para hacerlos famosos y llevarlos a trabajar."
+      }
+    ]
   },
   {
-    "id": 1,
-    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
-    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
-    "year": 2013,
-    "percentage": "87% de coincidencia",
+    "id": 7,
+    "imgCarousel": "https://i.postimg.cc/J06bmx9X/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/VsD9jsdN/backdrop.jpg",
+    "year": 2007,
+    "percentage": "91% de coincidencia",
     "age": "14+",
-    "duration": "6 temporadas",
-    "name": "Vikings",
-    "description": "",
-    "type": "serie"
+    "duration": "7 temporadas",
+    "name": "Mad Men",
+    "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta, y centrada en uno de los más misteriosos ejecutivos de la firma, Donald Draper, un hombre con un gran talento. Mad Men es la mirada a los hombres que dieron forma a las esperanzas y sueños diarios de los americanos de la época.",
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "El humo ciega tus ojos",
+        "img": "https://i.postimg.cc/66dgwvjm/episode01.jpg",
+        "summary": "Es el año 1960 en la ciudad de Nueva York, la glamorosa y poderosa 'Edad de Oro' de la publicidad. Don Draper, el publicista más importante del negocio, lucha por adelantarse a los tiempos que cambian rápidamente y a los jóvenes ejecutivos pisándole los talones."
+      },
+      {
+        "title": "El tocador de señoras",
+        "img": "https://i.postimg.cc/YqRPLwwN/episode02.jpg",
+        "summary": "Don continúa ocultando su vida personal que es cada vez más complicada, incluso ante la invitación de Roger Sterling a abrirse. Mientras tanto, Peggy suspira por el ausente Pete que aún se encuentra en su luna de miel. Mientras, se defiende de los avances de varios de los hombres de Sterling Cooper."
+      },
+      {
+        "title": "Las bodas de Fígaro",
+        "img": "https://i.postimg.cc/xCLx0wRz/episode03.jpg",
+        "summary": "Pete regresa de su luna de miel, emocionado por su nuevo matrimonio, pero en conflicto por su encuentro pasado con Peggy. Después de que su relación comercial con Rachel da un giro imprevisto, Don asiste a una fiesta que ilumina aún más su creciente insatisfacción con su vida actual."
+      },
+      {
+        "title": "Nueva Amsterdam",
+        "img": "https://i.postimg.cc/J4MghzS4/episode04.jpg",
+        "summary": "La vida profesional y personal de Pete se vuelve más complicada a medida que lucha por hacer valer el poder en ambos. Mientras enfrenta la presión de su esposa con respecto a un nuevo apartamento, aliena aún más a Don y pone en peligro su propia posición en Sterling Cooper."
+      },
+      {
+        "title": "5G",
+        "img": "https://i.postimg.cc/YCyy8f0h/episode05.jpg",
+        "summary": "Don Draper gana un importante premio publicitario. Esto ocasionará que su foto sea publicada en la conocida revista Advertising Age y con ella, algunos hechos de su pasado. El director creativo de Sterling Cooper hará lo posible por evitarlo, y es que todavía no está preparado para afrontar la situación. Paralelamente habrá una guerra interna entre dos ejecutivos de cuentas: Ken y Pete."
+      },
+      {
+        "title": "Babilonia",
+        "img": "https://i.postimg.cc/dV0x8Sqb/episode06.jpg",
+        "summary": "En la oficina se descubre un romance secreto. Por su parte, Peggy demuestra que podría ser más válida para la empresa como publicista que como secretaría. Mientras, Rachel debe afrontar los sentimientos contradictorios que tiene hacia Don."
+      },
+      {
+        "title": "Devolviendo el golpe",
+        "img": "https://i.postimg.cc/pdwcMWDv/episode07.jpg",
+        "summary": "Roger va a cenar en la casa de Don, pero no todo sucede tal y como tenían planeado. Ambos tendrán un duro enfrentamiento por un asunto de trabajo que pondrá en peligro su amistad. Mientras, Pete deberá hacer frente a las exigencias de su reciente esposa."
+      },
+      {
+        "title": "El código del vagabundo",
+        "img": "https://i.postimg.cc/prx0ysG1/episode08.jpg",
+        "summary": "Las envidias entre el resto de las secretarias de la agencia no tardarán en salir. Sin embargo, la ingenuidad y baja autoestima de Peggy empiezan a cambiar de rumbo y esta seguirá luchando por lograr su reconocimiento. Pero Olson no es la única en triunfar. El director de arte, Salvatore Romano consigue cerrar un trato importante con un cliente que se siente atraído por él. Mientras tanto, Don continúa enfrentándose a sus recuerdos. "
+      },
+      {
+        "title": "Mira el pajarito",
+        "img": "https://i.postimg.cc/VNrZhr04/episode09.jpg",
+        "summary": "Jim Hobart, el jefe de una agencia rival, está interesado en contratar a Don. Además de tentarlo con una buena oferta económica y más recursos creativos, utilizan a Betty (su esposa) para intentar convencerle de que se una a ellos. Paralelamente, en Sterling Cooper continúan trabajando en la campaña presidencial y el equipo de Don busca nuevas maneras de contrarrestar los últimos anuncios de Kennedy."
+      }
+    ]
   },
   {
-    "id": 1,
-    "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
-    "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
-    "year": 2013,
-    "percentage": "87% de coincidencia",
+    "id": 8,
+    "imgCarousel": "https://i.postimg.cc/P5DF3kkw/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/4yFFMfdz/backdrop.jpg",
+    "year": 2000,
+    "percentage": "95% de coincidencia",
     "age": "14+",
-    "duration": "6 temporadas",
-    "name": "Vikings",
-    "description": "",
-    "type": "serie"
+    "duration": "7 temporadas",
+    "name": "Gilmore Girls",
+    "description": "Ambientada en la encantadora ciudad de Stars Hollow, Connecticut, la serie sigue las cautivadoras vidas de Lorelai y Rory Gilmore, una pareja de madre e hija que tiene una relación con la que la mayoría de la gente solo sueña.",
+    "type": "serie",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/vZwvmgp4/episode01.jpg",
+        "summary": "Después de que Rory es aceptada en la prestigiosa Escuela Preparatoria de Chilton, Lorelai se ve obligada a acudir a sus padres adinerados en busca de ayuda financiera. Sus padres felizmente le prestan el dinero a su hija a cambio de poner fin al distanciamiento y una cena familiar todos los viernes por la noche. "
+      },
+      {
+        "title": "El primer día de Lorelai en Chilton",
+        "img": "https://i.postimg.cc/x1G3Nj2t/episode02.jpg",
+        "summary": "Lorelai se queda dormida el primer día de Rory en Chilton y descubre que toda su ropa buena está en la tintorería. El día de Rory va cuesta abajo a partir de ahí. "
+      },
+      {
+        "title": "Celos familiares",
+        "img": "https://i.postimg.cc/43Jb6C4Z/episode03.jpg",
+        "summary": "Cuando Rory anuncia en la cena del viernes que tiene que elegir un deporte de equipo para jugar en Chilton, Emily insiste en que Richard lleve a Rory al club y le enseñe golf. Aunque Rory tiene un comienzo difícil, pronto se divierte caminando y hablando con Richard. Lorelai y Rory discuten porque ella le dice lo mucho que disfrutó estar con su abuelo Richard en el club."
+      },
+      {
+        "title": "Cacería de venados",
+        "img": "https://i.postimg.cc/s2wPKn1W/episode04.jpg",
+        "summary": "Rory obtiene la primera 'D'de su vida en un ensayo de inglés. Rory se estresa por un exámen sobre Shakespeare que contará como el 20% de su calificación de inglés. Su madre la ayuda a estudiar hasta quedar exhaustas, y se quedan dormidas el día de la gran prueba. En su pánico por llegar a la escuela a tiempo, Rory sufre un accidente automovilístico."
+      },
+      {
+        "title": "El funeral de Canela",
+        "img": "https://i.postimg.cc/qqC8J4wc/episode05.jpg",
+        "summary": "Lorelai admite sentir cosas por alguien. Mientras tanto, Rory está en una relación que avanza poco a poco."
+      },
+      {
+        "title": "El cumpleaños de Rory",
+        "img": "https://i.postimg.cc/Jn0NFbB2/episode06.jpg",
+        "summary": "Rory se enfrenta a su abuela cuando ella quiere organizarle una fiesta formal para su cumpleaños. Mientras tanto, Lorelai organiza una fiesta relajada para celebrar."
+      },
+      {
+        "title": "El primer beso",
+        "img": "https://i.postimg.cc/50rBW6BN/episode07.jpg",
+        "summary": "Rory tiene un momento romántico con Dean, pero se lo oculta a Lorelai. Cuando ella se entera por otra persona, invita a Dean a su casa a ver una película."
+      },
+      {
+        "title": "Amor y nieve",
+        "img": "https://i.postimg.cc/XXS9Xm1R/episode08.jpg",
+        "summary": "Rory queda varada en la casa de sus abuelos a causa de la nieve, mientras que Lorelai pasa el día con su novio. Lane extraña a Rory y decide visitarla."
+      },
+      {
+        "title": "El baile de Rory",
+        "img": "https://i.postimg.cc/kMVZ6Shs/episode09.jpg",
+        "summary": "Rory asiste a su primer baile con Dean y llega tarde a casa, por lo que Emily discute con Lorelai sobre sus dotes de madre."
+      }
+    ]
   }
 ]
