@@ -470,5 +470,113 @@
         "summary": "Rory asiste a su primer baile con Dean y llega tarde a casa, por lo que Emily discute con Lorelai sobre sus dotes de madre."
       }
     ]
+  },
+  {
+    "id": 9,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 1960,
+    "percentage": "91% para ti",
+    "age": "13+",
+    "duration": "1h 48min",
+    "name": "Psicosis",
+    "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates.",
+    "type": "movie"
+  },
+  {
+    "id": 10,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 2004,
+    "percentage": "93% para ti",
+    "age": "16+",
+    "duration": "1h 47min",
+    "name": "Eterno resplandor de una mente sin recuerdos",
+    "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error.",
+    "type": "movie"
+  },
+  {
+    "id": 11,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 1994,
+    "percentage": "86% para ti",
+    "age": "16+",
+    "duration": "1h 49min",
+    "name": "El perfecto asesino",
+    "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar.",
+    "type": "movie"
+  },
+  {
+    "id": 12,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 2018,
+    "percentage": "78% para ti",
+    "age": "16+",
+    "duration": "1h 44min",
+    "name": "Mi obra maestra",
+    "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria.",
+    "type": "movie"
+  },
+  {
+    "id": 13,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 2002,
+    "percentage": "98% para ti",
+    "age": "18+",
+    "duration": "2h 10min",
+    "name": "Ciudad de Dios",
+    "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y a pensar que algún día llegará a ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre finales de los 70 y principios de los 80.",
+    "type": "movie"
+  }
+  {
+    "id": 14,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 1992,
+    "percentage": "90% para ti",
+    "age": "18+",
+    "duration": "1h 39min",
+    "name": "Perros de la calle",
+    "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía.",
+    "type": "movie"
+  }
+  {
+    "id": 15,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 1994,
+    "percentage": "89% para ti",
+    "age": "13+",
+    "duration": "2h 23m",
+    "name": "Sueños de libertad",
+    "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común.",
+    "type": "movie"
+  },
+  {
+    "id": 16,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 2000,
+    "percentage": "75% para ti",
+    "age": "16+",
+    "duration": "1h 42m",
+    "name": "Réquiem por un sueño",
+    "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican.",
+    "type": "movie"
+  },
+  {
+    "id": 17,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 1999,
+    "percentage": "90% para ti",
+    "age": "1999",
+    "duration": "2h 19m",
+    "name": "El club de la pelea",
+    "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más.",
+    "type": "movie"
   }
 ]
