@@ -17,7 +17,7 @@ class App extends React.Component {
     return(
       <>
         <Navbar />
-        <Hero series={series}/>
+        <Hero />
         <Carousel />
       </>
     )

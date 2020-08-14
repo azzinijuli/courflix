@@ -237,8 +237,8 @@
   },
   {
     "id": 5,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/28QVYn93/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/0yCMY77h/backdrop.jpg",
     "year": 2013,
     "percentage": "79% de coincidencia",
     "age": "16+",
@@ -303,7 +303,7 @@
     "age": "13+",
     "duration": "2 temporadas",
     "name": "Los Simuladores",
-    "description": "",
+    "description": "Un grupo de cuatro socios que mediante operativos de simulacro sofisticados resuelven los problemas de gente común  mediante lo que ellos denominan 'operativos de simulacro', que suelen consistir en engañar a quienes generan los problemas de sus clientes.",
     "type": "serie",
     "episodes": [
       {
@@ -473,8 +473,8 @@
   },
   {
     "id": 9,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+    "backdrop": "https://i.postimg.cc/MZdjf7b4/psicosisbackdrop.jpg",
     "year": 1960,
     "percentage": "91% para ti",
     "age": "13+",
@@ -485,8 +485,8 @@
   },
   {
     "id": 10,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/X7PGQnPk/eternobackdrop.jpg",
     "year": 2004,
     "percentage": "93% para ti",
     "age": "16+",
@@ -497,8 +497,8 @@
   },
   {
     "id": 11,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+    "backdrop": "https://i.postimg.cc/52FHrZdd/leonbackdrop.jpg",
     "year": 1994,
     "percentage": "86% para ti",
     "age": "16+",
@@ -509,8 +509,8 @@
   },
   {
     "id": 12,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+    "backdrop": "https://i.postimg.cc/vmr4YfZ0/obrabackdrop.jpg",
     "year": 2018,
     "percentage": "78% para ti",
     "age": "16+",
@@ -521,8 +521,8 @@
   },
   {
     "id": 13,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/90FRN0VJ/ciudadbackground.jpg",
     "year": 2002,
     "percentage": "98% para ti",
     "age": "18+",
@@ -530,11 +530,11 @@
     "name": "Ciudad de Dios",
     "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y a pensar que algún día llegará a ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre finales de los 70 y principios de los 80.",
     "type": "movie"
-  }
+  },
   {
     "id": 14,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+    "backdrop": "https://i.postimg.cc/J40HNsph/reservoirbackdrop.jpg",
     "year": 1992,
     "percentage": "90% para ti",
     "age": "18+",
@@ -542,11 +542,11 @@
     "name": "Perros de la calle",
     "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía.",
     "type": "movie"
-  }
+  },
   {
     "id": 15,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/QMGBZ0hB/shawshankbackdrop.jpg",
     "year": 1994,
     "percentage": "89% para ti",
     "age": "13+",
@@ -557,8 +557,8 @@
   },
   {
     "id": 16,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/HnZcGmkH/requiembackdrop.jpg",
     "year": 2000,
     "percentage": "75% para ti",
     "age": "16+",
@@ -569,14 +569,486 @@
   },
   {
     "id": 17,
-    "imgCarousel": "",
-    "backdrop": "",
+    "imgCarousel": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/B6NtD3DD/fightclubbackdrop.jpg",
     "year": 1999,
     "percentage": "90% para ti",
-    "age": "1999",
+    "age": "18+",
     "duration": "2h 19m",
     "name": "El club de la pelea",
     "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más.",
     "type": "movie"
+  },
+  {
+    "id": 18,
+    "imgCarousel": "https://i.postimg.cc/GmCnDmw5/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/gJwT5Cbh/backdrop.jpg",
+    "year": 1993,
+    "percentage": "73% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
+    "name": "La niñera",
+    "description": "Fran Fine, una joven judía del barrio de Queens de Nueva York, al ser despedida de la tienda donde trabajaba junto a su ex novio, encuentra un empleo como canguro en casa de Maxwell Sheffield, un millonario productor de Broadway que vive solo con sus tres hijos.",
+    "type": "recommended",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/HLzZVpdX/episode01.png",
+        "summary": "Fran consigue un trabajo de niñera para los Sheffield tras haber sido despedida de su trabajo en una tienda de vestidos de novia."
+      },
+      {
+        "title": "Humo, mentiras y canciones de amor",
+        "img": "https://i.postimg.cc/1RbQ9KWP/episode02.png",
+        "summary": "Cuando Brighton es pillado fumando en la escuela, Fran lo lleva a ver a su abuela Yetta para enseñarle una lección."
+      },
+      {
+        "title": "Educando a Fran",
+        "img": "https://i.postimg.cc/0QrTv6Db/episode03.png",
+        "summary": "Fran organiza una fiesta para Maggie y sus amigos con el fin de hacer que Maggie encaje, pero Maxwell está preocupado de que la falta de clase de Fran arruine la sofisticada fiesta."
+      },
+      {
+        "title": "La carabina",
+        "img": "https://i.postimg.cc/Mpm2mJzK/episode04.png",
+        "summary": "Fran y Maggie acaban peleandose después de que el novio de Maggie se interesa por Fran. Maxwell regala a C.C. un perro por su cumpleaños."
+      },
+      {
+        "title": "Cuando el río suena",
+        "img": "https://i.postimg.cc/vm8RP2m7/episode05.png",
+        "summary": "Después de que C.C. intente conectar con los niños, Gracie se escapa a la casa de los padres de Fran."
+      },
+      {
+        "title": "Ensalada de mayordomo",
+        "img": "https://i.postimg.cc/xC7W103g/episode06.png",
+        "summary": "Niles se hace pasar por el marido de Fran cuando sus parientes llegan de visita."
+      },
+      {
+        "title": "La amiga imaginaria",
+        "img":  "https://i.postimg.cc/6qvF7DHK/episode07.png",
+        "summary": "Grace, la mas pequeña, se ha inventado un amigo imaginario, Imogene. Un día Grace acusa a Fran de haber matado accidentalmente a su querido amigo."
+      },
+      {
+        "title": "Una navidad especial",
+        "img": "https://i.postimg.cc/250sgdqs/episode08.png",
+        "summary": "Fran y los niños se preparan para celebrar las Navidades solos cuando Maxwell y C.C. tienen que irse de viaje de negocios."
+      },
+      {
+        "title": "Negocios Personales",
+        "img": "https://i.postimg.cc/FFYv56VD/episode09.png",
+        "summary": "Maxwell convence a Fran para ir a una cita con una estrella de telenovela para convencerla de que aparezca en una obra."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "imgCarousel": "https://i.postimg.cc/nzRnYbYQ/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/C1mxPfY5/backdrop.jpg",
+    "year": 1989,
+    "percentage": "83% de coincidencia",
+    "age": "13+",
+    "duration": "10 temporadas",
+    "name": "Seinfeld",
+    "description": "El cómico Jerry Seinfeld y sus excéntricos amigos (Constanza, Kramer y Elaine) viven en Nueva York y les pasan innumerables peripecias en esta genial comedia de situación donde la menor excusa sirve para regalarnos un delirante episodio.",
+    "type": "recommended",
+    "episodes": [
+      {
+        "title": "Crónicas de Seinfeld",
+        "img": "https://i.postimg.cc/qqqM9MML/episode01.jpg",
+        "summary": "Jerry le cuenta a George acerca de una mujer que conoció en Míchigan, llamada Laura, que va a ir a Nueva York pero no sabe si sus intenciones serán románticas."
+      },
+      {
+        "title": "De vigilancia",
+        "img": "https://i.postimg.cc/y8cYqGBw/episode02.jpg",
+        "summary": "Jerry y George vigilan en el vestíbulo de un edificio para encontrar a una mujer que Jerry conoció en una fiesta, pero cuyo nombre y número de teléfono no llegó a preguntar."
+      },
+      {
+        "title": "El robo",
+        "img": "https://i.postimg.cc/1zKmXN8B/episode03.jpg",
+        "summary": "Después de que robaran en el apartamento de Jerry, Jerry comienza a buscar otros apartamentos. Pero Jerry y George quieren el mismo apartamento, y Elaine quiere el apartamento de quien sale perdiendo."
+      },
+      {
+        "title": "Desenlace Masculino",
+        "img": "https://i.postimg.cc/pdvVPBLy/episode04.jpg",
+        "summary": "Jerry inventa varias excusas para evitar encontrarse con un viejo amigo con el que ya no comparte algún interés."
+      },
+      {
+        "title": "El Consejo sobre la Bolsa",
+        "img": "https://i.postimg.cc/50NxCNvV/episode05.jpg",
+        "summary": "Jerry se vuelve desconfiado cuando él y George compran acciones y el precio baja, mientras que la persona que sugirió la compra se encuentra en estado de coma y no puede decirles cuándo vender."
+      },
+      {
+        "title": "La ex-novia",
+        "img": "https://i.postimg.cc/1Xd5Ph8Z/episode06.jpg",
+        "summary": "Después de que George rompe con su novia, Jerry decide que quiere verla."
+      },
+      {
+        "title": "El comentario sobre el pony",
+        "img": "https://i.postimg.cc/05XN7mcH/episode07.jpg",
+        "summary": "Jerry teme que un comentario inapropiado que hizo en una cena provocó la posterior muerte de su pariente."
+      },
+      {
+        "title": "La chaqueta",
+        "img": "https://i.postimg.cc/7YCZ96RP/episode08.jpg",
+        "summary": "Jerry se compra una chaqueta de pana verdaderamente cara y con un forro muy vistoso. George, en su línea, encuentra una canción de 'Los miserables' con la que se siente muy identificado. Kramer necesita a alguien para que ayude a un amigo suyo, supuestamente mago, y Eleaine toma el trabajo."
+      },
+      {
+        "title": "El mensaje telefónico",
+        "img": "https://i.postimg.cc/SNwNv406/episode09.jpg",
+        "summary": "George deja varios mensajes incómodos en el contestador de una novia, entonces decide robar la cinta."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "imgCarousel": "https://i.postimg.cc/tJVDBsvP/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/jqQhSr0R/backdrop.jpg",
+    "year": 2013,
+    "percentage": "90% de coincidencia",
+    "age": "14+",
+    "duration": "7 temporadas",
+    "name": "Brooklyn Nine-Nine",
+    "description": "Andy Samberg (como el detective Jake Peralta) y Andre Braugher (como el capitán Ray Holt) encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+    "type": "recentlyadded",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/pdx7yJGS/episode01.jpg",
+        "summary": "El precinto 99 del Departamento de Policía de Nueva York en Brooklyn recibe a un nuevo Comandante, Raymond Holt, quien, a diferencia del ex Capitán, toma muy en serio el trabajo policial, para consternación del talentoso pero despreocupado Detective Jacob Peralta, y la satisfacción de la Detective Amy Santiago"
+      },
+      {
+        "title": "El grafitero",
+        "img": "https://i.postimg.cc/BQKwgVRy/episode02.jpg",
+        "summary": "Cuando Jake llega tarde al trabajo, el Capitán Holt decide seguirlo. Sin embargo, el arresto que hacen resulta complicado. Mientras tanto, un amigo psíquico de Gina se adentra en la cabeza de Charles."
+      },
+      {
+        "title": "El bajón",
+        "img": "https://i.postimg.cc/52WKkmVt/episode03.jpg",
+        "summary": "Con una acumulación de casos no resueltos, Jake se encuentra en una depresión. Mientras tanto, Amy se pone a cargo del Programa de Policía Junior para niños en riesgo, pero sus esfuerzos por inspirarlos fracasan."
+      },
+      {
+        "title": "Un rato con la forense",
+        "img": "https://i.postimg.cc/s2V63D1d/episode04.jpg",
+        "summary": "Jake conoce a una médico forense atractiva, pero su relación ralentiza su trabajo para gran disgusto de sus colegas. Mientras tanto, Amy trata desesperadamente de impresionar a Holt."
+      },
+      {
+        "title": "El buitre",
+        "img": "https://i.postimg.cc/x1Gprbf3/episode05.jpg",
+        "summary": "Un detective de Major Crimes toma el caso de asesinato casi resuelto de Jake y le roba el caso."
+      },
+      {
+        "title": "Halloween",
+        "img": "https://i.postimg.cc/W3z5JWM5/episode06.jpg",
+        "summary": "Jake hace una apuesta tonta con Holt de que puede robar su Medalla de Valor antes de Halloween, mientras que Amy se ve obligada a usar un disfraz mientras está encubierta con Charles."
+      },
+      {
+        "title": "48 horas",
+        "img": "https://i.postimg.cc/vm3PTF61/episode07.jpg",
+        "summary": "Jake arresta estúpidamente a un sospechoso masculino a pesar de no tener pruebas y solo tiene 48 horas para demostrar que lo hizo o liberarlo sin cargos."
+      },
+      {
+        "title": "La vieja escuela",
+        "img": "https://i.postimg.cc/wvr05X2g/episode08.jpg",
+        "summary": "Jake se horroriza cuando su héroe, Jimmy Brogan, un escritor de crímenes, lo acompaña en el trabajo y le amenaza con citarle en un artículo condenatorio. Mientras tanto, Rosa tiene que trabajar en su actitud ante los tribunales."
+      },
+      {
+        "title": "La pizza de Sal",
+        "img": "https://i.postimg.cc/WtL8Csxy/episode09.jpg",
+        "summary": "La pizzería favorita de Jake se incendia y está decidido a demostrar que el dueño no es el responsable. Mientras tanto, Amy está celosa de que se le ofrezca un ascenso a Rosa, y Terry y Gina tienen que contratar a un nuevo especialista en TI."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "imgCarousel": "https://i.postimg.cc/WbfMGVvM/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/ZYHPq3ss/backdrop.jpg",
+    "year": 2009,
+    "percentage": "93% de coincidencia",
+    "age": "16+",
+    "duration": "11 temporadas",
+    "name": "Modern Family",
+    "description": "Una comedia con formato de falso documental que retrata a una típica (o atípica, según se mire) familia americana. Los protagonistas representan tres estructuras familiares muy diferentes: la familia convencional, la pareja homosexual y el hombre maduro casado con una mujer mucho más joven.",
+    "type": "recentlyadded",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/501v4NBM/episode01.jpg",
+        "summary": "La familia de Jay trata de funcionar a pesar de la diferencia de edad entre él y su segunda esposa, Gloria. La familia de Claire y Phil trata de castigar a su hijo y vigilar a su hija mayor y su nuevo novio. Mitchell trata de ocultar a su familia que él y su novio Cameron han adoptado una bebé en Vietnam."
+      },
+      {
+        "title": "El ladrón de bicicletas",
+        "img": "https://i.postimg.cc/J0YB5N91/episode02.jpg",
+        "summary": "Jay trata de demostrar a su hijastro que puede ser un buen padre. Phil, por su parte, intenta dar a su hijo una lección robándole la bicicleta, pero se mete en problemas cuando descubre que se ha llevado una bicicleta equivocada. Cameron y Mitchell tienen su primera cita con un grupo de padres de otros bebés."
+      },
+      {
+        "title": "Ven a volar conmigo",
+        "img": "https://i.postimg.cc/DZgG8k64/episode03.jpg",
+        "summary": "Tras cierta insistencia, Jay permite de mala gana que Phil lo acompañe a probar su nueva maqueta de avión, pero una de las maniobras les sale mal. Alex y Gloria van al centro comercial y Gloria trata de convencer a Alex para que se ponga un vestido. Claire tiene una inesperada y sincera conversación entre hermanos con Manny."
+      },
+      {
+        "title": "El incidente",
+        "img": "https://i.postimg.cc/nrhDmRSR/episode04.jpg",
+        "summary": "Dede, la madre de Claire y Mitchell, hace una visita a la familia meses después de haber avergonzado a Jay y Gloria ante toda su familia durante su boda, lo que todos conocen como 'el incidente'. Phil y Claire deciden si el novio de Haley, Dylan, es o no adecuado para acompañarla a un concierto."
+      },
+      {
+        "title": "La cazafortunas",
+        "img": "https://i.postimg.cc/nhDQqQTJ/episode05.jpg",
+        "summary": "La familia entera está invitada a cenar y a ver el fútbol en casa de Jay y Gloria. Una pelea que han tenido Manny y Luke en el colegio provoca una situación muy incómoda entre Gloria y Claire, y la situación empeora cuando alguien pronuncia un adjetivo poco amable."
+      },
+      {
+        "title": "Corre por tu mujer",
+        "img": "https://i.postimg.cc/Gh9Dhfy9/episode06.jpg",
+        "summary": "Es el primer día de un nuevo curso para los niños, y Phil interpreta mal la reacción de Claire ante su nido vacío. Jay y Gloria discuten sobre la ropa que Manny ha decidido ponerse para el primer día de clase. Mitchell y Cameron se preocupan demasiado cuando Lily se hace su primer chichón."
+      },
+      {
+        "title": "En Garde",
+        "img": "https://i.postimg.cc/kXZbVyQs/episode07.jpg",
+        "summary": "Manny empieza a practicar esgrima y resulta ser bastante bueno, el orgulloso entusiasmo de Jay abre una vieja herida de la infancia de Mitchell, haciendo que le eche algo en cara a Claire acerca de su pasado. Mientras, Phil está decidido a descubrir cuáles son los talentos ocultos de Luke."
+      },
+      {
+        "title": "Grandes esperanzas",
+        "img": "https://i.postimg.cc/7PK744bp/episode08.jpg",
+        "summary": "Claire quiere sorprender a Phil con una actuación privada de uno de sus músicos favoritos, pero Phil nunca ha oído hablar de él. Cameron y Mitchell invitan a su amiga Sal a salir de juerga por el centro. Jay organiza una noche en familia para los niños."
+      },
+      {
+        "title": "Fizbo",
+        "img": "https://i.postimg.cc/Xv6BL7Dy/episode09.jpg",
+        "summary": "Phil y Claire han decidido organizarle a Luke la mayor fiesta de cumpleaños con la que pueda soñar un chico, pero cuando Cameron aparece disfrazado del payaso Fizbo se ponen en marcha una serie de acontecimientos que terminan con alguien en el hospital."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "imgCarousel": "",
+    "backdrop": "",
+    "year": 2013,
+    "percentage": "79% de coincidencia",
+    "age": "16+",
+    "duration": "6 temporadas",
+    "name": "Gossip Girl",
+    "description": "Un selecto grupo de adolescentes privilegiados de una elegante escuela preparatoria en el Upper East Side de Manhattan, cuyas vidas giran en torno al blog de la omnisciente 'Gossip Girl', de identidad desconocida.",
+    "type": "recentlyadded",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/vBWJnXxV/episode01.jpg",
+        "summary": "'Gossip Girl' informa en su blog que Serena van der Woodsen ha vuelto a la ciudad después de estar un año fuera en un internado. Ésta se entera de que su hermano menor, Eric, ha intentado suicidarse, por lo que decide volver. Su mejor amiga, Blair Waldorf, no la recibe muy bien."
+      },
+      {
+        "title": "Un brunch salvaje",
+        "img": "https://i.postimg.cc/PrfgLWXC/episode02.jpg",
+        "summary": "Blair le dice a Serena que sabe la razón por la que se fue de Nueva York y además le dice que ya no son más amigas. A su vez, Dan sale con Serena y asisten juntos al almuerzo del padre de Chuck, Bart, el cual mantiene una relación en secreto con la madre de Serena, Lily."
+      },
+      {
+        "title": "Hiedra venenosa",
+        "img": "https://i.postimg.cc/HWtGsZgG/episode03.jpg",
+        "summary": "Chuck descubre que Serena ha estado yendo al Centro Ostroff, por lo que deduce que Serena está haciendo un tratamiento de rehabilitación ambulatoria, sin saber que en realidad Eric es el que se encuentra en el Centro, debido a su depresión. Chuck se lo cuenta a Blair, y ella lo dice delante de todos los representantes de Ivy League."
+      },
+      {
+        "title": "Malas noticias",
+        "img": "https://i.postimg.cc/QdHvmjWs/episode04.jpg",
+        "summary": "Blair se emociona cuando su madre, Eleanor, la elige para ser la nueva cara de su línea de ropa. Sin embargo, la felicidad de Blair se desvanece cuando Serena se convierte el centro de atención y Blair se encuentra de nuevo a la sombra de ella. Mientras tanto, Serena y Dan recuerdan una vez más que proceden de dos mundos muy distintos. Además, Nate y Chuck hacen un fin de semana de chicos."
+      },
+      {
+        "title": "Rompiendo las reglas",
+        "img": "https://i.postimg.cc/fyC12LKW/episode05.jpg",
+        "summary": "Es su primera cita oficial y Dan intenta impresionar a Serena, pero no entiende que ella está más feliz con la cerveza que con el champán. Esa misma noche, Jenny es invitada a la infame fiesta de pijamas de Blair Waldorf y se encuentra en un juego de alto riesgo de 'Verdad o Reto'. Lily descubre que Erik no está en el centro de tratamiento y busca la ayuda de su ex novio, Rufus."
+      },
+      {
+        "title": "El relato de la doncella",
+        "img": "https://i.postimg.cc/DyCt1S0B/episode06.jpg",
+        "summary": "Dan se encuentra entre dos chicas cuando su amiga de la infancia, Vanessa, regresa a Nueva York y declara sus sentimientos por él, justo cuando él y Serena están tratando de descubrir qué significan el uno para el otro. En el baile de máscaras, Blair envía a Nate a una búsqueda del tesoro, pero él se distrae por sus sentimientos por Serena. Jenny y Dan disfrazados se cuelan en el baile."
+      },
+      {
+        "title": "Victor, Victrola",
+        "img": "https://i.postimg.cc/K8wwsCnT/episode07.jpg",
+        "summary": "Serena y Dan finalmente aceptan que están locos el uno por el otro, a pesar de que provienen de mundos opuestos. Chuck piensa en invertir en un club para que su padre se sienta orgulloso de él. Nate se enfrenta a su padre por las drogas que encontró en su casa pero niega tener un problema. Jenny descubre un secreto que sus padres le han estado ocultando. Blair descubre que Nate besó a alguien más en el baile."
+      },
+      {
+        "title": "Diecisiete velas",
+        "img": "https://i.postimg.cc/SK930Vrv/episode08.jpg",
+        "summary": "Blair se siente desconsolada por el estado actual de su relación con Nate y su reciente indiscreción, pero se las arregla para poner una cara feliz para su fiesta de cumpleaños número 17. Con la esperanza de que Serena y Vanessa puedan unirse, Dan lleva a Vanessa a la fiesta de cumpleaños de Blair. Jenny trae a su madre a casa como una sorpresa, pero Rufus no está listo para perdonar y olvidar."
+      },
+      {
+        "title": "Un interesante Día de Acción de Gracias",
+        "img": "https://i.postimg.cc/mkB0yM76/episode09.jpg",
+        "summary": "Dan invita a Serena y su familia a pasar las vacaciones con su familia, creando una situación incómoda para Rufus y Lily. Los niños desconocen su complicado pasado romántico. Mientras tanto, Blair se asusta cuando se entera de que su padre no volverá a casa para Acción de Gracias. Nate pasa las vacaciones con su familia, pero su cena rápidamente va de mal en peor."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "imgCarousel": "https://i.postimg.cc/mg3xqV2g/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/WzQLRHkh/backdrop.jpg",
+    "year": 2002,
+    "percentage": "80% de coincidencia",
+    "age": "13+",
+    "duration": "2 temporadas",
+    "name": "Los Simuladores",
+    "description": "",
+    "type": "recentlyadded",
+    "episodes": [
+      {
+        "title": "Capítulo 1",
+        "img": "https://i.postimg.cc/Znv2LxMZ/episode01.jpg",
+        "summary": "A Galván lo abandona su mujer. Los Simuladores la investigan y lo convierten en el hombre ideal para enamorarla de nuevo."
+      },
+      {
+        "title": "Capítulo 2",
+        "img": "https://i.postimg.cc/HjGKv8qM/episode02.jpg",
+        "summary": "Laguzzi, un usurero despiadado, amenaza de muerte a los hijos de Vanegas, su cliente, si no paga la deuda antes de determinada fecha. Vanegas contrata a Los Simuladores"
+      },
+      {
+        "title": "Capítulo 3",
+        "img": "https://i.postimg.cc/9X4QS53X/episode03.jpg",
+        "summary": "Despiden a Feler tras cuarenta años de trabajo en una fábrica láctea. Los Simuladores se encargarán de conectar a Feler directamente con los dueños de la fábrica."
+      },
+      {
+        "title": "Capítulo 4",
+        "img": "https://i.postimg.cc/s2DV4b9r/episode04.jpg",
+        "summary": "Alicia, oftalmóloga, casada y madre de dos hijos, recibe en su propia casa la visita de Villarreal, un egocéntrico colega español que quiere chantajearla."
+      },
+      {
+        "title": "Capítulo 5",
+        "img": "https://i.postimg.cc/SQwxbTq6/episode05.jpg",
+        "summary": "A la mujer del arquitecto Miguens podrían quedarle pocos meses de vida. El médico recomienda que no le den malas noticias. Pero su hijo está a punto de repetir el año."
+      },
+      {
+        "title": "Capítulo 6",
+        "img": "https://i.postimg.cc/HsXsYwsf/episode06.jpg",
+        "summary": "El Dr. Agustín Mendilaharzu, Presidente de la Nación, sufre de impotencia sexual. Por miedo a que la prensa se entere, se niega a ver un sexólogo. "
+      },
+      {
+        "title": "Capítulo 7",
+        "img": "https://i.postimg.cc/nhxVCXXM/episode07.jpg",
+        "summary": "Los Simuladores entran a un banco para extraer los negativos con fotos de Sorkin, su cliente, junto a su amante, de la caja de seguridad de un extorsionador."
+      },
+      {
+        "title": "Capítulo 8",
+        "img": "https://i.postimg.cc/JzQrJRXx/episode08.jpg",
+        "summary": "Zarazola es un abogado adúltero que desea desprenderse de Laura, su mujer, sin sentir culpa. Contacta a Los Simuladores para que ella lo deje a él."
+      },
+      {
+        "title": "Capítulo 9",
+        "img": "https://i.postimg.cc/cJ9d9TX8/episode09.jpg",
+        "summary": "Milazzo, un falso representante de artistas, explota diversos barrios pobres, cobrando a sus clientes una matrícula para hacerlos famosos y llevarlos a trabajar."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "imgCarousel": "https://i.postimg.cc/J06bmx9X/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/VsD9jsdN/backdrop.jpg",
+    "year": 2007,
+    "percentage": "91% de coincidencia",
+    "age": "14+",
+    "duration": "7 temporadas",
+    "name": "Mad Men",
+    "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta, y centrada en uno de los más misteriosos ejecutivos de la firma, Donald Draper, un hombre con un gran talento. Mad Men es la mirada a los hombres que dieron forma a las esperanzas y sueños diarios de los americanos de la época.",
+    "type": "recentlyadded",
+    "episodes": [
+      {
+        "title": "El humo ciega tus ojos",
+        "img": "https://i.postimg.cc/66dgwvjm/episode01.jpg",
+        "summary": "Es el año 1960 en la ciudad de Nueva York, la glamorosa y poderosa 'Edad de Oro' de la publicidad. Don Draper, el publicista más importante del negocio, lucha por adelantarse a los tiempos que cambian rápidamente y a los jóvenes ejecutivos pisándole los talones."
+      },
+      {
+        "title": "El tocador de señoras",
+        "img": "https://i.postimg.cc/YqRPLwwN/episode02.jpg",
+        "summary": "Don continúa ocultando su vida personal que es cada vez más complicada, incluso ante la invitación de Roger Sterling a abrirse. Mientras tanto, Peggy suspira por el ausente Pete que aún se encuentra en su luna de miel. Mientras, se defiende de los avances de varios de los hombres de Sterling Cooper."
+      },
+      {
+        "title": "Las bodas de Fígaro",
+        "img": "https://i.postimg.cc/xCLx0wRz/episode03.jpg",
+        "summary": "Pete regresa de su luna de miel, emocionado por su nuevo matrimonio, pero en conflicto por su encuentro pasado con Peggy. Después de que su relación comercial con Rachel da un giro imprevisto, Don asiste a una fiesta que ilumina aún más su creciente insatisfacción con su vida actual."
+      },
+      {
+        "title": "Nueva Amsterdam",
+        "img": "https://i.postimg.cc/J4MghzS4/episode04.jpg",
+        "summary": "La vida profesional y personal de Pete se vuelve más complicada a medida que lucha por hacer valer el poder en ambos. Mientras enfrenta la presión de su esposa con respecto a un nuevo apartamento, aliena aún más a Don y pone en peligro su propia posición en Sterling Cooper."
+      },
+      {
+        "title": "5G",
+        "img": "https://i.postimg.cc/YCyy8f0h/episode05.jpg",
+        "summary": "Don Draper gana un importante premio publicitario. Esto ocasionará que su foto sea publicada en la conocida revista Advertising Age y con ella, algunos hechos de su pasado. El director creativo de Sterling Cooper hará lo posible por evitarlo, y es que todavía no está preparado para afrontar la situación. Paralelamente habrá una guerra interna entre dos ejecutivos de cuentas: Ken y Pete."
+      },
+      {
+        "title": "Babilonia",
+        "img": "https://i.postimg.cc/dV0x8Sqb/episode06.jpg",
+        "summary": "En la oficina se descubre un romance secreto. Por su parte, Peggy demuestra que podría ser más válida para la empresa como publicista que como secretaría. Mientras, Rachel debe afrontar los sentimientos contradictorios que tiene hacia Don."
+      },
+      {
+        "title": "Devolviendo el golpe",
+        "img": "https://i.postimg.cc/pdwcMWDv/episode07.jpg",
+        "summary": "Roger va a cenar en la casa de Don, pero no todo sucede tal y como tenían planeado. Ambos tendrán un duro enfrentamiento por un asunto de trabajo que pondrá en peligro su amistad. Mientras, Pete deberá hacer frente a las exigencias de su reciente esposa."
+      },
+      {
+        "title": "El código del vagabundo",
+        "img": "https://i.postimg.cc/prx0ysG1/episode08.jpg",
+        "summary": "Las envidias entre el resto de las secretarias de la agencia no tardarán en salir. Sin embargo, la ingenuidad y baja autoestima de Peggy empiezan a cambiar de rumbo y esta seguirá luchando por lograr su reconocimiento. Pero Olson no es la única en triunfar. El director de arte, Salvatore Romano consigue cerrar un trato importante con un cliente que se siente atraído por él. Mientras tanto, Don continúa enfrentándose a sus recuerdos. "
+      },
+      {
+        "title": "Mira el pajarito",
+        "img": "https://i.postimg.cc/VNrZhr04/episode09.jpg",
+        "summary": "Jim Hobart, el jefe de una agencia rival, está interesado en contratar a Don. Además de tentarlo con una buena oferta económica y más recursos creativos, utilizan a Betty (su esposa) para intentar convencerle de que se una a ellos. Paralelamente, en Sterling Cooper continúan trabajando en la campaña presidencial y el equipo de Don busca nuevas maneras de contrarrestar los últimos anuncios de Kennedy."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "imgCarousel": "https://i.postimg.cc/P5DF3kkw/img-Carousel.jpg",
+    "backdrop": "https://i.postimg.cc/4yFFMfdz/backdrop.jpg",
+    "year": 2000,
+    "percentage": "95% de coincidencia",
+    "age": "14+",
+    "duration": "7 temporadas",
+    "name": "Gilmore Girls",
+    "description": "Ambientada en la encantadora ciudad de Stars Hollow, Connecticut, la serie sigue las cautivadoras vidas de Lorelai y Rory Gilmore, una pareja de madre e hija que tiene una relación con la que la mayoría de la gente solo sueña.",
+    "type": "recentlyadded",
+    "episodes": [
+      {
+        "title": "Piloto",
+        "img": "https://i.postimg.cc/vZwvmgp4/episode01.jpg",
+        "summary": "Después de que Rory es aceptada en la prestigiosa Escuela Preparatoria de Chilton, Lorelai se ve obligada a acudir a sus padres adinerados en busca de ayuda financiera. Sus padres felizmente le prestan el dinero a su hija a cambio de poner fin al distanciamiento y una cena familiar todos los viernes por la noche. "
+      },
+      {
+        "title": "El primer día de Lorelai en Chilton",
+        "img": "https://i.postimg.cc/x1G3Nj2t/episode02.jpg",
+        "summary": "Lorelai se queda dormida el primer día de Rory en Chilton y descubre que toda su ropa buena está en la tintorería. El día de Rory va cuesta abajo a partir de ahí. "
+      },
+      {
+        "title": "Celos familiares",
+        "img": "https://i.postimg.cc/43Jb6C4Z/episode03.jpg",
+        "summary": "Cuando Rory anuncia en la cena del viernes que tiene que elegir un deporte de equipo para jugar en Chilton, Emily insiste en que Richard lleve a Rory al club y le enseñe golf. Aunque Rory tiene un comienzo difícil, pronto se divierte caminando y hablando con Richard. Lorelai y Rory discuten porque ella le dice lo mucho que disfrutó estar con su abuelo Richard en el club."
+      },
+      {
+        "title": "Cacería de venados",
+        "img": "https://i.postimg.cc/s2wPKn1W/episode04.jpg",
+        "summary": "Rory obtiene la primera 'D'de su vida en un ensayo de inglés. Rory se estresa por un exámen sobre Shakespeare que contará como el 20% de su calificación de inglés. Su madre la ayuda a estudiar hasta quedar exhaustas, y se quedan dormidas el día de la gran prueba. En su pánico por llegar a la escuela a tiempo, Rory sufre un accidente automovilístico."
+      },
+      {
+        "title": "El funeral de Canela",
+        "img": "https://i.postimg.cc/qqC8J4wc/episode05.jpg",
+        "summary": "Lorelai admite sentir cosas por alguien. Mientras tanto, Rory está en una relación que avanza poco a poco."
+      },
+      {
+        "title": "El cumpleaños de Rory",
+        "img": "https://i.postimg.cc/Jn0NFbB2/episode06.jpg",
+        "summary": "Rory se enfrenta a su abuela cuando ella quiere organizarle una fiesta formal para su cumpleaños. Mientras tanto, Lorelai organiza una fiesta relajada para celebrar."
+      },
+      {
+        "title": "El primer beso",
+        "img": "https://i.postimg.cc/50rBW6BN/episode07.jpg",
+        "summary": "Rory tiene un momento romántico con Dean, pero se lo oculta a Lorelai. Cuando ella se entera por otra persona, invita a Dean a su casa a ver una película."
+      },
+      {
+        "title": "Amor y nieve",
+        "img": "https://i.postimg.cc/XXS9Xm1R/episode08.jpg",
+        "summary": "Rory queda varada en la casa de sus abuelos a causa de la nieve, mientras que Lorelai pasa el día con su novio. Lane extraña a Rory y decide visitarla."
+      },
+      {
+        "title": "El baile de Rory",
+        "img": "https://i.postimg.cc/kMVZ6Shs/episode09.jpg",
+        "summary": "Rory asiste a su primer baile con Dean y llega tarde a casa, por lo que Emily discute con Lorelai sobre sus dotes de madre."
+      }
+    ]
   }
 ]
