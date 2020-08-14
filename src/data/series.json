@@ -4,7 +4,7 @@
     "imgCarousel": "https://i.postimg.cc/x1d7h5jR/okt-TNFM8-Pzdsei-K1-X0-E0-Xh-B6-Lv-P.jpg",
     "backdrop": "https://i.postimg.cc/MpPkp43N/uoy-VGQ2n-MGZSYy-Xd-UNg6m7-Kx-La-R.jpg",
     "year": 2013,
-    "percentage": "87% de coincidencia",
+    "percentage": "87% para ti",
     "age": "14+",
     "duration": "6 temporadas",
     "name": "Vikings",
@@ -63,7 +63,7 @@
     "imgCarousel": "https://i.postimg.cc/fyVhHbDh/imgcarousel.jpg",
     "backdrop": "https://i.postimg.cc/JzZRVtJr/backdrop.jpg",
     "year": 1994,
-    "percentage": "98% de coincidencia",
+    "percentage": "98% para ti",
     "age": "14+",
     "duration": "10 temporadas",
     "name": "Friends",
@@ -122,7 +122,7 @@
     "imgCarousel": "https://i.postimg.cc/tJVDBsvP/img-Carousel.jpg",
     "backdrop": "https://i.postimg.cc/jqQhSr0R/backdrop.jpg",
     "year": 2013,
-    "percentage": "90% de coincidencia",
+    "percentage": "90% para ti",
     "age": "14+",
     "duration": "7 temporadas",
     "name": "Brooklyn Nine-Nine",
@@ -181,7 +181,7 @@
     "imgCarousel": "https://i.postimg.cc/WbfMGVvM/img-Carousel.jpg",
     "backdrop": "https://i.postimg.cc/ZYHPq3ss/backdrop.jpg",
     "year": 2009,
-    "percentage": "93% de coincidencia",
+    "percentage": "93% para ti",
     "age": "16+",
     "duration": "11 temporadas",
     "name": "Modern Family",
@@ -240,7 +240,7 @@
     "imgCarousel": "https://i.postimg.cc/28QVYn93/imgcarousel.jpg",
     "backdrop": "https://i.postimg.cc/0yCMY77h/backdrop.jpg",
     "year": 2013,
-    "percentage": "79% de coincidencia",
+    "percentage": "79% para ti",
     "age": "16+",
     "duration": "6 temporadas",
     "name": "Gossip Girl",
@@ -299,7 +299,7 @@
     "imgCarousel": "https://i.postimg.cc/mg3xqV2g/img-Carousel.jpg",
     "backdrop": "https://i.postimg.cc/WzQLRHkh/backdrop.jpg",
     "year": 2002,
-    "percentage": "80% de coincidencia",
+    "percentage": "80% para ti",
     "age": "13+",
     "duration": "2 temporadas",
     "name": "Los Simuladores",
@@ -358,7 +358,7 @@
     "imgCarousel": "https://i.postimg.cc/J06bmx9X/img-Carousel.jpg",
     "backdrop": "https://i.postimg.cc/VsD9jsdN/backdrop.jpg",
     "year": 2007,
-    "percentage": "91% de coincidencia",
+    "percentage": "91% para ti",
     "age": "14+",
     "duration": "7 temporadas",
     "name": "Mad Men",
@@ -417,7 +417,7 @@
     "imgCarousel": "https://i.postimg.cc/P5DF3kkw/img-Carousel.jpg",
     "backdrop": "https://i.postimg.cc/4yFFMfdz/backdrop.jpg",
     "year": 2000,
-    "percentage": "95% de coincidencia",
+    "percentage": "95% para ti",
     "age": "14+",
     "duration": "7 temporadas",
     "name": "Gilmore Girls",
@@ -584,7 +584,7 @@
     "imgCarousel": "https://i.postimg.cc/GmCnDmw5/imgcarousel.jpg",
     "backdrop": "https://i.postimg.cc/gJwT5Cbh/backdrop.jpg",
     "year": 1993,
-    "percentage": "73% de coincidencia",
+    "percentage": "73% para ti",
     "age": "14+",
     "duration": "6 temporadas",
     "name": "La niñera",
@@ -643,7 +643,7 @@
     "imgCarousel": "https://i.postimg.cc/nzRnYbYQ/imgcarousel.jpg",
     "backdrop": "https://i.postimg.cc/C1mxPfY5/backdrop.jpg",
     "year": 1989,
-    "percentage": "83% de coincidencia",
+    "percentage": "83% para ti",
     "age": "13+",
     "duration": "10 temporadas",
     "name": "Seinfeld",
@@ -699,355 +699,355 @@
   },
   {
     "id": 20,
-    "imgCarousel": "https://i.postimg.cc/tJVDBsvP/img-Carousel.jpg",
-    "backdrop": "https://i.postimg.cc/jqQhSr0R/backdrop.jpg",
-    "year": 2013,
-    "percentage": "90% de coincidencia",
-    "age": "14+",
-    "duration": "7 temporadas",
-    "name": "Brooklyn Nine-Nine",
-    "description": "Andy Samberg (como el detective Jake Peralta) y Andre Braugher (como el capitán Ray Holt) encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
-    "type": "recentlyadded",
+    "imgCarousel": "https://i.postimg.cc/Y2XDzqcS/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/mkhw5Cxg/backdrop.jpg",
+    "year": 2005,
+    "percentage": "97% para ti",
+    "age": "16+",
+    "duration": "9 temporadas",
+    "name": "How I met your mother",
+    "description": "En el año 2030, Ted relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall, su mejor amigo, decidió casarse con Lily, su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. ",
+    "type": "recommended",
     "episodes": [
       {
         "title": "Piloto",
-        "img": "https://i.postimg.cc/pdx7yJGS/episode01.jpg",
-        "summary": "El precinto 99 del Departamento de Policía de Nueva York en Brooklyn recibe a un nuevo Comandante, Raymond Holt, quien, a diferencia del ex Capitán, toma muy en serio el trabajo policial, para consternación del talentoso pero despreocupado Detective Jacob Peralta, y la satisfacción de la Detective Amy Santiago"
+        "img": "https://i.postimg.cc/xTC7wNGH/episode01.jpg",
+        "summary": "Ted cuenta a sus dos hijos adolescentes la forma en que conoció a su madre hace 25 años. El arquitecto emprendió la búsqueda del amor verdadero a los 27, tarea que le resultó algo complicada."
       },
       {
-        "title": "El grafitero",
-        "img": "https://i.postimg.cc/BQKwgVRy/episode02.jpg",
-        "summary": "Cuando Jake llega tarde al trabajo, el Capitán Holt decide seguirlo. Sin embargo, el arresto que hacen resulta complicado. Mientras tanto, un amigo psíquico de Gina se adentra en la cabeza de Charles."
+        "title": "La jirafa púrpura",
+        "img": "https://i.postimg.cc/MKF4qZtL/episode02.jpg",
+        "summary": "Tras su desastrosa cita con Robin, Ted intenta tener una segunda cita con ella y, para ello, la invita a una fiesta que ha organizado en su apartamento. Pero ella no aparece y Ted va alargando la fiesta durante tres noches porque está convencido de que aparecerá."
       },
       {
-        "title": "El bajón",
-        "img": "https://i.postimg.cc/52WKkmVt/episode03.jpg",
-        "summary": "Con una acumulación de casos no resueltos, Jake se encuentra en una depresión. Mientras tanto, Amy se pone a cargo del Programa de Policía Junior para niños en riesgo, pero sus esfuerzos por inspirarlos fracasan."
+        "title": "El dulce sabor de la libertad",
+        "img": "https://i.postimg.cc/Z5vQRkM5/episode03.jpg",
+        "summary": "Barney y Ted se embarcan en una improvisada aventura cuando deciden ir en busca de mujeres para arreglar la vida sentimental de Ted. Pero de repente se encuentra volando hacia Filadelfia, donde se enfrentará a la justicia y visitará la campana de la libertad."
       },
       {
-        "title": "Un rato con la forense",
-        "img": "https://i.postimg.cc/s2V63D1d/episode04.jpg",
-        "summary": "Jake conoce a una médico forense atractiva, pero su relación ralentiza su trabajo para gran disgusto de sus colegas. Mientras tanto, Amy trata desesperadamente de impresionar a Holt."
+        "title": "El regreso de la camisa",
+        "img": "https://i.postimg.cc/q78Zss0f/episode04.jpg",
+        "summary": "Tras reencontrarse con una vieja camisa, Ted intenta volver con una ex. Barney le propone a Robin que diga cosas inapropiadas por televisión."
       },
       {
-        "title": "El buitre",
-        "img": "https://i.postimg.cc/x1Gprbf3/episode05.jpg",
-        "summary": "Un detective de Major Crimes toma el caso de asesinato casi resuelto de Jake y le roba el caso."
+        "title": "Okey, ¡qué alucinante!",
+        "img": "https://i.postimg.cc/cJqbtDpM/episode05.jpg",
+        "summary": "Robin lleva a Ted y a Barney a un club erótico muy exclusivo, en el que ha conseguido unos pases VIP. También quiere que vengan Lily y Marshall, quienes después de sus peleas han decidido tener un comportamiento más maduro."
       },
       {
-        "title": "Halloween",
-        "img": "https://i.postimg.cc/W3z5JWM5/episode06.jpg",
-        "summary": "Jake hace una apuesta tonta con Holt de que puede robar su Medalla de Valor antes de Halloween, mientras que Amy se ve obligada a usar un disfraz mientras está encubierta con Charles."
+        "title": "La calabaza atrevida",
+        "img": "https://i.postimg.cc/1tBCTyfJ/episode06.jpg",
+        "summary": "Ted asiste a una fiesta de Halloween, esperando reunirse con una chica que conoció años atrás. Barney trata de convercerle de irse a otra fiesta mejor. Marshall y Lily quedan con una cita doble junto a Robin y su novio."
       },
       {
-        "title": "48 horas",
-        "img": "https://i.postimg.cc/vm3PTF61/episode07.jpg",
-        "summary": "Jake arresta estúpidamente a un sospechoso masculino a pesar de no tener pruebas y solo tiene 48 horas para demostrar que lo hizo o liberarlo sin cargos."
+        "title": "Agencia matrimonial",
+        "img": "https://i.postimg.cc/8cCKgxvD/episode07.jpg",
+        "summary": "Barney y Ted asisten a una agencia matrimonial para tratar de encontrar la mujer perfecta para el segundo. Marshall y Lily encuentran una criatura extraña en el apartamento."
       },
       {
-        "title": "La vieja escuela",
-        "img": "https://i.postimg.cc/wvr05X2g/episode08.jpg",
-        "summary": "Jake se horroriza cuando su héroe, Jimmy Brogan, un escritor de crímenes, lo acompaña en el trabajo y le amenaza con citarle en un artículo condenatorio. Mientras tanto, Rosa tiene que trabajar en su actitud ante los tribunales."
+        "title": "El duelo",
+        "img": "https://i.postimg.cc/ZnDfbjPN/episode08.jpg",
+        "summary": "Ted reconsidera su oferta de dejarle a Lily vivir con él y Marshall. Barney intenta revolucionar la primera cita."
       },
       {
-        "title": "La pizza de Sal",
-        "img": "https://i.postimg.cc/WtL8Csxy/episode09.jpg",
-        "summary": "La pizzería favorita de Jake se incendia y está decidido a demostrar que el dueño no es el responsable. Mientras tanto, Amy está celosa de que se le ofrezca un ascenso a Rosa, y Terry y Gina tienen que contratar a un nuevo especialista en TI."
+        "title": "Atracón de pavo",
+        "img": "https://i.postimg.cc/PxTV2CrC/episode09.jpg",
+        "summary": "Lily y Marshall viajan a Minnesota para pasar las vacaciones junto a la familia de él. Robin y Ted quieren ser voluntarios en un comedor social, sorprendiéndose al conocer que Barney trabaja allí todo el año."
       }
     ]
   },
   {
     "id": 21,
-    "imgCarousel": "https://i.postimg.cc/WbfMGVvM/img-Carousel.jpg",
-    "backdrop": "https://i.postimg.cc/ZYHPq3ss/backdrop.jpg",
+    "imgCarousel": "https://i.postimg.cc/LXQ75H2h/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/BZK9bKP0/backdrop.jpg",
     "year": 2009,
-    "percentage": "93% de coincidencia",
-    "age": "16+",
-    "duration": "11 temporadas",
-    "name": "Modern Family",
-    "description": "Una comedia con formato de falso documental que retrata a una típica (o atípica, según se mire) familia americana. Los protagonistas representan tres estructuras familiares muy diferentes: la familia convencional, la pareja homosexual y el hombre maduro casado con una mujer mucho más joven.",
-    "type": "recentlyadded",
+    "percentage": "89% de coincidencia",
+    "age": "14+",
+    "duration": "6 temporadas",
+    "name": "Community",
+    "description": "Un grupo de adultos inadaptados asisten a la Universidad Comunitaria de Greendale, en el grupo destaca Jeff Winger, un abogado carismático y sin escrúpulos cuyo título universitario ha sido invalidado. Con la ayuda de sus pintorescos compañeros de clase, Winger forma un grupo de estudio en el que dominan las discusiones y la camaradería.",
+    "type": "recommended",
     "episodes": [
       {
         "title": "Piloto",
-        "img": "https://i.postimg.cc/501v4NBM/episode01.jpg",
-        "summary": "La familia de Jay trata de funcionar a pesar de la diferencia de edad entre él y su segunda esposa, Gloria. La familia de Claire y Phil trata de castigar a su hijo y vigilar a su hija mayor y su nuevo novio. Mitchell trata de ocultar a su familia que él y su novio Cameron han adoptado una bebé en Vietnam."
+        "img": "https://i.postimg.cc/vTDJt43W/episode01.jpg",
+        "summary": "Jeff, abogado con problemas con su licencia, llega a Greendale para hacer un curso que lo solucione. Cuando conoce a Britta, se hace pasar por tutor de Español para ligar con ella. El problema surge cuando varios estudiantes se unen al grupo."
       },
       {
-        "title": "El ladrón de bicicletas",
-        "img": "https://i.postimg.cc/J0YB5N91/episode02.jpg",
-        "summary": "Jay trata de demostrar a su hijastro que puede ser un buen padre. Phil, por su parte, intenta dar a su hijo una lección robándole la bicicleta, pero se mete en problemas cuando descubre que se ha llevado una bicicleta equivocada. Cameron y Mitchell tienen su primera cita con un grupo de padres de otros bebés."
+        "title": "Español 101",
+        "img": "https://i.postimg.cc/BZV9QCnN/episode02.jpg",
+        "summary": "Un comentario de Britta sobre la libertad de expresión en Guatemala impresiona considerablemente a Annie y Shirley. En clase de español, el profesor Chang propone un trabajo por parejas y Jeff trata de sobornar a Abed para que le deje hacer el trabajo con Britta."
       },
       {
-        "title": "Ven a volar conmigo",
-        "img": "https://i.postimg.cc/DZgG8k64/episode03.jpg",
-        "summary": "Tras cierta insistencia, Jay permite de mala gana que Phil lo acompañe a probar su nueva maqueta de avión, pero una de las maniobras les sale mal. Alex y Gloria van al centro comercial y Gloria trata de convencer a Alex para que se ponga un vestido. Claire tiene una inesperada y sincera conversación entre hermanos con Manny."
+        "title": "Introducción a filmar",
+        "img": "https://i.postimg.cc/CxbW7TH6/episode03.jpg",
+        "summary": "Jeff encuentra una clase sin exámenes para cubrir las notas del semestre. Tan solo hay que aplicar 'Carpe diem'. Cuando Britta ayuda a Abed a cumplir su sueño de aprender cine, provocará un enfrentamiento con su padre. Mientras, Pierce ayuda a Troy a estornudar sin que la gente se ría cada vez que le oiga."
       },
       {
-        "title": "El incidente",
-        "img": "https://i.postimg.cc/nrhDmRSR/episode04.jpg",
-        "summary": "Dede, la madre de Claire y Mitchell, hace una visita a la familia meses después de haber avergonzado a Jay y Gloria ante toda su familia durante su boda, lo que todos conocen como 'el incidente'. Phil y Claire deciden si el novio de Haley, Dylan, es o no adecuado para acompañarla a un concierto."
+        "title": "Psicología social",
+        "img": "https://i.postimg.cc/pX5N9n9v/episode04.jpg",
+        "summary": "Jeff y Shirley hacen buenas migas criticando al nuevo novio de Britta. Por otro lado, Annie convence a Troy y Abed para que participen en un experimento en una de las clases donde quiere subir nota."
       },
       {
-        "title": "La cazafortunas",
-        "img": "https://i.postimg.cc/nhDQqQTJ/episode05.jpg",
-        "summary": "La familia entera está invitada a cenar y a ver el fútbol en casa de Jay y Gloria. Una pelea que han tenido Manny y Luke en el colegio provoca una situación muy incómoda entre Gloria y Claire, y la situación empeora cuando alguien pronuncia un adjetivo poco amable."
+        "title": "Ley criminal avanzada",
+        "img": "https://i.postimg.cc/fyF62Mr1/episode05.jpg",
+        "summary": "El profesor de español, el señor Chang, ha descubierto que alguien hizo trampas en un examen. Cuando amenaza con suspender a toda la clase si no aparece el culpable, Britta se acusa por salvar a sus compañeros. Mientras, Troy trata de enseñar a Abed a gastar bromas y Annie anima a Pierce para que componga un himno para la escuela."
       },
       {
-        "title": "Corre por tu mujer",
-        "img": "https://i.postimg.cc/Gh9Dhfy9/episode06.jpg",
-        "summary": "Es el primer día de un nuevo curso para los niños, y Phil interpreta mal la reacción de Claire ante su nido vacío. Jay y Gloria discuten sobre la ropa que Manny ha decidido ponerse para el primer día de clase. Mitchell y Cameron se preocupan demasiado cuando Lily se hace su primer chichón."
+        "title": "Fútbol, feminismo y tú",
+        "img": "https://i.postimg.cc/Pq40GW7W/episode06.jpg",
+        "summary": "Greendale hace unos carteles usando la imagen de Jeff sin su permiso. Por otro lado, Shirley trata de enseñar a Britta como comportarse cuando acompañas a otra mujer al cuarto de baño."
       },
       {
-        "title": "En Garde",
-        "img": "https://i.postimg.cc/kXZbVyQs/episode07.jpg",
-        "summary": "Manny empieza a practicar esgrima y resulta ser bastante bueno, el orgulloso entusiasmo de Jay abre una vieja herida de la infancia de Mitchell, haciendo que le eche algo en cara a Claire acerca de su pasado. Mientras, Phil está decidido a descubrir cuáles son los talentos ocultos de Luke."
+        "title": "Introducción a las estadísticas",
+        "img": "https://i.postimg.cc/TPGBH7t2/episode07.jpg",
+        "summary": "Annie se encarga de preparar una fiesta de Halloween para los alumnos y trata de convencer a Jeff para que asista ya que así muchos alumnos acudirán. Jeff acepta, pero en cuanto puede, se larga a la fiesta de profesores para intentar ligar con la profesora de estadística."
       },
       {
-        "title": "Grandes esperanzas",
-        "img": "https://i.postimg.cc/7PK744bp/episode08.jpg",
-        "summary": "Claire quiere sorprender a Phil con una actuación privada de uno de sus músicos favoritos, pero Phil nunca ha oído hablar de él. Cameron y Mitchell invitan a su amiga Sal a salir de juerga por el centro. Jay organiza una noche en familia para los niños."
+        "title": "Economía doméstica",
+        "img": "https://i.postimg.cc/Hsqqbs5y/episode08.jpg",
+        "summary": "Cuando los chicos descubren que Jeff está viviendo en su coche, Abed trata de ayudarle ofreciéndole compartir su piso en la residencia de estudiantes. Mientras, Annie se siente atraída por Troy cuando éste le pide consejo para ligar con una compañera de clase... creyendo que se refería a ella misma."
       },
       {
-        "title": "Fizbo",
-        "img": "https://i.postimg.cc/Xv6BL7Dy/episode09.jpg",
-        "summary": "Phil y Claire han decidido organizarle a Luke la mayor fiesta de cumpleaños con la que pueda soñar un chico, pero cuando Cameron aparece disfrazado del payaso Fizbo se ponen en marcha una serie de acontecimientos que terminan con alguien en el hospital."
+        "title": "Campeonato de debate",
+        "img": "https://i.postimg.cc/Px59dLGB/episode09.jpg",
+        "summary": "Annie y el decano convencen a Jeff para que use su experiencia como abogado en una competición de debate. Mientras, Pierce se ofrece como psicoterapeuta a Britta para ayudarle a vencer la ansiedad por dejar de fumar."
       }
     ]
   },
   {
     "id": 22,
-    "imgCarousel": "",
-    "backdrop": "",
-    "year": 2013,
-    "percentage": "79% de coincidencia",
-    "age": "16+",
-    "duration": "6 temporadas",
-    "name": "Gossip Girl",
-    "description": "Un selecto grupo de adolescentes privilegiados de una elegante escuela preparatoria en el Upper East Side de Manhattan, cuyas vidas giran en torno al blog de la omnisciente 'Gossip Girl', de identidad desconocida.",
-    "type": "recentlyadded",
+    "imgCarousel": "https://i.postimg.cc/6pmxTLcB/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/9Q8CZjm5/backdrop.jpg",
+    "year": 1998,
+    "percentage": "88% de coincidencia",
+    "age": "13+",
+    "duration": "8 temporadas",
+    "name": "Will & Grace",
+    "description": "Will y Grace son dos jóvenes que viven en la ciudad de Nueva York y tuvieron una relación sentimental en el pasado hasta que él confesó que era homosexual. Actualmente, él es un exitoso abogado de Manhattan y ella es una diseñadora de interiores con un pequeño y elegante estudio propio que acaba de plantar a su prometido en el altar.",
+    "type": "recommended",
     "episodes": [
       {
         "title": "Piloto",
-        "img": "https://i.postimg.cc/vBWJnXxV/episode01.jpg",
-        "summary": "'Gossip Girl' informa en su blog que Serena van der Woodsen ha vuelto a la ciudad después de estar un año fuera en un internado. Ésta se entera de que su hermano menor, Eric, ha intentado suicidarse, por lo que decide volver. Su mejor amiga, Blair Waldorf, no la recibe muy bien."
+        "img": "https://i.postimg.cc/HLrHtPnJ/episode01.jpg",
+        "summary": "Cuando Grace recibe inesperadamente una propuesta de matrimonio por parte de su novio, Will respeta la libertad de decisión de su amiga pero finalmente le confiesa que está cometiendo un error, aún sabiendo que pone en peligro su amistad."
       },
       {
-        "title": "Un brunch salvaje",
-        "img": "https://i.postimg.cc/PrfgLWXC/episode02.jpg",
-        "summary": "Blair le dice a Serena que sabe la razón por la que se fue de Nueva York y además le dice que ya no son más amigas. A su vez, Dan sale con Serena y asisten juntos al almuerzo del padre de Chuck, Bart, el cual mantiene una relación en secreto con la madre de Serena, Lily."
+        "title": "Nuevos aires",
+        "img": "https://i.postimg.cc/43jG2bHW/episode02.jpg",
+        "summary": "Will tendrá que decidir si va a apoyar la independencia de Grace ayudandola a mudarse a un apartamento en el otro lado de la ciudad o ser egoista e invitarla a compartir su apartamento con el."
       },
       {
-        "title": "Hiedra venenosa",
-        "img": "https://i.postimg.cc/HWtGsZgG/episode03.jpg",
-        "summary": "Chuck descubre que Serena ha estado yendo al Centro Ostroff, por lo que deduce que Serena está haciendo un tratamiento de rehabilitación ambulatoria, sin saber que en realidad Eric es el que se encuentra en el Centro, debido a su depresión. Chuck se lo cuenta a Blair, y ella lo dice delante de todos los representantes de Ivy League."
+        "title": "Head Case",
+        "img": "https://i.postimg.cc/6qXXtW0R/episode03.jpg",
+        "summary": "Cuando Grace se va a vivir con Will, empiezan las quejas del pequeño tamaño del baño de invitados y sugiere tirar el muro maestro y construir un baño mayor. Esto produce en Will un choque entre los problemas por el cambio y para mantener una relación satisfactoria. "
       },
       {
-        "title": "Malas noticias",
-        "img": "https://i.postimg.cc/QdHvmjWs/episode04.jpg",
-        "summary": "Blair se emociona cuando su madre, Eleanor, la elige para ser la nueva cara de su línea de ropa. Sin embargo, la felicidad de Blair se desvanece cuando Serena se convierte el centro de atención y Blair se encuentra de nuevo a la sombra de ella. Mientras tanto, Serena y Dan recuerdan una vez más que proceden de dos mundos muy distintos. Además, Nate y Chuck hacen un fin de semana de chicos."
+        "title": "Entre el rock y el apartamento de Harlin",
+        "img": "https://i.postimg.cc/G2YCW8kd/episode04.jpg",
+        "summary": "Cuando Grace está decorando el apartamento de Harlin, se entusiasma con el estilo vaquero. Will estan tan impactado como avergonzado por lo que ha hecho y esto provoca un lio mayor. Mientras tanto Jack decide comenzar la carrera de cantante , ayudado un poco por Karen."
       },
       {
-        "title": "Rompiendo las reglas",
-        "img": "https://i.postimg.cc/fyC12LKW/episode05.jpg",
-        "summary": "Es su primera cita oficial y Dan intenta impresionar a Serena, pero no entiende que ella está más feliz con la cerveza que con el champán. Esa misma noche, Jenny es invitada a la infame fiesta de pijamas de Blair Waldorf y se encuentra en un juego de alto riesgo de 'Verdad o Reto'. Lily descubre que Erik no está en el centro de tratamiento y busca la ayuda de su ex novio, Rufus."
+        "title": "Boo! Humbug",
+        "img": "https://i.postimg.cc/7Z6yxQgB/episode05.jpg",
+        "summary": "En Halloween, Jack se disfraza de David Soul, 'Hutch' (de Starsky & Hutch) mientras que Karen lo hace de Cat Woman para una noche en la ciudad llena de Drag Queens y alguna que otra sorpresa. Mientras , Will y Grace van de casa en casa con el 'Trato o Truco' mientras hacen de niñeros para los dos niños de Harlin."
       },
       {
-        "title": "El relato de la doncella",
-        "img": "https://i.postimg.cc/DyCt1S0B/episode06.jpg",
-        "summary": "Dan se encuentra entre dos chicas cuando su amiga de la infancia, Vanessa, regresa a Nueva York y declara sus sentimientos por él, justo cuando él y Serena están tratando de descubrir qué significan el uno para el otro. En el baile de máscaras, Blair envía a Nate a una búsqueda del tesoro, pero él se distrae por sus sentimientos por Serena. Jenny y Dan disfrazados se cuelan en el baile."
+        "title": "Cuéntamelo, William",
+        "img": "https://i.postimg.cc/RhLz0ksY/episode06.jpg",
+        "summary": "Grace se vuelve paranoica al pensar que Will no se lo cuenta todo cuando Jack le confiesa que tuvo en una ocasión un affair con uno de sus clientes. Sus sospechas aumentan cuando Will queda con Karen para una cita discreta en la se hablará de sus problemas legales pero éste tan sólo le cuenta a Grace que está con un cliente."
       },
       {
-        "title": "Victor, Victrola",
-        "img": "https://i.postimg.cc/K8wwsCnT/episode07.jpg",
-        "summary": "Serena y Dan finalmente aceptan que están locos el uno por el otro, a pesar de que provienen de mundos opuestos. Chuck piensa en invertir en un club para que su padre se sienta orgulloso de él. Nate se enfrenta a su padre por las drogas que encontró en su casa pero niega tener un problema. Jenny descubre un secreto que sus padres le han estado ocultando. Blair descubre que Nate besó a alguien más en el baile."
+        "title": "No hay quien pueda con Will",
+        "img": "https://i.postimg.cc/SNmhPKjb/episode07.jpg",
+        "summary": "Grace culpa de su falta de interés por las citas a su relación con Will y decide que no pueden seguir pasándoselo bien juntos. Jack mientras tanto pide ayuda a Will cuando este es objetivo de Hacienda."
       },
       {
-        "title": "Diecisiete velas",
-        "img": "https://i.postimg.cc/SK930Vrv/episode08.jpg",
-        "summary": "Blair se siente desconsolada por el estado actual de su relación con Nate y su reciente indiscreción, pero se las arregla para poner una cara feliz para su fiesta de cumpleaños número 17. Con la esperanza de que Serena y Vanessa puedan unirse, Dan lleva a Vanessa a la fiesta de cumpleaños de Blair. Jenny trae a su madre a casa como una sorpresa, pero Rufus no está listo para perdonar y olvidar."
+        "title": "Una mujer de negocios",
+        "img": "https://i.postimg.cc/jdvbYrJw/episode08.jpg",
+        "summary": "Grace tiene la oportunidad de comprar el estudio que le sirve como oficina y pide consejo a Will sobre dicha compra. Sin embargo , las tácticas de negociación llevan a Grace a creer que Will piensa que ella es incapaz de cerrar el trato y por ello se propone demostrar que está equivocado. "
       },
       {
-        "title": "Un interesante Día de Acción de Gracias",
-        "img": "https://i.postimg.cc/mkB0yM76/episode09.jpg",
-        "summary": "Dan invita a Serena y su familia a pasar las vacaciones con su familia, creando una situación incómoda para Rufus y Lily. Los niños desconocen su complicado pasado romántico. Mientras tanto, Blair se asusta cuando se entera de que su padre no volverá a casa para Acción de Gracias. Nate pasa las vacaciones con su familia, pero su cena rápidamente va de mal en peor."
+        "title": "Un día de perros",
+        "img": "https://i.postimg.cc/8kRGwvpb/episode09.jpg",
+        "summary": "Trás desafiar los deseos de Will, Grace lleva un cachorro a casa , pero Will no se puede resistir al chucho y empieza a tratarlo como un recien nacido. Mientras tanto Jack y Karen están preocupados por el efecto que tiene el perro sobre Will y Grace e insisten en que salgan una noche por la ciudad."
       }
     ]
   },
   {
     "id": 23,
-    "imgCarousel": "https://i.postimg.cc/mg3xqV2g/img-Carousel.jpg",
-    "backdrop": "https://i.postimg.cc/WzQLRHkh/backdrop.jpg",
-    "year": 2002,
-    "percentage": "80% de coincidencia",
-    "age": "13+",
-    "duration": "2 temporadas",
-    "name": "Los Simuladores",
-    "description": "",
-    "type": "recentlyadded",
+    "imgCarousel": "https://i.postimg.cc/W1Tfj9kd/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/brP1b58b/backdrop.jpg",
+    "year": 2016,
+    "percentage": "95% de coincidencia",
+    "age": "15+",
+    "duration": "6 temporadas",
+    "name": "The Crown",
+    "description": "Drama sobre las rivalidades políticas y los romances acaecidos durante el reinado de Isabel II, así como de los eventos que moldearían la segunda mitad del siglo XX.",
+    "type": "recommended",
     "episodes": [
       {
-        "title": "Capítulo 1",
-        "img": "https://i.postimg.cc/Znv2LxMZ/episode01.jpg",
-        "summary": "A Galván lo abandona su mujer. Los Simuladores la investigan y lo convierten en el hombre ideal para enamorarla de nuevo."
+        "title": "Wolferton Splash",
+        "img": "https://i.postimg.cc/02gBX55d/episode01.jpg",
+        "summary": "La joven princesa Isabel se casa con el príncipe Felipe. La salud del rey Jorge VI empeora. Winston Churchill es elegido primer ministro por segunda vez."
       },
       {
-        "title": "Capítulo 2",
-        "img": "https://i.postimg.cc/HjGKv8qM/episode02.jpg",
-        "summary": "Laguzzi, un usurero despiadado, amenaza de muerte a los hijos de Vanegas, su cliente, si no paga la deuda antes de determinada fecha. Vanegas contrata a Los Simuladores"
+        "title": "Hyde Park Corner",
+        "img": "https://i.postimg.cc/59zPzc5H/episode02.jpg",
+        "summary": "Como el rey Jorge está muy enfermo, Isabel y Felipe recorren los países de la Commonwealth en representación suya. Los líderes del partido intentan debilitar a Churchill."
       },
       {
-        "title": "Capítulo 3",
-        "img": "https://i.postimg.cc/9X4QS53X/episode03.jpg",
-        "summary": "Despiden a Feler tras cuarenta años de trabajo en una fábrica láctea. Los Simuladores se encargarán de conectar a Feler directamente con los dueños de la fábrica."
+        "title": "Windsor",
+        "img": "https://i.postimg.cc/C5bmpDMC/episode03.jpg",
+        "summary": "Ahora que Isabel tiene nuevos deberes, Felipe intenta reafirmar su autoridad. Churchill quiere retrasar la coronación. La oveja negra de la familia vuelve a casa."
       },
       {
-        "title": "Capítulo 4",
-        "img": "https://i.postimg.cc/s2DV4b9r/episode04.jpg",
-        "summary": "Alicia, oftalmóloga, casada y madre de dos hijos, recibe en su propia casa la visita de Villarreal, un egocéntrico colega español que quiere chantajearla."
+        "title": "Fuerza mayor",
+        "img": "https://i.postimg.cc/mDzmVJ05/episode04.jpg",
+        "summary": "Una densa niebla paraliza Londres varios días, creando una grave alarma sanitaria. Los enemigos de Churchill sacan partido de su falta de reacción ante el problema."
       },
       {
-        "title": "Capítulo 5",
-        "img": "https://i.postimg.cc/SQwxbTq6/episode05.jpg",
-        "summary": "A la mujer del arquitecto Miguens podrían quedarle pocos meses de vida. El médico recomienda que no le den malas noticias. Pero su hijo está a punto de repetir el año."
+        "title": "Humo y espejos",
+        "img": "https://i.postimg.cc/NjDC016p/episode05.jpg",
+        "summary": "Isabel se salta el protocolo al nombrar a Felipe coordinador de su coronación, pero sus ideas no son bienvenidas. El duque de Windsor vuelve a Londres."
       },
       {
-        "title": "Capítulo 6",
-        "img": "https://i.postimg.cc/HsXsYwsf/episode06.jpg",
-        "summary": "El Dr. Agustín Mendilaharzu, Presidente de la Nación, sufre de impotencia sexual. Por miedo a que la prensa se entere, se niega a ver un sexólogo. "
+        "title": "Noticia bomba",
+        "img": "https://i.postimg.cc/tTK2cDbC/episode06.jpg",
+        "summary": "La princesa Margarita y Peter buscan el apoyo de Isabel. Un escándalo sobre la familia real está a punto de estallar: es hora de que la Reina Madre intervenga."
       },
       {
-        "title": "Capítulo 7",
-        "img": "https://i.postimg.cc/nhxVCXXM/episode07.jpg",
-        "summary": "Los Simuladores entran a un banco para extraer los negativos con fotos de Sorkin, su cliente, junto a su amante, de la caja de seguridad de un extorsionador."
+        "title": "Scientia potentia est",
+        "img": "https://i.postimg.cc/HLPSwdPM/episode07.jpg",
+        "summary": "Los soviéticos hacen pruebas con la bomba H. Churchill y Eden tienen graves problemas de salud. Isabel decide contratar a un tutor para mejorar su cultura general."
       },
       {
-        "title": "Capítulo 8",
-        "img": "https://i.postimg.cc/JzQrJRXx/episode08.jpg",
-        "summary": "Zarazola es un abogado adúltero que desea desprenderse de Laura, su mujer, sin sentir culpa. Contacta a Los Simuladores para que ella lo deje a él."
+        "title": "Orgullo y alegría",
+        "img": "https://i.postimg.cc/Qxrfk6Sf/episode08.jpg",
+        "summary": "Isabel y Felipe hacen un viaje por todo el mundo. La princesa Margarita asume algunas obligaciones oficiales e intenta darle vida a la institución."
       },
       {
-        "title": "Capítulo 9",
-        "img": "https://i.postimg.cc/cJ9d9TX8/episode09.jpg",
-        "summary": "Milazzo, un falso representante de artistas, explota diversos barrios pobres, cobrando a sus clientes una matrícula para hacerlos famosos y llevarlos a trabajar."
+        "title": "Magnicidas",
+        "img": "https://i.postimg.cc/BQxwrWXW/episode09.jpg",
+        "summary": "A medida que crece la tensión entre Felipe e Isabel, esta pasa más tiempo con su viejo amigo Porchey. Churchill cumple 80 años y le pintan un retrato."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "imgCarousel": "https://i.postimg.cc/0NFyLKBy/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/jdbLxNdW/backdrop.jpg",
+    "year": 2011,
+    "percentage": "92% de coincidencia",
+    "age": "13+",
+    "duration": "6 temporadas",
+    "name": "Downton Abbey",
+    "description": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
+    "type": "recommended",
+    "episodes": [
+      {
+        "title": "Episodio Uno",
+        "img": "https://i.postimg.cc/Vk76WV9M/episode01.jpg",
+        "summary": "El hundimiento del Titanic deja en el aire el futuro de Downton Abbey. El heredero y futuro marido de Lady Mary, la mayor de las hijas del matrimonio Crawley, iba en el trasatlántico y no ha sobrevivido. Por otra parte, la llegada del nuevo ayudante de cámara del Lord Crawley, John Bates, sorprende sobremanera al servicio de la casa."
+      },
+      {
+        "title": "Episodio Dos",
+        "img": "https://i.postimg.cc/WzPb4LjR/episode02.jpg",
+        "summary": "Mateo Crawley y su madre Isobel llegan a Downton, Isobel y la Condesa de Viuda Violet encuentra que sus opiniones chocan. Matthew tiene dificultad para adaptarse a su nueva vida, y el personal pca cosa hace para aliviar su incomodidad. Carson es mortificado cuando es enfrentado con su pasado."
+      },
+      {
+        "title": "Episodio Tres",
+        "img": "https://i.postimg.cc/GpHp7xzf/episode03.jpg",
+        "summary": "Ambientado en abril de 1913. Señora Lady Mary es seducida por un apuesto diplomático turco, que muere en su cama la misma noche de su llegada. Para evitar un escándalo, Lady Grantham y Anna, una doncella, la ayudan a mover el cuerpo del fallecido a la propia cama de éste."
+      },
+      {
+        "title": "Episodio Cuatro",
+        "img": "https://i.postimg.cc/XYDjCy3k/episode04.jpg",
+        "summary": "Ambientado en mayo de 1913. Una feria ambulante llega a la aldea vecina. La señora Hughes se reúne con un antiguo pretendiente, que le propone matrimonio por segunda vez después de que ésta lo rechazara. Thomas pide a Daisy que lo acompañe a la feria sólo para molestar a William que está enamorado de ella."
+      },
+      {
+        "title": "Episodio Cinco",
+        "img": "https://i.postimg.cc/wjBxMkKB/episode05.jpg",
+        "summary": "Sybill le dice a Gwen que le ha conseguido una entrevista para un trabajo al que mandó una solicitud en su nombre. Para poder asistir, la doncella tiene que fingir que está enferma y así poder salir de la casa sin que nadie se entere. Cora le dice a su marido que por Londres corren rumores sobre Mary, así que urge que su primogénita se case cuanto antes y ella ya tiene un candidato: Sr. Anthony Strallan."
+      },
+      {
+        "title": "Episodio Seis",
+        "img": "https://i.postimg.cc/rySwPmCq/episode06.jpg",
+        "summary": "Gwen está triste porque ve que sus esfuerzos no tiene recompensa y está decidida a tirar la toalla. Sybill le pide que no abandone su sueño porque está convencida de que finalmente, lo logrará. Sir Anthony Strallan invita a Mary a dar un paseo en su nuevo coche pero ella le dice que está muy ocupada y le sugiere que invite a Edith."
+      },
+      {
+        "title": "Episodio Siete",
+        "img": "https://i.postimg.cc/J4MzVLPZ/episode07.jpg",
+        "summary": "Mary no sabe si aceptar o no la proposición de matrimonio que le hizo Matthew. Inesperadamente, la situación de la herencia de Downton ha cambiado y tiene que pensárselo muy bien. Él, por su parte, se siente muy molesto ante la indecisión de la mayor de los Crawley. Por otra parte, Mary se entera por Evely Napier de fue su hermana Edith quien comenzó a correr el rumor sobre ella y la muerte de Pamuk."
+      },
+      {
+        "title": "Episodio Ocho",
+        "img": "https://i.postimg.cc/4NPNXSSM/episode08.jpg",
+        "summary": "La familia Crawley y sus sirvientes muy ocupados preparando un concierto para recaudar fondos para poder equipar el hospital del pueblo. Lord Grantham, por su parte, se siente muy decepcionado porque no se le permite luchar en el frente y William, el segundo lacayo, se ve como un cobarde por no alistarse."
+      },
+      {
+        "title": "Episodio Nueve",
+        "img": "https://i.postimg.cc/XqcNGH7r/episode09.jpg",
+        "summary": "Carson se esfuerza por mantener altos los estándares de la familia pero le traerá desastrosas consecuencias personales. La señora Rosamund, la hermana de Robert Crawley, llega a Downton ansiosa por conocer a Lavinia y el secreto de Sir Richard Carlisle. La muerte de un oficial motiva a Isobel y Sybil para ver Downton bajo una luz diferente."
       }
     ]
   },
   {
     "id": 25,
-    "imgCarousel": "https://i.postimg.cc/J06bmx9X/img-Carousel.jpg",
-    "backdrop": "https://i.postimg.cc/VsD9jsdN/backdrop.jpg",
-    "year": 2007,
-    "percentage": "91% de coincidencia",
-    "age": "14+",
-    "duration": "7 temporadas",
-    "name": "Mad Men",
-    "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta, y centrada en uno de los más misteriosos ejecutivos de la firma, Donald Draper, un hombre con un gran talento. Mad Men es la mirada a los hombres que dieron forma a las esperanzas y sueños diarios de los americanos de la época.",
-    "type": "recentlyadded",
+    "imgCarousel": "https://i.postimg.cc/d3BkPtCN/imgcarousel.jpg",
+    "backdrop": "https://i.postimg.cc/CL5LLNpx/backdrop.jpg",
+    "year": 2014,
+    "percentage": "78% para ti",
+    "age": "18+",
+    "duration": "5 temporadas",
+    "name": "Outlander",
+    "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
+    "type": "recommended",
     "episodes": [
       {
-        "title": "El humo ciega tus ojos",
-        "img": "https://i.postimg.cc/66dgwvjm/episode01.jpg",
-        "summary": "Es el año 1960 en la ciudad de Nueva York, la glamorosa y poderosa 'Edad de Oro' de la publicidad. Don Draper, el publicista más importante del negocio, lucha por adelantarse a los tiempos que cambian rápidamente y a los jóvenes ejecutivos pisándole los talones."
+        "title": "Sassenach",
+        "img": "https://i.postimg.cc/pLd8v8qf/episode01.jpg",
+        "summary": "1945 Inglaterra: Claire Randall se reúne con su marido tras cinco años de guerra en la que ejercía de enfermera. Su segunda luna de miel se tuerce cuando ella viaja hacia atrás en el tiempo hasta 1740 en Escocia."
       },
       {
-        "title": "El tocador de señoras",
-        "img": "https://i.postimg.cc/YqRPLwwN/episode02.jpg",
-        "summary": "Don continúa ocultando su vida personal que es cada vez más complicada, incluso ante la invitación de Roger Sterling a abrirse. Mientras tanto, Peggy suspira por el ausente Pete que aún se encuentra en su luna de miel. Mientras, se defiende de los avances de varios de los hombres de Sterling Cooper."
+        "title": "Castillo Leoch",
+        "img": "https://i.postimg.cc/TYtLt1fp/episode02.jpg",
+        "summary": "Claire es llevada al Castillo Leoch bajo la sospecha de ser una espía Inglesa. Al enterarse de que se encuentra en el año 1743, trata de organizar el viaje de vuelta hacia la colina de piedras desde donde viajó en el tiempo. Colum MacKenzie usa su habilidad como sanadora como una excusa para retenerla."
       },
       {
-        "title": "Las bodas de Fígaro",
-        "img": "https://i.postimg.cc/xCLx0wRz/episode03.jpg",
-        "summary": "Pete regresa de su luna de miel, emocionado por su nuevo matrimonio, pero en conflicto por su encuentro pasado con Peggy. Después de que su relación comercial con Rachel da un giro imprevisto, Don asiste a una fiesta que ilumina aún más su creciente insatisfacción con su vida actual."
+        "title": "La huida",
+        "img": "https://i.postimg.cc/SRq2vznz/episode03.jpg",
+        "summary": "Las habilidades de Claire como curandera le ponen en contra del cura del pueblo al salvar la vida de un niño lo que genera más sospechas en su contra. Al escuchar un cuento popular, Claire descubre que puede ser capaz de viajar en el tiempo a través del círculo de piedras y volver con su marido."
       },
       {
-        "title": "Nueva Amsterdam",
-        "img": "https://i.postimg.cc/J4MghzS4/episode04.jpg",
-        "summary": "La vida profesional y personal de Pete se vuelve más complicada a medida que lucha por hacer valer el poder en ambos. Mientras enfrenta la presión de su esposa con respecto a un nuevo apartamento, aliena aún más a Don y pone en peligro su propia posición en Sterling Cooper."
+        "title": "La reunión",
+        "img": "https://i.postimg.cc/qMJ6cyfP/episode04.jpg",
+        "summary": "Claire intenta escapar del castillo tras varios días planeando su fuga. En este camino sufre varios altercados con Dougal y otro momento a solas con Jamie que da pie a un acercamiento entre ambos."
       },
       {
-        "title": "5G",
-        "img": "https://i.postimg.cc/YCyy8f0h/episode05.jpg",
-        "summary": "Don Draper gana un importante premio publicitario. Esto ocasionará que su foto sea publicada en la conocida revista Advertising Age y con ella, algunos hechos de su pasado. El director creativo de Sterling Cooper hará lo posible por evitarlo, y es que todavía no está preparado para afrontar la situación. Paralelamente habrá una guerra interna entre dos ejecutivos de cuentas: Ken y Pete."
+        "title": "La recaudación",
+        "img": "https://i.postimg.cc/d0bTGfv6/episode05.jpg",
+        "summary": "Durante el viaje de recaudación de rentas, Dougal utiliza las cicatrices de Jaime para conseguir fondos para la causa jacobita."
       },
       {
-        "title": "Babilonia",
-        "img": "https://i.postimg.cc/dV0x8Sqb/episode06.jpg",
-        "summary": "En la oficina se descubre un romance secreto. Por su parte, Peggy demuestra que podría ser más válida para la empresa como publicista que como secretaría. Mientras, Rachel debe afrontar los sentimientos contradictorios que tiene hacia Don."
+        "title": "El comandante de la guarnición",
+        "img": "https://i.postimg.cc/htwJqYJn/episode06.jpg",
+        "summary": "Claire descubre que las cicatrices de Jamie son el resultado de una paliza pública que recibió de manos de Randall."
       },
       {
-        "title": "Devolviendo el golpe",
-        "img": "https://i.postimg.cc/pdwcMWDv/episode07.jpg",
-        "summary": "Roger va a cenar en la casa de Don, pero no todo sucede tal y como tenían planeado. Ambos tendrán un duro enfrentamiento por un asunto de trabajo que pondrá en peligro su amistad. Mientras, Pete deberá hacer frente a las exigencias de su reciente esposa."
+        "title": "La boda",
+        "img": "https://i.postimg.cc/TPLDLx8h/episode07.jpg",
+        "summary": "Jamie se casa con Claire para protegerla de Randall. Pero ambos descubren que tienen sentimientos reales el uno por el otro."
       },
       {
-        "title": "El código del vagabundo",
-        "img": "https://i.postimg.cc/prx0ysG1/episode08.jpg",
-        "summary": "Las envidias entre el resto de las secretarias de la agencia no tardarán en salir. Sin embargo, la ingenuidad y baja autoestima de Peggy empiezan a cambiar de rumbo y esta seguirá luchando por lograr su reconocimiento. Pero Olson no es la única en triunfar. El director de arte, Salvatore Romano consigue cerrar un trato importante con un cliente que se siente atraído por él. Mientras tanto, Don continúa enfrentándose a sus recuerdos. "
+        "title": "A ambos lados",
+        "img": "https://i.postimg.cc/pVYnnkSQ/episode08.jpg",
+        "summary": "En 1945, Frank está perdiendo la esperanza de encontrar a Claire, mientras tanto ella es capturada por los hombres de Jack «el Negro» Randall."
       },
       {
-        "title": "Mira el pajarito",
-        "img": "https://i.postimg.cc/VNrZhr04/episode09.jpg",
-        "summary": "Jim Hobart, el jefe de una agencia rival, está interesado en contratar a Don. Además de tentarlo con una buena oferta económica y más recursos creativos, utilizan a Betty (su esposa) para intentar convencerle de que se una a ellos. Paralelamente, en Sterling Cooper continúan trabajando en la campaña presidencial y el equipo de Don busca nuevas maneras de contrarrestar los últimos anuncios de Kennedy."
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "imgCarousel": "https://i.postimg.cc/P5DF3kkw/img-Carousel.jpg",
-    "backdrop": "https://i.postimg.cc/4yFFMfdz/backdrop.jpg",
-    "year": 2000,
-    "percentage": "95% de coincidencia",
-    "age": "14+",
-    "duration": "7 temporadas",
-    "name": "Gilmore Girls",
-    "description": "Ambientada en la encantadora ciudad de Stars Hollow, Connecticut, la serie sigue las cautivadoras vidas de Lorelai y Rory Gilmore, una pareja de madre e hija que tiene una relación con la que la mayoría de la gente solo sueña.",
-    "type": "recentlyadded",
-    "episodes": [
-      {
-        "title": "Piloto",
-        "img": "https://i.postimg.cc/vZwvmgp4/episode01.jpg",
-        "summary": "Después de que Rory es aceptada en la prestigiosa Escuela Preparatoria de Chilton, Lorelai se ve obligada a acudir a sus padres adinerados en busca de ayuda financiera. Sus padres felizmente le prestan el dinero a su hija a cambio de poner fin al distanciamiento y una cena familiar todos los viernes por la noche. "
-      },
-      {
-        "title": "El primer día de Lorelai en Chilton",
-        "img": "https://i.postimg.cc/x1G3Nj2t/episode02.jpg",
-        "summary": "Lorelai se queda dormida el primer día de Rory en Chilton y descubre que toda su ropa buena está en la tintorería. El día de Rory va cuesta abajo a partir de ahí. "
-      },
-      {
-        "title": "Celos familiares",
-        "img": "https://i.postimg.cc/43Jb6C4Z/episode03.jpg",
-        "summary": "Cuando Rory anuncia en la cena del viernes que tiene que elegir un deporte de equipo para jugar en Chilton, Emily insiste en que Richard lleve a Rory al club y le enseñe golf. Aunque Rory tiene un comienzo difícil, pronto se divierte caminando y hablando con Richard. Lorelai y Rory discuten porque ella le dice lo mucho que disfrutó estar con su abuelo Richard en el club."
-      },
-      {
-        "title": "Cacería de venados",
-        "img": "https://i.postimg.cc/s2wPKn1W/episode04.jpg",
-        "summary": "Rory obtiene la primera 'D'de su vida en un ensayo de inglés. Rory se estresa por un exámen sobre Shakespeare que contará como el 20% de su calificación de inglés. Su madre la ayuda a estudiar hasta quedar exhaustas, y se quedan dormidas el día de la gran prueba. En su pánico por llegar a la escuela a tiempo, Rory sufre un accidente automovilístico."
-      },
-      {
-        "title": "El funeral de Canela",
-        "img": "https://i.postimg.cc/qqC8J4wc/episode05.jpg",
-        "summary": "Lorelai admite sentir cosas por alguien. Mientras tanto, Rory está en una relación que avanza poco a poco."
-      },
-      {
-        "title": "El cumpleaños de Rory",
-        "img": "https://i.postimg.cc/Jn0NFbB2/episode06.jpg",
-        "summary": "Rory se enfrenta a su abuela cuando ella quiere organizarle una fiesta formal para su cumpleaños. Mientras tanto, Lorelai organiza una fiesta relajada para celebrar."
-      },
-      {
-        "title": "El primer beso",
-        "img": "https://i.postimg.cc/50rBW6BN/episode07.jpg",
-        "summary": "Rory tiene un momento romántico con Dean, pero se lo oculta a Lorelai. Cuando ella se entera por otra persona, invita a Dean a su casa a ver una película."
-      },
-      {
-        "title": "Amor y nieve",
-        "img": "https://i.postimg.cc/XXS9Xm1R/episode08.jpg",
-        "summary": "Rory queda varada en la casa de sus abuelos a causa de la nieve, mientras que Lorelai pasa el día con su novio. Lane extraña a Rory y decide visitarla."
-      },
-      {
-        "title": "El baile de Rory",
-        "img": "https://i.postimg.cc/kMVZ6Shs/episode09.jpg",
-        "summary": "Rory asiste a su primer baile con Dean y llega tarde a casa, por lo que Emily discute con Lorelai sobre sus dotes de madre."
+        "title": "Ajuste de cuentas",
+        "img": "https://i.postimg.cc/RFwJdTZB/episode09.jpg",
+        "summary": "Jamie y los montañeses rescatan a Claire de Jack «el Negro» Randall. En el castillo, la política amenaza con destruir el clan MacKenzie, y la amante despreciada de Jamie, Laoghaire, intenta reconquistarlo."
       }
     ]
   }
