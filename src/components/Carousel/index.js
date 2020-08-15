@@ -6,7 +6,7 @@ class Carousel extends React.Component{
   render(){
     return(
       <>
-      <p className="carousel">Soy un Carousel</p>
+      <p className="carousel">{this.props.title}</p>
       <InnerCarousel />
       </>
     )
