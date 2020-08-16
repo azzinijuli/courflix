@@ -3,6 +3,7 @@ import '../Carousel/style.scss'
 import InnerCarousel from '../InnerCarousel'
 
 class Carousel extends React.Component{
+    
   render(){
     return(
       <>

@@ -4,7 +4,7 @@ import '../Card/style.scss'
 class Card extends React.Component{
   render(){
     return(
-      <img src={this.props.serie.imgCarousel} alt="card" />
+      <img className="card" src={this.props.serie.imgCarousel}/>
     )
   }
 }
