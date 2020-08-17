@@ -7,7 +7,7 @@ class Carousel extends React.Component{
     return(
       <>
       <p className="carousel">{this.props.title}</p>
-      <InnerCarousel shows={this.props.shows}/>
+      <InnerCarousel filter={this.props.filter}/>
       </>
     )
   }

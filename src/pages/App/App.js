@@ -6,34 +6,40 @@ import Carousel from '../../components/Carousel'
 import series from '../../data/series.json'
 
 class App extends React.Component {
-  constructor(props) {
+  constructor(props){
     super(props);
     this.state = {
       shows: [],
       movies: [],
-      recommended: []  
-    };
+      recommended: []
+    }
   }
+  componentWillMount() {
+    const filteredSeries = series.filter((serie)=>{
+      return serie.type == "serie"
+    })
+    const filteredMovies = series.filter((serie)=>{
+      return serie.type == "movie"
+    })
+    const filteredRecommended = series.filter((serie)=>{
+      return serie.type == "recommended"
+    })
 
-componentDidMount() {
-  const filteredSeries = series.filter((item) => {
-    return item.type == "movie"
-  })
-
-  this.setState({
-    shows: filteredSeries
-  })
-};  
-
-render(){
-  console.log(filteredSeries)
+    this.setState ({
+      shows: filteredSeries,
+      movies: filteredMovies,
+      recommended: filteredRecommended
+    })
+  }
+  
+  render(){
     return(
       <>
         <Navbar />
         <Hero />
-        <Carousel title="Series" shows={this.state.shows}/>
-        <Carousel title="Películas" />
-        <Carousel title="Recomendadas para ti" />
+        <Carousel title="Series" filter={this.state.shows} />
+        <Carousel title="Películas" filter={this.state.movies}/>
+        <Carousel title="Recomendadas para ti" filter={this.state.recommended} />
       </>
     )
   }

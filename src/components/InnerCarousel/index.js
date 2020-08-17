@@ -4,12 +4,12 @@ import Card from '../Card'
 
 class InnerCarousel extends React.Component{
   render(){
-    const { shows } = this.props
+    console.log(this.props.filter)
     return(
       <>
-      {shows.map((serie, key)=> {
+      {this.props.filter.map((serie, key)=> {
         return (
-        <Card key={key} serie={serie}/>
+        <Card key={key} serie={serie} />
         )
       })}
       </>
