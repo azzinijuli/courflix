@@ -13,9 +13,9 @@ class InnerCarousel extends React.Component{
     }
   }
   render(){
-    console.log(this.props.filter)
     return(
       <>
+      <div className="inner-carousel">
       <Slider {...this.settings}>
         {this.props.filter.map((serie, key)=> {
           return (
@@ -23,6 +23,7 @@ class InnerCarousel extends React.Component{
           )
         })}
       </Slider>
+      </div>
       </>
     )
   }

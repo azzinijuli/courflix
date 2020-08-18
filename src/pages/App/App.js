@@ -7,6 +7,7 @@ import series from '../../data/series.json'
 
 
 class App extends React.Component {
+
   constructor(props){
     super(props);
     this.state = {
@@ -15,7 +16,8 @@ class App extends React.Component {
       recommended: []
     }
   }
-  componentWillMount() {
+
+  componentDidMount() {
     const filteredSeries = series.filter((serie)=>{
       return serie.type == "serie"
     })
@@ -34,10 +36,15 @@ class App extends React.Component {
   }
   
   render(){
+
     return(
       <>
         <Navbar />
-        <Hero />
+        <Hero 
+          title={series[0].name}
+          desc={series[0].description}
+          img={series[0].backdrop}
+        />
         <Carousel title="Series" filter={this.state.shows} />
         <Carousel title="Películas" filter={this.state.movies}/>
         <Carousel title="Recomendadas para ti" filter={this.state.recommended} />
