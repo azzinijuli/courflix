@@ -8,7 +8,7 @@ class Hero extends React.Component{
     return(
       <>
       <div className="hero-wrapper">
-        <div className="hero-background" style={{ backgroundImage:  `url(${this.props.img})` }}>
+        <div className="hero-background" style={{ backgroundImage: `linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(${this.props.img})` }}>
           <p className="hero-title">{this.props.title}</p>
           <p className="hero-description">{this.props.desc}</p>    
         </div>
