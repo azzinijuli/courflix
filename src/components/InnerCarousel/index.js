@@ -9,7 +9,8 @@ class InnerCarousel extends React.Component{
     this.settings = {
       slidesToShow: 4,
       slidesToScroll: 1,
-      variableWidth: true
+      variableWidth: true,
+      variableHeight: true
     }
   }
   render(){
