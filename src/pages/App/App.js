@@ -44,6 +44,10 @@ class App extends React.Component {
           title={series[0].name}
           desc={series[0].description}
           img={series[0].backdrop}
+          percent={series[0].percentage}
+          age={series[0].age}
+          year={series[0].year}
+          long={series[0].duration}
         />
         <Carousel title="Series" filter={this.state.shows} />
         <Carousel title="Películas" filter={this.state.movies}/>
