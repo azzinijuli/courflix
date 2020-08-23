@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600;700&display=swap');
+
 .hero-wrapper{
   color: white;
   .hero-background{
@@ -14,6 +16,19 @@
         font-weight: bold;
         text-transform: uppercase;
       } 
+      .button{
+        padding: 1rem 2rem;
+        background: #b9b1b1d0;
+        border-radius: 9px;
+        margin-right: 1.8rem;
+        border: none;
+        font-family: 'Open Sans', sans-serif;
+        &:hover {
+          cursor: pointer;
+          background-color: #999595d0;
+          transition: 0.3s;
+        }
+      }
       .hero-description{
         line-height: 1.5rem;
       } 

@@ -11,6 +11,8 @@ class Hero extends React.Component{
         <div className="hero-background" style={{ backgroundImage: `linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url(${this.props.img})` }}>
           <div className="info-wrapper">
             <p className="hero-title">{this.props.title}</p>
+            <button className="button">Reproducir</button>
+            <button className="button">+ mi lista</button>
             <p className="hero-description">{this.props.desc}</p>    
           </div>
         </div>
