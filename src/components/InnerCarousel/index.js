@@ -2,6 +2,7 @@ import React from 'react'
 import '../InnerCarousel/style.scss'
 import Card from '../Card'
 import Slider from 'react-slick'
+import { Link } from 'react-router-dom'
 
 class InnerCarousel extends React.Component{
   constructor(props){
@@ -14,15 +15,26 @@ class InnerCarousel extends React.Component{
     }
   }
   render(){
+    const { filter } = this.props;
     return(
       <>
       <div className="inner-carousel">
       <Slider {...this.settings}>
-        {this.props.filter.map((serie, key)=> {
+        {filter.map((serie, key) => {
           return (
-          <Card key={key} serie={serie} />
+            <>
+            {serie.id === filter.id && (
+
+              <Link to={`/seriesmovies/${serie.id}`}>
+                <Card 
+                key={key} 
+                serie={serie} 
+                />
+              </Link>
+            )}
+            </>
           )
-        })}
+          })}
       </Slider>
       </div>
       </>

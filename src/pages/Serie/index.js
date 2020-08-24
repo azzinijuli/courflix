@@ -1,10 +1,11 @@
 import React from 'react'
+import '../Serie/style.scss'
 
 class serie extends React.Component{
   render() {
     return(
       <>
-        <p>Soy una serie</p>
+        <p className="page">Soy una serie</p>
       </>
     )
   }

@@ -10,7 +10,7 @@ import Serie from './pages/Serie'
 ReactDOM.render(
   <Router>
     <Route exact path="/" component={App} />
-    <Route exact path="/serie" component={Serie} />
+    <Route exact path="/seriesmovies" component={Serie} />
   </Router>,
   document.getElementById('root')
 );
