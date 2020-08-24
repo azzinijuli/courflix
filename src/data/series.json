@@ -67,7 +67,7 @@
     "age": "14+",
     "duration": "10 temporadas",
     "name": "Friends",
-    "description": "Narra las aventuras y desventuras de seis jóvenes de Nueva York. Rachel, Monica, Phoebe, Ross, Chandler y Joey forman una unida pandilla de amigos que viven en Manhattan. A pesar de los numerosos cambios que se producen en sus vidas, su amistad es inquebrantable en la dura batalla por salir adelante en sus periplos profesionales y personales.",
+    "description": "Narra las aventuras y desventuras de seis jóvenes de Nueva York. Rachel, Monica, Phoebe, Ross, Chandler y Joey forman una unida pandilla de amigos que viven en Manhattan. A pesar de los numerosos cambios que se producen en sus vidas, su amistad es inquebrantable.",
     "type": "serie",
     "episodes": [
       {
@@ -126,7 +126,7 @@
     "age": "14+",
     "duration": "7 temporadas",
     "name": "Brooklyn Nine-Nine",
-    "description": "Andy Samberg (como el detective Jake Peralta) y Andre Braugher (como el capitán Ray Holt) encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+    "description": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia que transcurre en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez.",
     "type": "serie",
     "episodes": [
       {
@@ -362,7 +362,7 @@
     "age": "14+",
     "duration": "7 temporadas",
     "name": "Mad Men",
-    "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta, y centrada en uno de los más misteriosos ejecutivos de la firma, Donald Draper, un hombre con un gran talento. Mad Men es la mirada a los hombres que dieron forma a las esperanzas y sueños diarios de los americanos de la época.",
+    "description": "Serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta, y centrada en uno de los más misteriosos ejecutivos de la firma, Donald Draper. Mad Men es la mirada a los hombres que dieron forma a las esperanzas y sueños diarios de los americanos de la época.",
     "type": "serie",
     "episodes": [
       {
@@ -491,7 +491,7 @@
     "percentage": "93% para ti",
     "age": "16+",
     "duration": "1h 47min",
-    "name": "Eterno resplandor de una mente sin recuerdos",
+    "name": "Eterno resplandor",
     "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error.",
     "type": "movie"
   },
@@ -528,7 +528,7 @@
     "age": "18+",
     "duration": "2h 10min",
     "name": "Ciudad de Dios",
-    "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y a pensar que algún día llegará a ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre finales de los 70 y principios de los 80.",
+    "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80.",
     "type": "movie"
   },
   {
@@ -576,7 +576,7 @@
     "age": "18+",
     "duration": "2h 19m",
     "name": "El club de la pelea",
-    "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más.",
+    "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande.",
     "type": "movie"
   },
   {
@@ -588,7 +588,7 @@
     "age": "14+",
     "duration": "6 temporadas",
     "name": "La niñera",
-    "description": "Fran Fine, una joven judía del barrio de Queens de Nueva York, al ser despedida de la tienda donde trabajaba junto a su ex novio, encuentra un empleo como canguro en casa de Maxwell Sheffield, un millonario productor de Broadway que vive solo con sus tres hijos.",
+    "description": "Fran Fine, una joven judía del barrio de Queens de Nueva York, al ser despedida de la tienda donde trabajaba junto a su ex novio, encuentra un empleo como niñera en casa de Maxwell Sheffield, un millonario productor de Broadway que vive solo con sus tres hijos.",
     "type": "recommended",
     "episodes": [
       {
@@ -706,7 +706,7 @@
     "age": "16+",
     "duration": "9 temporadas",
     "name": "How I met your mother",
-    "description": "En el año 2030, Ted relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall, su mejor amigo, decidió casarse con Lily, su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. ",
+    "description": "En el año 2030, Ted relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero.",
     "type": "recommended",
     "episodes": [
       {
@@ -765,7 +765,7 @@
     "age": "14+",
     "duration": "6 temporadas",
     "name": "Community",
-    "description": "Un grupo de adultos inadaptados asisten a la Universidad Comunitaria de Greendale, en el grupo destaca Jeff Winger, un abogado carismático y sin escrúpulos cuyo título universitario ha sido invalidado. Con la ayuda de sus pintorescos compañeros de clase, Winger forma un grupo de estudio en el que dominan las discusiones y la camaradería.",
+    "description": "Un grupo de adultos inadaptados asisten a la Universidad Comunitaria de Greendale. En el grupo destaca Jeff Winger, un abogado carismático y sin escrúpulos cuyo título universitario ha sido invalidado. Junto a sus compañeros, Winger forma un divertido grupo de estudio.",
     "type": "recommended",
     "episodes": [
       {
@@ -824,7 +824,7 @@
     "age": "13+",
     "duration": "8 temporadas",
     "name": "Will & Grace",
-    "description": "Will y Grace son dos jóvenes que viven en la ciudad de Nueva York y tuvieron una relación sentimental en el pasado hasta que él confesó que era homosexual. Actualmente, él es un exitoso abogado de Manhattan y ella es una diseñadora de interiores con un pequeño y elegante estudio propio que acaba de plantar a su prometido en el altar.",
+    "description": "Narra las aventuras y desventuras sentimentales y profesionales de dos treintañeros que comparten apartamento en Nueva York: Will Truman, un abogado gay, y Grace Adler, una encantadora diseñadora.",
     "type": "recommended",
     "episodes": [
       {
@@ -938,7 +938,7 @@
     "imgCarousel": "https://i.postimg.cc/0NFyLKBy/imgcarousel.jpg",
     "backdrop": "https://i.postimg.cc/jdbLxNdW/backdrop.jpg",
     "year": 2011,
-    "percentage": "92% de coincidencia",
+    "percentage": "92% para ti",
     "age": "13+",
     "duration": "6 temporadas",
     "name": "Downton Abbey",
@@ -1001,7 +1001,7 @@
     "age": "18+",
     "duration": "5 temporadas",
     "name": "Outlander",
-    "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
+    "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida.",
     "type": "recommended",
     "episodes": [
       {

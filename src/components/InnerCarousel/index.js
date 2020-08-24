@@ -20,23 +20,17 @@ class InnerCarousel extends React.Component{
       <>
       <div className="inner-carousel">
       <Slider {...this.settings}>
-        {filter.map((serie, key) => {
+        {filter.map((serie, key)=> {
           return (
-            <>
-            {serie.id === filter.id && (
-
-              <Link to={`/seriesmovies/${serie.id}`}>
-                <Card 
-                key={key} 
-                serie={serie} 
-                />
-              </Link>
-            )}
-            </>
+          <Link to={`/series-and-movies/${serie.id}`}>
+            <Card key={key} serie={serie} />
+          </Link>
           )
-          })}
+        })}
       </Slider>
       </div>
+
+      
       </>
     )
   }
