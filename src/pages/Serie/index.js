@@ -34,18 +34,20 @@ class serie extends React.Component{
       desc: filtered[0].description
     })
   }
+
   render() {
+    const { name, desc, backdrop, percent, age, year, duration } = this.state
     return(
       <>
         <Navbar />
         <Hero 
-          title= {this.state.name}
-          desc={this.state.desc}
-          img={this.state.backdrop}
-          percent={this.state.percent}
-          age={this.state.age}
-          year={this.state.year}
-          long={this.state.duration}
+          title={name}
+          desc={desc}
+          img={backdrop}
+          percent={percent}
+          age={age}
+          year={year}
+          long={duration}
         />
       </>
     )

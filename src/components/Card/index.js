@@ -8,7 +8,8 @@ class Card extends React.Component{
       <img 
       className="card" 
       src={serie.imgCarousel} 
-      alt="serie"/>
+      alt="serie"
+      />
     )
   }
 }

@@ -14,15 +14,27 @@ class InnerCarousel extends React.Component{
       variableWidth: true,
       variableHeight: true
     };
-
+    this.state = {
+      episodes: ['']
+    }
+    console.log(2, this.props.match)
   }
+
+  componentDidMount() {
+    let newArr = series.map((result)=> {
+      return result.episodes
+    })
+
+    this.setState({
+      episodes: newArr
+    })
+  }
+  
   render(){
     const { filter } = this.props;
-    if (filter[0].episodes) {
-      console.log(filter[0].episodes)
-    } else {
-      console.log('no hay episodios')
-    }
+    const { episodes } = this.state
+    console.log(1, episodes)
+    
     return(
       <>
         <div className="inner-carousel">
