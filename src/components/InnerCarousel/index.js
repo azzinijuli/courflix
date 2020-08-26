@@ -23,7 +23,10 @@ class InnerCarousel extends React.Component{
         {filter.map((serie, key)=> {
           return (
           <Link to={`/series-and-movies/${serie.id}`}>
-            <Card key={key} serie={serie} />
+            <Card 
+              key={key} 
+              serie={serie} 
+            />
           </Link>
           )
         })}

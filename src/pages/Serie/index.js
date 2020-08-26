@@ -1,8 +1,9 @@
 import React from 'react'
 import '../Serie/style.scss'
 import data from '../../data/series.json'
-import Hero from '../../components/Hero'
 import Navbar from '../../components/Navbar'
+import Hero from '../../components/Hero'
+import Carousel from '../../components/Carousel'
 
 class serie extends React.Component{
   constructor(props){
@@ -47,6 +48,7 @@ class serie extends React.Component{
           year={this.state.year}
           long={this.state.duration}
         />
+        <Carousel />
       </>
     )
   }
