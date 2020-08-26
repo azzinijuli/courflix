@@ -3,8 +3,12 @@ import '../Card/style.scss'
 
 class Card extends React.Component{
   render(){
+    const { serie } = this.props
     return(
-      <img className="card" src={this.props.serie.imgCarousel} alt="serie"/>
+      <img 
+      className="card" 
+      src={serie.imgCarousel} 
+      alt="serie"/>
     )
   }
 }

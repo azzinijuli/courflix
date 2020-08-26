@@ -23,7 +23,6 @@ class serie extends React.Component{
     const filtered = data.filter((serie) => {
       return serie.id == this.props.match.params.id
     })
-    console.log(this.props.match.params.id)
     
     this.setState({
       backdrop: filtered[0].backdrop,
@@ -48,7 +47,6 @@ class serie extends React.Component{
           year={this.state.year}
           long={this.state.duration}
         />
-        <Carousel />
       </>
     )
   }
