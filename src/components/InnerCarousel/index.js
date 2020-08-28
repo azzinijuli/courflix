@@ -3,6 +3,7 @@ import '../InnerCarousel/style.scss'
 import Card from '../Card'
 import Slider from 'react-slick'
 import { Link } from 'react-router-dom'
+import { withRouter } from "react-router"
 import series from '../../data/series.json'
 
 class InnerCarousel extends React.Component{
@@ -17,7 +18,7 @@ class InnerCarousel extends React.Component{
     this.state = {
       episodes: ['']
     }
-    console.log(2, this.props.match)
+    
   }
 
   componentDidMount() {
@@ -33,11 +34,11 @@ class InnerCarousel extends React.Component{
   render(){
     const { filter } = this.props;
     const { episodes } = this.state
-    console.log(1, episodes)
-    
+    let path = this.props.location.pathname
     return(
       <>
         <div className="inner-carousel">
+        <p className = "prueba"> { path ? "Hola" : "Chau" } </p>
         <Slider {...this.settings}>
           {filter.map((serie, key)=> {
             return (
@@ -56,4 +57,4 @@ class InnerCarousel extends React.Component{
   }
 }
 
-export default InnerCarousel
+export default withRouter (InnerCarousel)
