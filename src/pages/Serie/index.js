@@ -36,7 +36,6 @@ class serie extends React.Component{
   }
 
   render() {
-    console.log(10, this.props.match)
     const { name, desc, backdrop, percent, age, year, duration } = this.state
     return(
       <>
@@ -50,7 +49,7 @@ class serie extends React.Component{
           year={year}
           long={duration}
         />
-
+        <Carousel />
       </>
     )
   }
