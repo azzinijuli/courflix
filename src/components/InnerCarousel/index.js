@@ -20,7 +20,7 @@ class InnerCarousel extends React.Component{
 
   render(){
     const { filter, more } = this.props;
-    let path = this.props.location.pathname
+    const path = this.props.location.pathname
     return(
       <>
         <div className="inner-carousel">

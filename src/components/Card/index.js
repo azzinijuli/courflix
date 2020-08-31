@@ -4,9 +4,8 @@ import { withRouter } from "react-router"
 
 class Card extends React.Component{
   render(){
-    let path = this.props.location.pathname
+    const path = this.props.location.pathname
     const { serie, item } = this.props
-    console.log(this.props.item[0])
     return(
       <>
       { path == "/home" ?
@@ -18,7 +17,7 @@ class Card extends React.Component{
       :
         <img 
         className="card" 
-        src={item[0].img} 
+        src={item.img} 
         alt="serie"
         />
       }

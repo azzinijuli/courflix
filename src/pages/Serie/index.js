@@ -26,10 +26,11 @@ class serie extends React.Component{
       return serie.id == this.props.match.params.id
     })
     
-    const arrMore = data.map((result) => {
+    /*const arrMore = data.map((result) => {
       return result.more
-    });
+    });*/
 
+    
     this.setState({
       backdrop: filtered[0].backdrop,
       year: filtered[0].year,
@@ -38,10 +39,10 @@ class serie extends React.Component{
       long: filtered[0].duration,
       name: filtered[0].name,
       desc: filtered[0].description,
-      more: arrMore
+      more: filtered[0].more
     })
   }
-
+  
   render() {
     const { name, desc, backdrop, percent, age, year, duration, more } = this.state
     return(
