@@ -36,6 +36,7 @@ class App extends React.Component {
   }
   
   render(){
+    const { shows, movies, recommended } = this.state
     return(
       <>
         <Navbar />
@@ -48,9 +49,9 @@ class App extends React.Component {
           year={series[0].year}
           long={series[0].duration}
         />
-        <Carousel title="Series" filter={this.state.shows} />
-        <Carousel title="Películas" filter={this.state.movies}/>
-        <Carousel title="Recomendadas para ti" filter={this.state.recommended} />
+        <Carousel title="Series" filter={shows} />
+        <Carousel title="Películas" filter={movies}/>
+        <Carousel title="Recomendadas para ti" filter={recommended} />
       </>
     )
   }

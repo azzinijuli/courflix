@@ -1,17 +1,30 @@
 import React from 'react'
 import '../Card/style.scss'
+import { withRouter } from "react-router"
 
 class Card extends React.Component{
   render(){
-    const { serie } = this.props
+    let path = this.props.location.pathname
+    const { serie, item } = this.props
+    console.log(this.props.item[0])
     return(
-      <img 
-      className="card" 
-      src={serie.imgCarousel} 
-      alt="serie"
-      />
+      <>
+      { path == "/home" ?
+        <img 
+        className="card" 
+        src={serie.imgCarousel} 
+        alt="serie"
+        />
+      :
+        <img 
+        className="card" 
+        src={item[0].img} 
+        alt="serie"
+        />
+      }
+      </>
     )
   }
 }
 
-export default Card
+export default withRouter (Card)

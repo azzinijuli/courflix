@@ -19,9 +19,7 @@ class InnerCarousel extends React.Component{
   }
 
   render(){
-    const { filter } = this.props;
-    const { episodes } = this.props;
-    console.log(this.props.episodes)
+    const { filter, more } = this.props;
     let path = this.props.location.pathname
     return(
       <>
@@ -41,11 +39,16 @@ class InnerCarousel extends React.Component{
           })}
         </Slider>
         :
-        <div> 
-        {episodes.map((serie, key)=> {
-          return serie.episodes
-        })}
-        </div>
+        <Slider {...this.settings}> 
+          {more.map((item, key)=>{
+            return(
+              <Card 
+              key={key} 
+              item={item} 
+              />
+            )
+          })}
+        </Slider>
         }
         </div> 
         </div>

@@ -10,7 +10,7 @@
     "name": "Vikings",
     "description": "Este nuevo drama histórico de History Channel está centrado en Ragnar Lothbrok, figura mítica que aseguraba que era el descendiente de Odín, el dios principal de la mitología nórdica. Ragnar Lothbrok tiene un sueño, que es el de explorar nuevas civilizaciones surcando los mares.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "Ritos de paso",
         "img": "https://i.postimg.cc/g0536Xw9/7cui-E0fv-DXn-Cy-Vb-Q5-EXHt-Iz2s-Ar.jpg",
@@ -69,7 +69,7 @@
     "name": "Friends",
     "description": "Narra las aventuras y desventuras de seis jóvenes de Nueva York. Rachel, Monica, Phoebe, Ross, Chandler y Joey forman una unida pandilla de amigos que viven en Manhattan. A pesar de los numerosos cambios que se producen en sus vidas, su amistad es inquebrantable.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "En el que todo empieza",
         "img": "https://i.postimg.cc/C1XFp8vK/episode01.jpg",
@@ -128,7 +128,7 @@
     "name": "Brooklyn Nine-Nine",
     "description": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia que transcurre en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/pdx7yJGS/episode01.jpg",
@@ -187,7 +187,7 @@
     "name": "Modern Family",
     "description": "Una comedia con formato de falso documental que retrata a una típica (o atípica, según se mire) familia americana. Los protagonistas representan tres estructuras familiares muy diferentes: la familia convencional, la pareja homosexual y el hombre maduro casado con una mujer mucho más joven.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/501v4NBM/episode01.jpg",
@@ -246,7 +246,7 @@
     "name": "Gossip Girl",
     "description": "Un selecto grupo de adolescentes privilegiados de una elegante escuela preparatoria en el Upper East Side de Manhattan, cuyas vidas giran en torno al blog de la omnisciente 'Gossip Girl', de identidad desconocida.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/vBWJnXxV/episode01.jpg",
@@ -305,7 +305,7 @@
     "name": "Los Simuladores",
     "description": "Un grupo de cuatro socios que mediante operativos de simulacro sofisticados resuelven los problemas de gente común  mediante lo que ellos denominan 'operativos de simulacro', que suelen consistir en engañar a quienes generan los problemas de sus clientes.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "Capítulo 1",
         "img": "https://i.postimg.cc/Znv2LxMZ/episode01.jpg",
@@ -364,7 +364,7 @@
     "name": "Mad Men",
     "description": "Serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta, y centrada en uno de los más misteriosos ejecutivos de la firma, Donald Draper. Mad Men es la mirada a los hombres que dieron forma a las esperanzas y sueños diarios de los americanos de la época.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "El humo ciega tus ojos",
         "img": "https://i.postimg.cc/66dgwvjm/episode01.jpg",
@@ -423,7 +423,7 @@
     "name": "Gilmore Girls",
     "description": "Ambientada en la encantadora ciudad de Stars Hollow, Connecticut, la serie sigue las cautivadoras vidas de Lorelai y Rory Gilmore, una pareja de madre e hija que tiene una relación con la que la mayoría de la gente solo sueña.",
     "type": "serie",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/vZwvmgp4/episode01.jpg",
@@ -481,7 +481,54 @@
     "duration": "1h 48min",
     "name": "Psicosis",
     "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 10,
@@ -493,7 +540,54 @@
     "duration": "1h 47min",
     "name": "Eterno resplandor",
     "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 11,
@@ -505,7 +599,54 @@
     "duration": "1h 49min",
     "name": "El perfecto asesino",
     "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 12,
@@ -517,7 +658,54 @@
     "duration": "1h 44min",
     "name": "Mi obra maestra",
     "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 13,
@@ -529,7 +717,54 @@
     "duration": "2h 10min",
     "name": "Ciudad de Dios",
     "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 14,
@@ -541,7 +776,54 @@
     "duration": "1h 39min",
     "name": "Perros de la calle",
     "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 15,
@@ -553,7 +835,54 @@
     "duration": "2h 23m",
     "name": "Sueños de libertad",
     "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 16,
@@ -565,7 +894,54 @@
     "duration": "1h 42m",
     "name": "Réquiem por un sueño",
     "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 17,
@@ -577,7 +953,54 @@
     "duration": "2h 19m",
     "name": "El club de la pelea",
     "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande.",
-    "type": "movie"
+    "type": "movie",
+    "more": [
+      {
+        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
+        "name": "Psicosis",
+        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
+      },
+      {
+        "img": "https://i.postimg.cc/RZ95rH2S/eternalcarousel.jpg",
+        "name": "Eterno resplandor",
+        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+      },
+      {
+        "img": "https://i.postimg.cc/jSXVRjrz/leoncarousel.jpg",
+        "name": "El perfecto asesino",
+        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+      },
+      {
+        "img": "https://i.postimg.cc/yW4jZ00k/obracarousel.jpg",
+        "name": "Mi obra maestra",
+        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
+      },
+      {
+        "img": "https://i.postimg.cc/cJXFbgGb/ciudadcarousel.jpg",
+        "name": "Ciudad de Dios",
+        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo. A través de sus ojos se retrata el crecimiento del crimen organizado entre los años 70 y 80."
+      },
+      {
+        "img": "https://i.postimg.cc/BQ29wgY7/reservoircarousel.jpg",
+        "name": "Perros de la calle",
+        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
+      },
+      {
+        "img": "https://i.postimg.cc/wxCYVPVs/shawshankcarousel.jpg",
+        "name": "Sueños de libertad",
+        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
+      },
+      {
+        "img": "https://i.postimg.cc/2jbfnm4D/requiemcarousel.jpg",
+        "name": "Réquiem por un sueño",
+        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
+      },
+      {
+        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
+        "name": "El club de la pelea",
+        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
+      }
+    ]
   },
   {
     "id": 18,
@@ -590,7 +1013,7 @@
     "name": "La niñera",
     "description": "Fran Fine, una joven judía del barrio de Queens de Nueva York, al ser despedida de la tienda donde trabajaba junto a su ex novio, encuentra un empleo como niñera en casa de Maxwell Sheffield, un millonario productor de Broadway que vive solo con sus tres hijos.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/HLzZVpdX/episode01.png",
@@ -649,7 +1072,7 @@
     "name": "Seinfeld",
     "description": "El cómico Jerry Seinfeld y sus excéntricos amigos (Constanza, Kramer y Elaine) viven en Nueva York y les pasan innumerables peripecias en esta genial comedia de situación donde la menor excusa sirve para regalarnos un delirante episodio.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Crónicas de Seinfeld",
         "img": "https://i.postimg.cc/qqqM9MML/episode01.jpg",
@@ -708,7 +1131,7 @@
     "name": "How I met your mother",
     "description": "En el año 2030, Ted relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/xTC7wNGH/episode01.jpg",
@@ -767,7 +1190,7 @@
     "name": "Community",
     "description": "Un grupo de adultos inadaptados asisten a la Universidad Comunitaria de Greendale. En el grupo destaca Jeff Winger, un abogado carismático y sin escrúpulos cuyo título universitario ha sido invalidado. Junto a sus compañeros, Winger forma un divertido grupo de estudio.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/vTDJt43W/episode01.jpg",
@@ -826,7 +1249,7 @@
     "name": "Will & Grace",
     "description": "Narra las aventuras y desventuras sentimentales y profesionales de dos treintañeros que comparten apartamento en Nueva York: Will Truman, un abogado gay, y Grace Adler, una encantadora diseñadora.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Piloto",
         "img": "https://i.postimg.cc/HLrHtPnJ/episode01.jpg",
@@ -885,7 +1308,7 @@
     "name": "The Crown",
     "description": "Drama sobre las rivalidades políticas y los romances acaecidos durante el reinado de Isabel II, así como de los eventos que moldearían la segunda mitad del siglo XX.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Wolferton Splash",
         "img": "https://i.postimg.cc/02gBX55d/episode01.jpg",
@@ -944,7 +1367,7 @@
     "name": "Downton Abbey",
     "description": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Episodio Uno",
         "img": "https://i.postimg.cc/Vk76WV9M/episode01.jpg",
@@ -1003,7 +1426,7 @@
     "name": "Outlander",
     "description": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida.",
     "type": "recommended",
-    "episodes": [
+    "more": [
       {
         "title": "Sassenach",
         "img": "https://i.postimg.cc/pLd8v8qf/episode01.jpg",
