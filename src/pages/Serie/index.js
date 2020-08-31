@@ -16,6 +16,7 @@ class serie extends React.Component{
       long: '',
       name: '',
       desc: '',
+      type: '',
       more: []
     }
   }
@@ -25,12 +26,7 @@ class serie extends React.Component{
     const filtered = data.filter((serie) => {
       return serie.id == this.props.match.params.id
     })
-    
-    /*const arrMore = data.map((result) => {
-      return result.more
-    });*/
-
-    
+        
     this.setState({
       backdrop: filtered[0].backdrop,
       year: filtered[0].year,
@@ -39,12 +35,13 @@ class serie extends React.Component{
       long: filtered[0].duration,
       name: filtered[0].name,
       desc: filtered[0].description,
+      type: filtered[0].type,
       more: filtered[0].more
     })
   }
   
   render() {
-    const { name, desc, backdrop, percent, age, year, duration, more } = this.state
+    const { name, desc, backdrop, percent, age, year, duration, type, more } = this.state
     return(
       <>
         <Navbar />
@@ -59,7 +56,9 @@ class serie extends React.Component{
         />
         <Carousel 
           more={more}
+          type={type}
           title={"Episodios"}
+          titleMovies={"Películas similares"}
         />
       </>
     )
