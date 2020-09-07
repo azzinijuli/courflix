@@ -1,0 +1,12 @@
+@import "../../../node_modules/hamburgers/_sass/hamburgers/hamburgers.scss";
+
+$hamburger-padding-x: 20px;
+$hamburger-padding-y: 15px;
+$hamburger-types     : (collapse);
+
+.burger-menu {
+  display: none;
+  @media screen and (max-width: 768px) {
+    display: block;
+  }
+}

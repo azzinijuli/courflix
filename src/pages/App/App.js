@@ -1,10 +1,10 @@
 import React from 'react';
 import './style.scss';
+import '../../components/BurgerMenu'
 import Navbar from '../../components/Navbar'
 import Hero from '../../components/Hero'
 import Carousel from '../../components/Carousel'
 import series from '../../data/series.json'
-
 
 class App extends React.Component {
 
