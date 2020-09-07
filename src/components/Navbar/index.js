@@ -4,13 +4,29 @@ import logo from '../../assets/logo.png'
 import BurgerMenu from '../../components/BurgerMenu';
 
 class Navbar extends React.Component{
+  constructor(props) {
+    super(props) 
+    this.state = {
+      isOpen: ''
+    }
+  }
+
+  handleCallback(isOpen) {
+    this.setState({
+      isOpen: isOpen
+    })
+  }
+
   render() {
+    const isOpen = this.state.isOpen
     return(
       <>
         <div className="navbar-wrapper">
-        <BurgerMenu />
-          <img src={ logo } alt="logo" className="logo" />
-          <ul className="navbar-elements">
+        <BurgerMenu 
+          propDePrueba={(isOpen)=>this.handleCallback(isOpen)}
+        />
+          <img src={logo} alt="logo" className="logo" />
+          <ul className={`navbar-elements ${isOpen ? 'show' : ''}`}>
             <li className="navbar-element">Inicio</li>
             <li className="navbar-element">Series</li>
             <li className="navbar-element">Películas</li>

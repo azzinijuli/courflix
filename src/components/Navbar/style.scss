@@ -18,13 +18,16 @@
     color:white;
     font-weight: bold;
       @media screen and (max-width: 768px) {
-        display: inline-flex;
+        display: none;
         flex-direction: column;
         position: absolute;
         top: 100%;
         left: 0;
         background-color: #000000c0;
         height: 100vh;
+        &.show {
+          display: inline-flex;
+        }
       }
     .navbar-element{
       padding-right: 1.5rem;
