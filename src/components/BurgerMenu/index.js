@@ -6,7 +6,7 @@ class BurgerMenu extends React.Component {
   constructor(props) {
     super(props);
     this.state = { 
-      active: false 
+      active: false
     };
   }
  /*pasar esto al Navbar y después pasarlo acá como props

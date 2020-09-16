@@ -8,7 +8,7 @@ class Card extends React.Component{
     const { serie, item } = this.props
     return(
       <>
-      { path == "/home" ?
+      { path == "/" ?
         <img 
         className="card" 
         src={serie.imgCarousel} 

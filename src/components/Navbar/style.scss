@@ -12,18 +12,19 @@
       padding: 0.5rem 1rem;
     }
   }
-  .navbar-elements{
+  .navbar-elements {
     display: inline-flex;
     list-style-type: none;
     color:white;
     font-weight: bold;
+    transition: ease-in, 0.3s;
       @media screen and (max-width: 768px) {
         display: none;
         flex-direction: column;
         position: absolute;
         top: 100%;
         left: 0;
-        background-color: #000000c0;
+        background-color: #000000af;
         height: 100vh;
         &.show {
           display: inline-flex;

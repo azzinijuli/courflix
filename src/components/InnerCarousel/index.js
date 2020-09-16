@@ -25,7 +25,7 @@ class InnerCarousel extends React.Component{
       <>
         <div className="inner-carousel">
         <div className = "prueba"> 
-        { path == "/home" ?   
+        { path == "/" ?   
         <Slider {...this.settings}>
           {filter.map((serie, key)=> {
             return (
