@@ -9,17 +9,22 @@ class Card extends React.Component{
     return(
       <>
       { path == "/" ?
+      <div className="card-container">
         <img 
         className="card" 
         src={serie.imgCarousel} 
         alt="serie"
         />
+      </div>
       :
+      <div className="card-container">
         <img 
         className="card" 
         src={item.img} 
         alt="serie"
         />
+        <p className="chapter-summary">{item.summary}</p>
+      </div>
       }
       </>
     )

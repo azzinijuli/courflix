@@ -1,6 +1,27 @@
-.card {
-  object-fit: cover;
-  height: 200px;
-  width: 320px;
-  margin-right: 0.5rem;
+.card-container{
+  margin-bottom: 0.5rem;
+  .card {
+    object-fit: cover;
+    height: 200px;
+    width: 320px;
+    margin-right: 0.5rem;
+    @media screen and (max-width: 480px) {
+      height: 200px;
+      width: 300px;
+    }
+    @media screen and (max-width: 320px) {
+      margin-right: 0.5rem;
+      height: 180px;
+      width: 280px;
+    }
+  }
+  .chapter-summary {
+    display: none;
+    @media screen and (max-width: 480px) {
+      max-width: 300px;
+      display: block;
+      font-size: 1rem;
+      line-height: 1.2rem;
+    }
+  }
 }

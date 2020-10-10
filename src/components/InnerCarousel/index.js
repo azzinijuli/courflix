@@ -8,14 +8,63 @@ import { withRouter } from "react-router"
 class InnerCarousel extends React.Component{
   constructor(props){
     super(props);
-
+    this.props.location.pathname == "/" ?  
     this.settings = {
       slidesToShow: 4,
       slidesToScroll: 1,
       variableWidth: true,
-      variableHeight: true
-    };
-
+      variableHeight: true,
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+          }
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1,
+          },
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+      ]
+    }
+    :
+    this.settings = {
+      slidesToShow: 4,
+      slidesToScroll: 1,
+      variableWidth: true,
+      variableHeight: true,
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+          }
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1,
+          },
+        },
+        {
+          breakpoint: 480,
+          settings: "unslick"
+        }
+      ]
+    }
   }
 
   render(){

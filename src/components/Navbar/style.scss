@@ -18,15 +18,18 @@
     color:white;
     font-weight: bold;
     @media screen and (max-width: 768px) {
-      display: none;
       flex-direction: column;
       position: absolute;
       top: 100%;
       left: 0;
       background-color: #000000af;
       height: 100vh;
+      visibility: hidden;
+      opacity: 0;
+      transition: visibility 1s, opacity 0.2s ease-in-out;
       &.show {
-        display: inline-flex;
+        visibility: visible;
+        opacity: 1;
         }
       }
     .navbar-element{
