@@ -7,13 +7,13 @@ class Navbar extends React.Component{
   constructor(props) {
     super(props) 
     this.state = {
-      isOpen: ''
+      isOpen: false
     }
   }
 
   handleCallback(isOpen) {
     this.setState({
-      isOpen: isOpen
+      isOpen: !isOpen
     })
   }
 
@@ -25,7 +25,7 @@ class Navbar extends React.Component{
           propDePrueba={(isOpen)=>this.handleCallback(isOpen)}
         />
           <img src={logo} alt="logo" className="logo" />
-          <ul className={`navbar-elements ${this.state.isOpen ? '' : 'show'}`}>
+          <ul className={`navbar-elements ${this.state.isOpen ? 'show' : ''}`}>
             <li className="navbar-element">Inicio</li>
             <li className="navbar-element">Series</li>
             <li className="navbar-element">Películas</li>

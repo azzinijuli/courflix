@@ -14,7 +14,9 @@ class BurgerMenu extends React.Component {
    {() => this.setState({ active: !this.props.active })}
    */ 
   handleClick() {
-    this.setState ({ active: !this.state.active })
+    this.setState ({ 
+      active: !this.state.active 
+    })
     this.props.propDePrueba(this.state.active)
   }
   

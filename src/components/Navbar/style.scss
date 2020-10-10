@@ -17,17 +17,16 @@
     list-style-type: none;
     color:white;
     font-weight: bold;
-    transition: ease-in, 0.3s;
-      @media screen and (max-width: 768px) {
-        display: none;
-        flex-direction: column;
-        position: absolute;
-        top: 100%;
-        left: 0;
-        background-color: #000000af;
-        height: 100vh;
-        &.show {
-          display: inline-flex;
+    @media screen and (max-width: 768px) {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: #000000af;
+      height: 100vh;
+      &.show {
+        display: inline-flex;
         }
       }
     .navbar-element{
@@ -35,7 +34,6 @@
       &:hover{
         color: #8a8a8a;
         cursor: pointer;
-        transition: ease-in, 0.3s;
       }
       @media screen and (max-width: 768px) {
         display: inline-flex;
