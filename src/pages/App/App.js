@@ -5,6 +5,7 @@ import Navbar from '../../components/Navbar'
 import Hero from '../../components/Hero'
 import Carousel from '../../components/Carousel'
 import series from '../../data/series.json'
+import { Element } from 'react-scroll'
 
 class App extends React.Component {
 
@@ -49,9 +50,15 @@ class App extends React.Component {
           year={series[0].year}
           long={series[0].duration}
         />
-        <Carousel title="Series" filter={shows} />
-        <Carousel title="Películas" filter={movies}/>
-        <Carousel title="Recomendadas para ti" filter={recommended} />
+        <Element id="series" name="series">
+          <Carousel title="Series" filter={shows} />
+        </Element>
+        <Element id="movies" name="movies">
+          <Carousel title="Películas" filter={movies}/>
+        </Element>
+        <Element id="recommended" name="recommended">
+          <Carousel title="Recomendadas para ti" filter={recommended} />
+        </Element>
       </>
     )
   }
