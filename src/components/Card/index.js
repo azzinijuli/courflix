@@ -23,7 +23,10 @@ class Card extends React.Component{
         src={item.img} 
         alt="serie"
         />
-        <p className="chapter-summary">{item.summary}</p>
+        <div>
+          <span className="chapter-title">{item.title}</span>
+          <p className="chapter-summary">{item.summary}</p>
+        </div>
       </div>
       }
       </>
