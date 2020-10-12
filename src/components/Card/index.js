@@ -24,8 +24,17 @@ class Card extends React.Component{
         alt="serie"
         />
         <div>
-          <span className="chapter-title">{item.title}</span>
-          <p className="chapter-summary">{item.summary}</p>
+          {item.summary ?
+            <>
+            <span className="chapter-title">{item.title}</span>
+            <p className="chapter-summary">{item.summary}</p>
+            </>
+          :
+            <>
+            <span className="chapter-title">{item.name}</span>
+            <p className="chapter-summary">{item.description}</p>
+            </>
+          }
         </div>
       </div>
       }
