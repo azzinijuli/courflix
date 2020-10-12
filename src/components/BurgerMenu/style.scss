@@ -1,3 +1,10 @@
+$hamburger-padding-x: 20px;
+$hamburger-padding-y: 15px;
+$hamburger-layer-color: white !default;
+$hamburger-active-layer-color: $hamburger-layer-color !default;
+$hamburger-active-hover-opacity: 1 !default;
+$hamburger-hover-opacity: 1 !default;
+
 @import "../../../node_modules/hamburgers/_sass/hamburgers/hamburgers.scss";
 
 $hamburger-padding-x: 20px;
@@ -7,6 +14,7 @@ $hamburger-types     : (collapse);
 .burger-menu {
   display: none;
   @media screen and (max-width: 768px) {
+    color: rgb(255, 255, 255);
     display: block;
   }
 }
