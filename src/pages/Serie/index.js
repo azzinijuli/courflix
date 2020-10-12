@@ -41,7 +41,7 @@ class serie extends React.Component{
   }
   
   render() {
-    const { name, desc, backdrop, percent, age, year, duration, type, more } = this.state
+    const { name, desc, backdrop, percent, age, year, long, type, more } = this.state
     return(
       <>
         <Navbar />
@@ -52,7 +52,7 @@ class serie extends React.Component{
           percent={percent}
           age={age}
           year={year}
-          long={duration}
+          long={long}
         />
         <Carousel 
           more={more}
