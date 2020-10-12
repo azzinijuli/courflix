@@ -98,12 +98,12 @@
       {
         "title": "El del trasero",
         "img": "https://i.postimg.cc/SQYS7ZsY/episode06.jpg",
-        "summary": "Un agente le ofrece a Joey un papel en una película como doble del culo de Al Pacino, pero es despedido. Chandler tiene una cita con una mujer que está casada y tiene un amante."
+        "summary": "Un agente le ofrece a Joey un papel en una película como doble del trasero de Al Pacino, pero es despedido. Chandler tiene una cita con una mujer que está casada y tiene un amante."
       },
       {
         "title": "El del apagón",
         "img": "https://i.postimg.cc/qvw4MSmS/episode07.jpg",
-        "summary": "Hay un apagón en Nueva York; Chandler queda atrapado en un Cajero Automático con la modelo Jill Goodacre. Ross finalmente se decide a pedirle a Rachel que salga con él."
+        "summary": "Hay un apagón en Nueva York. Chandler queda atrapado en un cajero automático con la modelo Jill Goodacre. Ross finalmente se decide a pedirle a Rachel que salga con él."
       },
       {
         "title": "En el que Nana muere dos veces",
@@ -113,7 +113,7 @@
       {
         "title": "En el que Superperro se escapa",
         "img": "https://i.postimg.cc/cJJZKh2H/episode09.jpg",
-        "summary": "Monica cocina la cena de Acción de Gracias para todos porque sus planes fallan. Cuando un globo gigante se escapa por las calles de Nueva York, todos salen a mirarlo pero nadie coge las llaves del apartamento."
+        "summary": "Monica cocina la cena de Acción de Gracias para todos porque sus planes fallan. Cuando un globo gigante se escapa por las calles de Nueva York, todos salen a mirarlo pero nadie toma las llaves del apartamento."
       }
     ]
   },
@@ -206,7 +206,7 @@
       {
         "title": "El incidente",
         "img": "https://i.postimg.cc/nrhDmRSR/episode04.jpg",
-        "summary": "Dede, la madre de Claire y Mitchell, hace una visita a la familia meses después de haber avergonzado a Jay y Gloria ante toda su familia durante su boda, lo que todos conocen como 'el incidente'."
+        "summary": "Dede, la madre de Claire y Mitchell, hace una visita a la familia meses después de haber avergonzado a Jay y Gloria ante toda su familia durante su boda."
       },
       {
         "title": "La cazafortunas",
@@ -221,7 +221,7 @@
       {
         "title": "En Garde",
         "img": "https://i.postimg.cc/kXZbVyQs/episode07.jpg",
-        "summary": "Manny empieza a practicar esgrima y resulta ser bastante bueno, el orgulloso entusiasmo de Jay abre una vieja herida de la infancia de Mitchell."
+        "summary": "Manny empieza a practicar esgrima y resulta ser bastante bueno, pero el orgulloso y entusiasmo de Jay abren una vieja herida de la infancia de Mitchell."
       },
       {
         "title": "Grandes esperanzas",
@@ -255,7 +255,7 @@
       {
         "title": "Un brunch salvaje",
         "img": "https://i.postimg.cc/PrfgLWXC/episode02.jpg",
-        "summary": "A su vez, Dan sale con Serena y asisten juntos al almuerzo del padre de Chuck, Bart, el cual mantiene una relación en secreto con la madre de Serena, Lily."
+        "summary": "Dan sale con Serena y asisten juntos al almuerzo del padre de Chuck, Bart, el cual mantiene una relación en secreto con la madre de Serena, Lily."
       },
       {
         "title": "Hiedra venenosa",
@@ -393,12 +393,12 @@
       {
         "title": "Babilonia",
         "img": "https://i.postimg.cc/dV0x8Sqb/episode06.jpg",
-        "summary": "En la oficina se descubre un romance secreto. Por su parte, Peggy demuestra que podría ser más válida para la empresa como publicista que como secretaría."
+        "summary": "En la oficina se descubre un romance secreto. Por su parte, Peggy demuestra que podría ser más válida para la empresa como publicista que como secretaria."
       },
       {
         "title": "Devolviendo el golpe",
         "img": "https://i.postimg.cc/pdwcMWDv/episode07.jpg",
-        "summary": "Roger va a cenar en la casa de Don, pero no todo sucede tal y como tenían planeado. Ambos tendrán un duro enfrentamiento por un asunto de trabajo que pondrá en peligro su amistad."
+        "summary": "Roger va a cenar a la casa de Don, pero no todo sucede tal y como tenían planeado. Ambos tendrán un duro enfrentamiento por un asunto de trabajo que pondrá en peligro su amistad."
       },
       {
         "title": "El código del vagabundo",
@@ -442,7 +442,7 @@
       {
         "title": "Cacería de venados",
         "img": "https://i.postimg.cc/s2wPKn1W/episode04.jpg",
-        "summary": "Rory obtiene la primera 'D'de su vida en un ensayo de inglés. Rory se estresa por un exámen sobre Shakespeare que contará como el 20% de su calificación de inglés."
+        "summary": "Rory obtiene la primera 'D' de su vida en un ensayo de inglés y se estresa por un exámen sobre Shakespeare que contará como el 20% de su calificación de inglés."
       },
       {
         "title": "El funeral de Canela",
@@ -484,14 +484,9 @@
     "type": "movie",
     "more": [
       {
-        "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
-        "name": "Psicosis",
-        "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
-      },
-      {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
@@ -539,18 +534,13 @@
     "age": "16+",
     "duration": "1h 47min",
     "name": "Eterno resplandor",
-    "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error.",
+    "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error.",
     "type": "movie",
     "more": [
       {
         "img": "https://i.postimg.cc/nzr3bFHc/psicosiscarousel.jpg",
         "name": "Psicosis",
         "description": "Una desleal empleada de una inmobiliaria escapa con un fajo de dinero para comenzar una nueva vida, pero termina en el oscuro motel Bates."
-      },
-      {
-        "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
-        "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
@@ -609,12 +599,7 @@
       {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
-      },
-      {
-        "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
-        "name": "El perfecto asesino",
-        "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/LsSxdhHn/obracarousel.jpg",
@@ -668,17 +653,12 @@
       {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
         "name": "El perfecto asesino",
         "description": "Un sicario no debe criar a nadie... Salvo que sea una niña con ambiciones criminales con su propia cuenta que cobrar."
-      },
-      {
-        "img": "https://i.postimg.cc/LsSxdhHn/obracarousel.jpg",
-        "name": "Mi obra maestra",
-        "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
       },
       {
         "img": "https://i.postimg.cc/6pnM1Cxk/ciudadcarousel.jpg",
@@ -727,7 +707,7 @@
       {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
@@ -738,11 +718,6 @@
         "img": "https://i.postimg.cc/LsSxdhHn/obracarousel.jpg",
         "name": "Mi obra maestra",
         "description": "Su trabajo está empeorando. Su memoria, también. Con el plan de su mejor amigo tal vez podrá alcanzar la gloria."
-      },
-      {
-        "img": "https://i.postimg.cc/6pnM1Cxk/ciudadcarousel.jpg",
-        "name": "Ciudad de Dios",
-        "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo."
       },
       {
         "img": "https://i.postimg.cc/vTCv0Zq8/reservoircarousel.jpg",
@@ -786,7 +761,7 @@
       {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
@@ -802,11 +777,6 @@
         "img": "https://i.postimg.cc/6pnM1Cxk/ciudadcarousel.jpg",
         "name": "Ciudad de Dios",
         "description": "Buscapé es un niño más en Ciudad de Dios, un peligroso suburbio de Río de Janeiro. Frágil y tímido para llevar una vida criminal como muchos otros niños de su edad, se dedica a observar la realidad y soñar con ser ser fotógrafo."
-      },
-      {
-        "img": "https://i.postimg.cc/vTCv0Zq8/reservoircarousel.jpg",
-        "name": "Perros de la calle",
-        "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
       },
       {
         "img": "https://i.postimg.cc/DZj6bg1X/shawshankcarousel.jpg",
@@ -845,7 +815,7 @@
       {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
@@ -866,11 +836,6 @@
         "img": "https://i.postimg.cc/vTCv0Zq8/reservoircarousel.jpg",
         "name": "Perros de la calle",
         "description": "Cuando un simple atraco de joyas sale terriblemente mal, los delincuentes sobrevivientes comienzan a sospechar que uno de ellos es un informante de la policía."
-      },
-      {
-        "img": "https://i.postimg.cc/DZj6bg1X/shawshankcarousel.jpg",
-        "name": "Sueños de libertad",
-        "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
       },
       {
         "img": "https://i.postimg.cc/1t5MtTVS/requiemcarousel.jpg",
@@ -904,7 +869,7 @@
       {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
@@ -930,11 +895,6 @@
         "img": "https://i.postimg.cc/DZj6bg1X/shawshankcarousel.jpg",
         "name": "Sueños de libertad",
         "description": "Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común."
-      },
-      {
-        "img": "https://i.postimg.cc/1t5MtTVS/requiemcarousel.jpg",
-        "name": "Réquiem por un sueño",
-        "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
       },
       {
         "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
@@ -963,7 +923,7 @@
       {
         "img": "https://i.postimg.cc/zvyjwgkP/eternalcarousel.jpg",
         "name": "Eterno resplandor",
-        "description": "Clementine decide hacerse extripar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
+        "description": "Clementine decide hacerse extirpar todos sus recuerdos de Joel y él elige lo mismo, pero pronto inicia un loco viaje por su propia mente al comprender que fue un error."
       },
       {
         "img": "https://i.postimg.cc/PqM2dhxK/leoncarousel.jpg",
@@ -994,11 +954,6 @@
         "img": "https://i.postimg.cc/1t5MtTVS/requiemcarousel.jpg",
         "name": "Réquiem por un sueño",
         "description": "Las utopías inducidas por las drogas de cuatro personas de Coney Island se hacen añicos cuando sus adicciones se intensifican."
-      },
-      {
-        "img": "https://i.postimg.cc/C5fJ5cB3/fightclubcarousel.jpg",
-        "name": "El club de la pelea",
-        "description": "Un oficinista con insomnio y un vendedor de jabón despreocupado forman un club de lucha clandestino que se convierte en mucho, mucho más grande."
       }
     ]
   },
@@ -1032,7 +987,7 @@
       {
         "title": "La carabina",
         "img": "https://i.postimg.cc/Mpm2mJzK/episode04.png",
-        "summary": "Fran y Maggie acaban peleandose después de que el novio de Maggie se interesa por Fran. Maxwell regala a C.C. un perro por su cumpleaños."
+        "summary": "Fran y Maggie acaban peleándose después de que el novio de Maggie se interesa por Fran. Maxwell regala a C.C. un perro por su cumpleaños."
       },
       {
         "title": "Cuando el río suena",
@@ -1047,7 +1002,7 @@
       {
         "title": "La amiga imaginaria",
         "img":  "https://i.postimg.cc/6qvF7DHK/episode07.png",
-        "summary": "Grace, la mas pequeña, se ha inventado un amigo imaginario, Imogene. Un día Grace acusa a Fran de haber matado accidentalmente a su querido amigo."
+        "summary": "Grace, la mas pequeña, se ha inventado un amigo imaginario, Imogene. Grace acusa a Fran de haber matado accidentalmente a su querido amigo."
       },
       {
         "title": "Una navidad especial",
@@ -1086,7 +1041,7 @@
       {
         "title": "El robo",
         "img": "https://i.postimg.cc/1zKmXN8B/episode03.jpg",
-        "summary": "Después de que robaran en el apartamento de Jerry, Jerry comienza a buscar otros apartamentos. Pero Jerry y George quieren el mismo apartamento, y Elaine quiere el apartamento de quien sale perdiendo."
+        "summary": "Después de que robaran en el apartamento de Jerry, él comienza a buscar otros lugares donde vivir. Pero Jerry y George quieren el mismo apartamento, y Elaine quiere el apartamento de quien sale perdiendo."
       },
       {
         "title": "Desenlace Masculino",
@@ -1111,7 +1066,7 @@
       {
         "title": "La chaqueta",
         "img": "https://i.postimg.cc/7YCZ96RP/episode08.jpg",
-        "summary": "Jerry se compra una chaqueta de pana verdaderamente cara y con un forro muy vistoso. George, en su línea, encuentra una canción de 'Los miserables' con la que se siente muy identificado."
+        "summary": "Jerry se compra una chaqueta de pana verdaderamente cara y con un forro muy vistoso. George encuentra una canción de 'Los miserables' con la que se siente muy identificado."
       },
       {
         "title": "El mensaje telefónico",
@@ -1170,7 +1125,7 @@
       {
         "title": "El duelo",
         "img": "https://i.postimg.cc/ZnDfbjPN/episode08.jpg",
-        "summary": "Ted reconsidera su oferta de dejarle a Lily vivir con él y Marshall. Barney intenta revolucionar la primera cita."
+        "summary": "Ted reconsidera su oferta de dejar que Lily viva con él y Marshall. Barney intenta revolucionar la primera cita."
       },
       {
         "title": "Atracón de pavo",
@@ -1258,7 +1213,7 @@
       {
         "title": "Nuevos aires",
         "img": "https://i.postimg.cc/43jG2bHW/episode02.jpg",
-        "summary": "Will tendrá que decidir si va a apoyar la independencia de Grace ayudandola a mudarse a un apartamento en el otro lado de la ciudad o ser egoista e invitarla a compartir su apartamento con el."
+        "summary": "Will tendrá que decidir si va a apoyar la independencia de Grace ayudándola a mudarse a un apartamento en el otro lado de la ciudad o invitarla a compartir su apartamento con él."
       },
       {
         "title": "Head Case",
@@ -1268,7 +1223,7 @@
       {
         "title": "Entre el rock y el apartamento de Harlin",
         "img": "https://i.postimg.cc/G2YCW8kd/episode04.jpg",
-        "summary": "Cuando Grace está decorando el apartamento de Harlin, se entusiasma con el estilo vaquero. Will estan tan impactado como avergonzado por lo que ha hecho y esto provoca un lio mayor."
+        "summary": "Cuando Grace está decorando el apartamento de Harlin, se entusiasma con el estilo vaquero. Will está tan impactado como avergonzado por lo que ha hecho y esto provoca un lío mayor."
       },
       {
         "title": "Boo! Humbug",
@@ -1352,7 +1307,7 @@
       {
         "title": "Magnicidas",
         "img": "https://i.postimg.cc/BQxwrWXW/episode09.jpg",
-        "summary": "A medida que crece la tensión entre Felipe e Isabel, esta pasa más tiempo con su viejo amigo Porchey. Churchill cumple 80 años y le pintan un retrato."
+        "summary": "A medida que crece la tensión entre Felipe e Isabel, ésta pasa más tiempo con su viejo amigo Porchey. Churchill cumple 80 años y le pintan un retrato."
       }
     ]
   },
@@ -1376,7 +1331,7 @@
       {
         "title": "Episodio Dos",
         "img": "https://i.postimg.cc/WzPb4LjR/episode02.jpg",
-        "summary": "Mateo Crawley y su madre Isobel llegan a Downton, Isobel y la Condesa de Viuda Violet encuentra que sus opiniones chocan. Matthew tiene dificultad para adaptarse a su nueva vida."
+        "summary": "Mateo Crawley y su madre Isobel llegan a Downton. Isobel y la Condesa de Viuda Violet descubren que sus opiniones chocan. Matthew tiene dificultad para adaptarse a su nueva vida."
       },
       {
         "title": "Episodio Tres",
@@ -1396,7 +1351,7 @@
       {
         "title": "Episodio Seis",
         "img": "https://i.postimg.cc/rySwPmCq/episode06.jpg",
-        "summary": "Gwen está triste porque ve que sus esfuerzos no tiene recompensa y está decidida a tirar la toalla. Sybill le pide que no abandone su sueño porque está convencida de que finalmente, lo logrará."
+        "summary": "Gwen está triste porque ve que sus esfuerzos no tienen recompensa y está decidida a tirar la toalla. Sybill le pide que no abandone su sueño porque está convencida de que finalmente, lo logrará."
       },
       {
         "title": "Episodio Siete",
@@ -1406,7 +1361,7 @@
       {
         "title": "Episodio Ocho",
         "img": "https://i.postimg.cc/4NPNXSSM/episode08.jpg",
-        "summary": "La familia Crawley y sus sirvientes muy ocupados preparando un concierto para recaudar fondos para poder equipar el hospital del pueblo."
+        "summary": "La familia Crawley y sus sirvientes están muy ocupados preparando un concierto para recaudar fondos para poder equipar el hospital del pueblo."
       },
       {
         "title": "Episodio Nueve",
@@ -1440,7 +1395,7 @@
       {
         "title": "La huida",
         "img": "https://i.postimg.cc/SRq2vznz/episode03.jpg",
-        "summary": "Las habilidades de Claire como curandera le ponen en contra del cura del pueblo al salvar la vida de un niño lo que genera más sospechas en su contra."
+        "summary": "Las habilidades de Claire como curandera le ponen en contra del cura del pueblo al salvar la vida de un niño, lo que genera más sospechas en su contra."
       },
       {
         "title": "La reunión",
