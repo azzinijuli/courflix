@@ -3,6 +3,7 @@ import '../Navbar/style.scss'
 import logo from '../../assets/logo.png'
 import BurgerMenu from '../../components/BurgerMenu'
 import { withRouter } from "react-router"
+import { Link } from 'react-router-dom'
 import { Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 
 class Navbar extends React.Component{
@@ -31,21 +32,34 @@ class Navbar extends React.Component{
 
   
   render() {
-
+    const { isOpen } = this.state
+    const path = this.props.location.pathname
     return(
       <>
         <div className="navbar-wrapper">
         <BurgerMenu 
-          propDePrueba={(isOpen)=>this.handleCallback(isOpen)}
+          handleCallback={(isOpen)=>this.handleCallback(isOpen)}
         />
         <img src={logo} alt="logo" className="logo" />
-          <ul className={`navbar-elements ${this.state.isOpen ? 'show' : ''}`}>
-            <li className="navbar-element" >Inicio</li>
+        {path == "/" ?
+          <ul className={`navbar-elements ${isOpen ? 'show' : ''}`}>
+            <li className="navbar-element" onClick={()=> this.handleClick("home")}>Inicio</li>
             <li className="navbar-element" onClick={()=> this.handleClick("series")}>Series</li>
             <li className="navbar-element" onClick={()=> this.handleClick("movies")}>Películas</li>
-            <li className="navbar-element" onClick={()=> this.handleClick("recommended")}>Agregados recientemente</li>
+            <li className="navbar-element" onClick={()=> this.handleClick("recommended")}>Recomendadas</li>
             <li className="navbar-element">Mi lista</li>
           </ul>
+        :
+        <Link to="/">
+          <ul className={`navbar-elements ${isOpen ? 'show' : ''}`}>
+            <li className="navbar-element">Inicio</li>
+            <li className="navbar-element" onClick={()=> this.handleClick("series")}>Series</li>
+            <li className="navbar-element" onClick={()=> this.handleClick("movies")}>Películas</li>
+            <li className="navbar-element" onClick={()=> this.handleClick("recommended")}>Recomendadas</li>
+            <li className="navbar-element">Mi lista</li>
+          </ul>
+        </Link>
+        }
         </div>
       </>
     )

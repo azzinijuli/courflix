@@ -17,7 +17,7 @@ class BurgerMenu extends React.Component {
     this.setState ({ 
       active: !this.state.active 
     })
-    this.props.propDePrueba(this.state.active)
+    this.props.handleCallback(this.state.active)
   }
   
   render() {

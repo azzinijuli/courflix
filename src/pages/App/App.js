@@ -41,22 +41,24 @@ class App extends React.Component {
     return(
       <>
         <Navbar />
-        <Hero 
-          title={series[0].name}
-          desc={series[0].description}
-          img={series[0].backdrop}
-          percent={series[0].percentage}
-          age={series[0].age}
-          year={series[0].year}
-          long={series[0].duration}
-        />
-        <Element id="series" name="series">
+        <Element id={"home"}>
+          <Hero 
+            title={series[0].name}
+            desc={series[0].description}
+            img={series[0].backdrop}
+            percent={series[0].percentage}
+            age={series[0].age}
+            year={series[0].year}
+            long={series[0].duration}
+          />
+        </Element>
+        <Element id="series">
           <Carousel title="Series" filter={shows} />
         </Element>
-        <Element id="movies" name="movies">
+        <Element id="movies">
           <Carousel title="Películas" filter={movies}/>
         </Element>
-        <Element id="recommended" name="recommended">
+        <Element id="recommended">
           <Carousel title="Recomendadas para ti" filter={recommended} />
         </Element>
       </>

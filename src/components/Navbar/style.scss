@@ -4,13 +4,15 @@
   position: fixed;
   background-color: #000000a8;
   width: 100%;
-  z-index: 999999999;
-  position: relative;
+  z-index: 999999;
   .logo{
     padding: 0.5rem 3rem;
     @media screen and (max-width: 768px) {
       padding: 0.5rem 1rem;
     }
+  }
+  a {
+    text-decoration: none;
   }
   .navbar-elements {
     display: inline-flex;
