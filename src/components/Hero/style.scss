@@ -15,7 +15,7 @@
       margin-left: 3rem;
       max-width: 550px;
       @media screen and (max-width: 768px) {
-        max-width: 350px
+        max-width: 400px
       }
       .hero-title{
         padding: 9rem 0 1rem 0;
@@ -55,23 +55,60 @@
           }
         }
       } 
-      .button{
-        display: inline-flex;
-        padding: 1rem 2rem;
-        background: #a3a3a3cb;
-        border-radius: 9px;
-        margin-right: 1.8rem;
-        border: none;
-        font-family: 'Open Sans', sans-serif;
-        font-size: 1rem;
-        color: white;
-        &:hover {
-          cursor: pointer;
-          background-color: #818080da;
-          transition: 0.3s;
+      .button-container {
+        display: flex;
+        align-items: center;
+        .button{
+          display: inline-flex;
+          padding: 1rem 2rem;
+          background: #a3a3a3cb;
+          border-radius: 9px;
+          margin-right: 1.8rem;
+          border: none;
+          font-family: 'Open Sans', sans-serif;
+          font-size: 1rem;
+          color: white;
+          &:hover {
+            cursor: pointer;
+            background-color: #818080da;
+            transition: 0.3s;
+          }
+          @media screen and (max-width: 768px) {
+            padding: 0.5rem 1rem;
+            margin-right: 1rem;
+          }
         }
-        @media screen and (max-width: 768px) {
-          padding: 0.5rem 1rem;
+        .thumbs-container {
+          display: flex;
+          align-items: center;
+          :active{
+            transform: scale(0.89);
+            transition: 0.3s ease-in-out;
+          }
+          .thumb {
+            color: white;
+            margin-right: 1rem;
+            font-size: 1.5rem;
+            border: 2px solid white;
+            padding: 10px;
+            border-radius: 30px;
+            @media screen and (max-width: 480px) {
+              display: none;
+            }
+            &:hover{
+              cursor: pointer;
+            }
+            &.like{
+              transition: 0.2s ease-in-out;
+              border: 2px solid  #20a0008c;
+              color: #20a0008c;
+            }
+            &.dislike{
+              transition: 0.2s ease-in-out;
+              border: 2px solid  #a000008a;
+              color: #a000008a;
+            }
+          }
         }
       }
       .hero-description{

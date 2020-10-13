@@ -42,7 +42,7 @@ class Navbar extends React.Component{
         />
         <img src={logo} alt="logo" className="logo" />
         {path == "/" ?
-          <ul className={`navbar-elements ${isOpen ? 'show' : ''}`}>
+          <ul className={`navbar-elements ${isOpen && "show"}`}>
             <li className="navbar-element" onClick={()=> this.handleClick("home")}>Inicio</li>
             <li className="navbar-element" onClick={()=> this.handleClick("series")}>Series</li>
             <li className="navbar-element" onClick={()=> this.handleClick("movies")}>Películas</li>
@@ -51,7 +51,7 @@ class Navbar extends React.Component{
           </ul>
         :
         <Link to="/">
-          <ul className={`navbar-elements ${isOpen ? 'show' : ''}`}>
+          <ul className={`navbar-elements ${isOpen && "show"}`}>
             <li className="navbar-element">Inicio</li>
             <li className="navbar-element" onClick={()=> this.handleClick("series")}>Series</li>
             <li className="navbar-element" onClick={()=> this.handleClick("movies")}>Películas</li>

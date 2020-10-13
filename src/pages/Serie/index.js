@@ -9,6 +9,7 @@ class serie extends React.Component{
   constructor(props){
     super(props);
     this.state = {
+      id: '',
       backdrop: '',
       year: '',
       percent: '',
@@ -28,6 +29,7 @@ class serie extends React.Component{
     })
         
     this.setState({
+      id: filtered[0].id,
       backdrop: filtered[0].backdrop,
       year: filtered[0].year,
       percent: filtered[0].percentage,
@@ -41,11 +43,12 @@ class serie extends React.Component{
   }
   
   render() {
-    const { name, desc, backdrop, percent, age, year, long, type, more } = this.state
+    const { id, name, desc, backdrop, percent, age, year, long, type, more } = this.state
     return(
       <>
         <Navbar />
         <Hero 
+          id={id}
           title={name}
           desc={desc}
           img={backdrop}
@@ -58,7 +61,7 @@ class serie extends React.Component{
           more={more}
           type={type}
           title={"Episodios"}
-          titleMovies={"Películas similares"}
+          titleMovies={"Más títulos similares a este"}
         />
       </>
     )
