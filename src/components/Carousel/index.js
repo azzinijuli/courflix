@@ -4,14 +4,14 @@ import InnerCarousel from '../InnerCarousel'
 
 class Carousel extends React.Component{ 
   render(){
-    const { type } = this.props
+    const { type, titleMovies, title, filter, more } = this.props
     return(
       <>
       {type == "movie" ? 
-      <p className="carousel-title">{this.props.titleMovies}</p> :
-      <p className="carousel-title">{this.props.title}</p>
+      <p className="carousel-title">{titleMovies}</p> :
+      <p className="carousel-title">{title}</p>
       }
-      <InnerCarousel filter={this.props.filter} more={this.props.more}/>
+      <InnerCarousel filter={filter} more={more}/>
       </>
     )
   }

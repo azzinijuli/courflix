@@ -78,11 +78,8 @@ class InnerCarousel extends React.Component{
         <Slider {...this.settings}>
           {filter.map((serie, key)=> {
             return (
-            <Link to={`/series-and-movies/${serie.id}`}>
-              <Card 
-                key={key} 
-                serie={serie} 
-              />
+            <Link to={`/series-and-movies/${serie.id}`} key={key} >
+              <Card serie={serie} />
             </Link>
             )
           })}
@@ -91,10 +88,7 @@ class InnerCarousel extends React.Component{
         <Slider {...this.settings}> 
           {more.map((item, key)=>{
             return(
-              <Card 
-              key={key} 
-              item={item} 
-              />
+              <Card key={key} item={item} />
             )
           })}
         </Slider>

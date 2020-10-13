@@ -9,22 +9,22 @@ class BurgerMenu extends React.Component {
       active: false
     };
   }
- /*pasar esto al Navbar y después pasarlo acá como props
-   una vez hecho eso, verificar el toggle de estado en navbar
-   {() => this.setState({ active: !this.props.active })}
-   */ 
+
   handleClick() {
+    const { active } = this.state
+    const { handleCallback } = this.props
     this.setState ({ 
-      active: !this.state.active 
+      active: !active 
     })
-    this.props.handleCallback(this.state.active)
+    handleCallback(active)
   }
   
   render() {
+    const { active } = this.state
     return (
       <div className="burger-menu">
       <Hamburger
-        active={this.state.active}
+        active={active}
         type="slider"
         onClick={() => this.handleClick()}
       />
